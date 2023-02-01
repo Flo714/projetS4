@@ -33,9 +33,15 @@
             <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
               <RouterLink class="px-3" to="/MapOSM">Contact</RouterLink>
             </li> 
+            <li>
+              <img class="" src="images/Instagram.webp" alt="">
+            </li>
+            <li>
+              <img class="" src="images/linkedin.webp" alt="">
+            </li>
           </ul>
         </Transition>
-        <ul class="lg:flex items-center align-baseline text-xl mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
+        <ul class="lg:flex items-center align-baseline text-base mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
           <li class="">
             <RouterLink class="px-12 py-3 duration-500 hover:bg-black hover:text-white hover:p-4 hover:px-6 hover:text-2xl xl:hover:p-10" to="/LineSup">Travaux</RouterLink>
           </li>
