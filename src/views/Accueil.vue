@@ -1,6 +1,6 @@
 <template>
-  <main>
-    <h1 class="text-2xl">Bonjour</h1>
+  <main class="bg-black">
+
   </main>
 </template>
 
