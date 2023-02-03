@@ -1,22 +1,23 @@
 <template>
   <main class="bg-black text-white font-raleway font-semibold">
+    <div class="bg-[url('/images/Logo_portefolio.png')] static">
+    </div>
     <div>
-      <div class="p-8 mt-20">
-        <h1 class="text-3xl">Florentin </h1>
-        <h1 class="text-3xl ml-3 m-1">Demortiere</h1>
+        <div class="p-8 mt-20">
+          <h1 class="text-3xl">Florentin </h1>
+          <h1 class="text-3xl ml-3 m-1">Demortiere</h1>
+        </div>
+        <div>
+          <p class="text-xs m-12 pr-8 -mt-6 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
+        </div>
       </div>
-      <div>
-        <p class="text-xs m-12 pr-8 -mt-6 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
+      <div class="">
+        <button class="bg-white flex gap-2 px-6 py-2 rounded-full place-items-center ml-10">
+          <p class="text-black font-bold">Me contacter</p>
+          <img class="" src="images/fleche.png" alt="fleche">
+        </button>
       </div>
-    </div>
-    <div class="">
-      <button class="bg-white flex gap-2 px-6 py-2 rounded-full place-items-center ml-10">
-        <p class="text-black font-bold">Me contacter</p>
-        <img class="" src="images/fleche.png" alt="fleche">
-      </button>
-    </div>
-      <img class="w-80 absolute bottom-12 -right-20" src="gif_portefolio.gif" alt="gif animé">
-
+        <img class="w-40 absolute bottom-12 right-4" src="gif1_pf.gif" alt="gif animé">
   </main>
 </template>
 
