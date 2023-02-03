@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <header class="font-raleway italic font-extrabold">
         <nav class="lg:flex lg:justify-between">
         <div class="flex justify-between m-4">
           <div class="flex items-center">
@@ -43,13 +43,19 @@
         </Transition>
         <ul class="lg:flex items-center align-baseline text-base mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
           <li class="">
-            <RouterLink class="px-12 py-3 duration-500 hover:bg-black hover:text-white hover:p-4 hover:px-6 hover:text-2xl xl:hover:p-10" to="/LineSup">Travaux</RouterLink>
+            <RouterLink class="px-8 py-4" to="/Travaux">Travaux</RouterLink>
           </li>
           <li class="">
-            <RouterLink class="px-12 py-3 duration-500 hover:bg-black hover:text-white hover:p-4 hover:px-6 hover:text-2xl xl:hover:p-10" to="/Barbac">A propos</RouterLink>
+            <RouterLink class="px-8 py-4" to="/Apropos">A propos</RouterLink>
           </li>
           <li class="">
-            <RouterLink class="px-12 py-3 duration-500 hover:bg-black hover:text-white hover:p-4 hover:px-6 hover:text-2xl xl:hover:p-10" to="/Donuts">Contact</RouterLink>
+            <RouterLink class="px-8 py-4" to="/Contact">Contact</RouterLink>
+          </li>
+          <li>
+            <img class="w-6 mx-8 my-3" src="images/Instagram.webp" alt=""> 
+          </li>
+          <li>
+            <img class="w-6 mx-8 my-3"  src="images/linkedin.webp" alt=""> 
           </li>
         </ul>
       </nav>
