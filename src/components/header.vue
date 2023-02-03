@@ -41,15 +41,15 @@
             </li>
           </ul>
         </Transition>
-        <ul class="lg:flex items-center align-baseline text-base mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
+        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
           <li class="">
-            <RouterLink class="px-8 py-4" to="/Travaux">Travaux</RouterLink>
+            <RouterLink class="px-6 py-4" to="/Travaux">Travaux</RouterLink>
           </li>
           <li class="">
-            <RouterLink class="px-8 py-4" to="/Apropos">A propos</RouterLink>
+            <RouterLink class="px-6 py-4" to="/Apropos">A propos</RouterLink>
           </li>
           <li class="">
-            <RouterLink class="px-8 py-4" to="/Contact">Contact</RouterLink>
+            <RouterLink class="px-6 py-4" to="/Contact">Contact</RouterLink>
           </li>
           <li>
             <img class="w-6 mx-8 my-3" src="images/Instagram.webp" alt=""> 
