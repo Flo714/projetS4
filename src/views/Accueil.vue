@@ -1,4 +1,65 @@
 <template>
+      <header class="font-raleway italic font-extrabold">
+        <nav class="lg:flex lg:justify-between">
+        <div class="flex justify-between m-4">
+          <div class="flex items-center">
+            <RouterLink to="/">
+              <img class="w-16" src="images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
+            </RouterLink>
+          </div>
+          <div class="flex justify-between items-center">
+            <span class="text-3xl cursor-pointer lg:hidden block w-12">
+              <img class=""  aria-controls="menu"
+               :aria-expanded="menuOuvert"
+               @click="menuOuvert = !menuOuvert" src="images/Menu.png" alt="Logo Menu" />
+              <span class="sr-only ">Menu</span>
+            </span>
+          </div>
+        </div>
+        <Transition
+          enter="transition duration-2000 ease-out"
+          enterFrom="transform translate-x-full opacity-0"
+          enterTo="transform translate-x-0 opacity-100"
+          leave="transition duration-1750 ease-out"
+          leaveFrom="transform  translate-x-0 opacity-100"
+          leaveTo="transform translate-x-full opacity-0">
+          <ul id="menu" v-if="menuOuvert" class="lg:hidden w-full py-4 text-center grid grid-cols-3 rounded-xl text-xs font-bold text-white" >
+            <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
+             <a href="#travaux">Projets</a>
+            </li>
+            <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
+              <RouterLink class="px-3" to="/BarBac">A propos</RouterLink>
+            </li>
+            <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
+              <RouterLink class="px-3" to="/MapOSM">Contact</RouterLink>
+            </li> 
+            <li>
+              <img class="" src="images/Instagram.webp" alt="">
+            </li>
+            <li>
+              <img class="" src="images/linkedin.webp" alt="">
+            </li>
+          </ul>
+        </Transition>
+        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
+          <li class="">
+            <a href="#travaux">Travaux</a>
+          </li>
+          <li class="">
+            <RouterLink class="px-6 py-4" to="/Apropos">A propos</RouterLink>
+          </li>
+          <li class="">
+            <RouterLink class="px-6 py-4" to="/Contact">Contact</RouterLink>
+          </li>
+          <li>
+            <img class="w-6 mx-8 my-3" src="images/Instagram.webp" alt=""> 
+          </li>
+          <li>
+            <img class="w-6 mx-8 my-3"  src="images/linkedin.webp" alt=""> 
+          </li>
+        </ul>
+      </nav>
+    </header>
   <main class="bg-black text-white font-raleway font-semibold">
     <div>
       <img class="w-80 absolute top-0 right-0" src="/images/Ellipse.png" alt="">
@@ -22,7 +83,7 @@
       <div>
         <img class="w-40 absolute bottom-12 right-4" src="gif1_pf.gif" alt="gif animé">
       </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 mt-40 mx-20 relative">
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 mt-40 mx-20 relative" id="travaux">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
@@ -38,7 +99,7 @@
           <p class="ml-8 mt-10">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
         </div>
       </div>
-      <div class="grid grid-cols-3 mt-32 mx-20">
+      <div class="grid grid-cols-3 mt-32 mx-20 ml-40">
         <div class="border-r-2 mx-8">
           <p>Contact</p>
           <div class="mt-6 mx-2">
@@ -61,7 +122,7 @@
           </div>
         </div>
       </div>
-      <div class="text-xs flex justify-between mx-2 my-1 mt-20">
+      <div class="text-xs italic flex justify-between mx-2 my-1 mt-20">
         <p class="">Florentin Demortiere</p>
         <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
       </div>

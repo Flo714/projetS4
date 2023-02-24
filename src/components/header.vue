@@ -25,7 +25,7 @@
           leaveTo="transform translate-x-full opacity-0">
           <ul id="menu" v-if="menuOuvert" class="lg:hidden w-full py-4 text-center grid grid-cols-3 rounded-xl text-xs font-bold text-white" >
             <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
-              <RouterLink class="px-3" to="/LineSup">Travaux</RouterLink>
+             <a href="#travaux">Projets</a>
             </li>
             <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
               <RouterLink class="px-3" to="/BarBac">A propos</RouterLink>
@@ -43,7 +43,7 @@
         </Transition>
         <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
           <li class="">
-            <RouterLink class="px-6 py-4" to="/Travaux">Travaux</RouterLink>
+            <a href="#travaux">Travaux</a>
           </li>
           <li class="">
             <RouterLink class="px-6 py-4" to="/Apropos">A propos</RouterLink>
