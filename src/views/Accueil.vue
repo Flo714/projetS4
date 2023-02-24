@@ -3,7 +3,7 @@
     <div>
       <img class="w-80 absolute top-0 right-0" src="/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed ml-52 opacity-20 z-0" src="/images/Logo_portefolio.png" alt="Logo">
+    <img class="fixed ml-52 opacity-20 z-0 mb-20" src="/images/Logo_portefolio.png" alt="Logo">
     <div class="">
         <div class="p-8 mt-20">
           <h1 class="text-3xl">Florentin </h1>
@@ -31,7 +31,7 @@
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
       </div>
       <div class="relative mt-40 flex gap-20 mx-28">
-        <img class="w-56" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
+        <img class="w-56 rounded-sm" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
         <div class="mt-10">
           <p class="text-4xl font-bold">Florentin <br> 
           Demortiere</p>
@@ -39,23 +39,31 @@
         </div>
       </div>
       <div class="grid grid-cols-3 mt-32 mx-20">
-        <div>
+        <div class="border-r-2 mx-8">
           <p>Contact</p>
-          <p>flo.demortiere@laposte.net</p>
-          <p>07 66 11 98 17</p>
+          <div class="mt-6 mx-2">
+            <p class="text-xs opacity-70">flo.demortiere@laposte.net</p>
+            <p class="text-xs opacity-70 my-4">07 66 11 98 17</p>
+          </div>
         </div>
-        <div>
-          <p>Localisation</p>
-          <p>1 Rue Charles Goguel</p>
-          <p>25200 Montbéliard</p>
+        <div class="border-r-2 mx-8">
+          <p class="">Localisation</p>
+          <div class="mt-6 mx-2">
+            <p class="text-xs opacity-70">1 Rue Charles Goguel</p>
+            <p class="text-xs opacity-70 my-4">25200 Montbéliard</p>
+          </div>
         </div>
         <div>
           <p>Réseaux social</p>
-          <div class="flex gap-4 mx-4">
+          <div class="flex gap-8 mx-4 my-8">
             <img class="w-6" src="/images/Instagram.webp" alt="Logo Instagram">
-            <img class="w-6" src="/images/linkedin.webp" alt="Logo Instagram">
+            <img class="w-6 " src="/images/linkedin.webp" alt="Logo Instagram">
           </div>
         </div>
+      </div>
+      <div class="text-xs flex justify-between mx-2 my-1 mt-20">
+        <p class="">Florentin Demortiere</p>
+        <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
       </div>
   </main>
 </template>
