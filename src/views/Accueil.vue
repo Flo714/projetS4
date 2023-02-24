@@ -3,7 +3,7 @@
     <div>
       <img class="w-80 absolute top-0 right-0" src="/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed ml-52 opacity-40 z-0" src="/images/Logo_portefolio.png" alt="Logo">
+    <img class="fixed ml-52 opacity-20 z-0" src="/images/Logo_portefolio.png" alt="Logo">
     <div class="">
         <div class="p-8 mt-20">
           <h1 class="text-3xl">Florentin </h1>
@@ -30,8 +30,32 @@
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
       </div>
-      <div>
-        
+      <div class="relative mt-40 flex gap-20 mx-28">
+        <img class="w-56" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
+        <div class="mt-10">
+          <p class="text-4xl font-bold">Florentin <br> 
+          Demortiere</p>
+          <p class="ml-8 mt-10">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
+        </div>
+      </div>
+      <div class="grid grid-cols-3 mt-32 mx-20">
+        <div>
+          <p>Contact</p>
+          <p>flo.demortiere@laposte.net</p>
+          <p>07 66 11 98 17</p>
+        </div>
+        <div>
+          <p>Localisation</p>
+          <p>1 Rue Charles Goguel</p>
+          <p>25200 Montbéliard</p>
+        </div>
+        <div>
+          <p>Réseaux social</p>
+          <div class="flex gap-4 mx-4">
+            <img class="w-6" src="/images/Instagram.webp" alt="Logo Instagram">
+            <img class="w-6" src="/images/linkedin.webp" alt="Logo Instagram">
+          </div>
+        </div>
       </div>
   </main>
 </template>
