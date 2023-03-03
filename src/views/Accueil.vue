@@ -1,5 +1,5 @@
 <template>
-      <header class="font-raleway italic font-extrabold">
+      <header class="font-raleway italic font-extrabold z-10">
         <nav class="lg:flex lg:justify-between">
         <div class="flex justify-between m-4">
           <div class="flex items-center">
@@ -43,13 +43,13 @@
         </Transition>
         <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
           <li class="">
-            <a href="#travaux">Travaux</a>
+            <a class="px-6 py-4" href="#travaux">Travaux</a>
           </li>
           <li class="">
-            <RouterLink class="px-6 py-4" to="/Apropos">A propos</RouterLink>
+            <a class="px-6 py-4" href="#perso">A propos</a>
           </li>
           <li class="">
-            <RouterLink class="px-6 py-4" to="/Contact">Contact</RouterLink>
+            <a class="px-6 py-4" href="#contact">Contact</a>
           </li>
           <li>
             <img class="w-6 mx-8 my-3" src="images/Instagram.webp" alt=""> 
@@ -62,7 +62,7 @@
     </header>
   <main class="bg-black text-white font-raleway font-semibold">
     <div>
-      <img class="w-80 absolute top-0 right-0" src="/images/Ellipse.png" alt="">
+      <img class="w-80 absolute top-0 right-0 z-0" src="/images/Ellipse.png" alt="">
     </div>
     <img class="fixed ml-52 opacity-20 z-0 mb-20" src="/images/Logo_portefolio.png" alt="Logo">
     <div class="">
@@ -83,7 +83,7 @@
       <div>
         <img class="w-40 absolute bottom-12 right-4" src="gif1_pf.gif" alt="gif animé">
       </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 mt-40 mx-20 relative" id="travaux">
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 pt-32 px-20 relative" id="travaux">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
@@ -91,7 +91,7 @@
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
       </div>
-      <div class="relative mt-40 flex gap-20 mx-28">
+      <div class="relative mt-28 pt-16 flex gap-20 mx-28" id="perso">
         <img class="w-56 rounded-sm" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
         <div class="mt-10">
           <p class="text-4xl font-bold">Florentin <br> 
@@ -99,7 +99,7 @@
           <p class="ml-8 mt-10">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
         </div>
       </div>
-      <div class="grid grid-cols-3 mt-32 mx-20 ml-40">
+      <div class="grid grid-cols-3 mt-32 mx-20 ml-40" id="contact">
         <div class="border-r-2 mx-8">
           <p>Contact</p>
           <div class="mt-6 mx-2">
