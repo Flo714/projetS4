@@ -1,5 +1,5 @@
 <template>
-      <header class="font-raleway italic font-extrabold relative z-20">
+    <header class="font-raleway italic font-extrabold relative z-20">
         <nav class="lg:flex lg:justify-between">
         <div class="flex justify-between m-4">
           <div class="flex items-center">
@@ -103,7 +103,7 @@
           <p class="ml-8 mt-10">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
         </div>
       </div>
-      <div class="grid grid-cols-3 mt-32 mx-20 ml-40" id="contact">
+      <div class="grid grid-cols-3 mt-28 mb-28 mx-20 ml-40" id="contact">
         <div class="border-r-2 mx-8">
           <p>Contact</p>
           <div class="mt-6 mx-2">
@@ -148,3 +148,25 @@ export default {
 }
 
 </script>
+
+<style>
+
+/* Cibler la scrollbar de WebKit */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Cibler la piste de la scrollbar */
+
+
+/* Cibler le "pouce" de la scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #fff;
+  border-radius: 15px;
+}
+
+/* Ajouter une ombre à la scrollbar */
+::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
+</style>
