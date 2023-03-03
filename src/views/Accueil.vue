@@ -84,7 +84,7 @@
         <img class="w-40 absolute bottom-12 right-4" src="gif1_pf.gif" alt="gif animé">
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 pt-32 px-20 relative" id="travaux">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
+        <RouterLink to="/Projet1"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
@@ -133,10 +133,12 @@
 </template>
 
 <script>
+import { RouterLink } from 'vue-router';
+
 
 export default {
   name: "App",
-  components: {  },
+  components: { RouterLink },
     data() {
     return {
       menuOuvert: false,
