@@ -1,5 +1,5 @@
 <template>
-      <header class="font-raleway italic font-extrabold z-10">
+      <header class="font-raleway italic font-extrabold relative z-20">
         <nav class="lg:flex lg:justify-between">
         <div class="flex justify-between m-4">
           <div class="flex items-center">
@@ -62,7 +62,7 @@
     </header>
   <main class="bg-black text-white font-raleway font-semibold">
     <div>
-      <img class="w-80 absolute top-0 right-0 z-0" src="/images/Ellipse.png" alt="">
+      <img class="w-80 top-0 right-0 absolute z-10" src="/images/Ellipse.png" alt="">
     </div>
     <img class="fixed ml-52 opacity-20 z-0 mb-20" src="/images/Logo_portefolio.png" alt="Logo">
     <div class="">
@@ -84,6 +84,9 @@
         <img class="w-40 absolute bottom-12 right-4" src="gif1_pf.gif" alt="gif animé">
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 pt-32 px-20 relative" id="travaux">
+        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
+        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
+        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
         <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
