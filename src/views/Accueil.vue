@@ -85,14 +85,15 @@
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 pt-32 px-20 relative" id="travaux">
         <RouterLink to="/Projet1"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
-        <img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite">
+        <RouterLink to="/Projet2"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Projet3"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Projet4"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Projet5"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Projet6"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Projet7"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Projet8"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Projet9"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+
       </div>
       <div class="relative mt-28 pt-16 flex gap-20 mx-28" id="perso">
         <img class="w-56 rounded-sm" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
