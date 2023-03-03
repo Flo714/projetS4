@@ -4,7 +4,7 @@
         <div class="flex justify-between m-4">
           <div class="flex items-center">
             <RouterLink to="/">
-              <img class="w-16" src="images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
+              <img class="w-20 animate__animated animate__backInLeft" src="images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
             </RouterLink>
           </div>
           <div class="flex justify-between items-center">
@@ -41,21 +41,21 @@
             </li>
           </ul>
         </Transition>
-        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white" >
+        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white animate__animated animate__backInRight" >
           <li class="">
-            <a class="px-6 py-4" href="#travaux">Travaux</a>
+            <a class="px-10 py-4" href="#travaux">Travaux</a>
           </li>
           <li class="">
-            <a class="px-6 py-4" href="#perso">A propos</a>
+            <a class="px-10 py-4" href="#perso">A propos</a>
           </li>
           <li class="">
-            <a class="px-6 py-4" href="#contact">Contact</a>
+            <a class="px-10 py-4" href="#contact">Contact</a>
           </li>
           <li>
-            <img class="w-6 mx-8 my-3" src="images/Instagram.webp" alt=""> 
+            <img class="w-6 mx-10 my-3" src="images/Instagram.webp" alt=""> 
           </li>
           <li>
-            <img class="w-6 mx-8 my-3"  src="images/linkedin.webp" alt=""> 
+            <img class="w-6 mx-10 my-3"  src="images/linkedin.webp" alt=""> 
           </li>
         </ul>
       </nav>
@@ -64,35 +64,35 @@
     <div>
       <img class="w-80 top-0 right-0 absolute z-10" src="/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed ml-52 opacity-20 z-0 mb-20" src="/images/Logo_portefolio.png" alt="Logo">
-    <div class="">
+    <img class="fixed flex items-center justify-center opacity-20 ml-[30%] w-[40%]" src="/images/Logo_portefolio.png" alt="Logo">
+    <div class="my-32">
+      <div class="animate__animated animate__backInLeft mx-16">
         <div class="p-8 mt-20">
-          <h1 class="text-3xl">Florentin </h1>
-          <h1 class="text-3xl ml-3 m-1">Demortiere</h1>
+          <h1 class="text-7xl">Florentin </h1>
+          <h1 class="text-7xl ml-3 m-1">Demortiere</h1>
         </div>
         <div>
-          <p class="text-xs m-12 pr-8 -mt-6 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
+          <p class="text-xl m-12 pr-8 -mt-6 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
         </div>
       </div>
-      <div class="ml-8">
-        <button class="bg-white flex gap-2 px-3 py-2 rounded-full place-items-center ml-10">
-          <p class="text-black font-bold text-sm">Me contacter</p>
+      <div class="ml-52 animate__animated animate__backInLeft">
+        <button class="bg-white flex gap-2 px-6 py-4 rounded-full place-items-center ml-10">
+          <p class="text-black font-bold text-xl">Me contacter</p>
           <img class="" src="images/fleche.png" alt="fleche">
         </button>
       </div>
       <div>
-        <img class="w-40 absolute bottom-12 right-4" src="gif1_pf.gif" alt="gif animé">
+        <img class="w-40 absolute bottom-12 right-4 animate__animated animate__rotateIn" src="gif1_pf.gif" alt="gif animé">
       </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 pt-32 px-20 relative" id="travaux">
-        <RouterLink to="/Projet1"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet2"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet3"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet4"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet5"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet6"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet7"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet8"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Projet9"><img src="/images/Aide_reussite.png" alt="Logo Aide à la reussite"></RouterLink>
+    </div>
+      <div class="grid grid-cols-1 grid-flow-row-dense sm:grid-cols-2 md:grid-cols-3 gap-10 pt-32 px-20 relative " id="travaux">
+        <RouterLink to="/Logo_Florentin_Demortiere"><img class="rounded-sm" src="images/Logo_Florentin_Demortiere.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Charte_graphique_Germagny"><img class="rounded-sm" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink class="flex items-center justify-center" to="/Exposition_Universelle_2025"><img class="rounded-sm w-2/3" src="/images/Exposition_Universelle_2025.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Motion_design_WebTV"><img class="rounded-sm" src="/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Aidealareussite"><img class="rounded-sm" src="/images/Aidealareussite.png" alt="Logo Aide à la reussite"></RouterLink>
+
+
 
       </div>
       <div class="relative mt-28 pt-16 flex gap-20 mx-28" id="perso">
@@ -151,6 +151,7 @@ export default {
 
 <style>
 
+
 /* Cibler la scrollbar de WebKit */
 ::-webkit-scrollbar {
   width: 3px;
@@ -169,4 +170,6 @@ export default {
 ::-webkit-scrollbar-thumb:hover {
   background: #aaa;
 }
+
+
 </style>
