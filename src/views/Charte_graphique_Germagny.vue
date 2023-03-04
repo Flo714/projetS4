@@ -60,6 +60,22 @@
     </ul>
   </nav>
 </header>
+<main class="text-white font-raleway mx-6">
+  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation de la charte graphique de Charte graphique Germagny </h1>
+
+  <p class="opacity-80 text-sm">C'est un projet fictif qui a pour but de réaliser la charte graphique de Germagny, un village de Saône et Loire. Elle a été réalisé sur le logiciel InDesign</p>
+
+  <div class="my-10">
+    <img src="images/Charte_graphique_Germagny.png" alt="Image de présentation de la charte graphique de Germagny">
+    <div class="flex justify-end my-4 font-bold">
+      <a href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
+    </div>
+  </div>
+</main>
+<div class="text-[10px] italic flex justify-between mx-2 my-1 mt-20 text-white">
+      <p class="">Florentin Demortiere</p>
+      <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
+  </div>
 </template>
 
 <script lang="ts">

@@ -60,8 +60,8 @@
     </ul>
   </nav>
   </header>
-  <main class="text-white ont-raleway">
-    <h1 class="text-lg my-10 mx-6">Réalisation de mon logo personnel <br>et du motion design</h1>
+  <main class="text-white font-raleway">
+    <h1 class="text-lg font-bold my-10 mx-6">Réalisation de mon logo personnel <br>et du motion design</h1>
 
     <div class="">
       <img class="w-48 mx-auto my-6" src="images/Logo_portefolio.png" alt="">
