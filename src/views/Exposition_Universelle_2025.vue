@@ -60,6 +60,24 @@
     </ul>
   </nav>
 </header>
+<main class="text-white font-raleway mx-6">
+  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'une affiche et d'une carte postale</h1>
+  <p class="opacity-80 text-sm">Ces réalisations ont été produite lors d'un exercice pédagogique. Ces affiches répondent à l'offre de l'Exposition Universelle 2025</p>
+
+  <div class="my-10">
+    <img class="w-52 mx-auto" src="images/Exposition_Universelle_2025.png" alt="Image de présentation de l'affiche">
+    <p class="text-center my-4 italic">Affiche</p>
+  </div>
+
+  <div>
+    <img class="w-64 mx-auto" src="images/Carte_postal.png" alt="Image de présentation de la carte postale">
+    <p class="text-center my-4 italic">Carte Postal</p>
+  </div>
+</main>
+<div class="text-[10px] italic flex justify-between mx-2 my-1 mt-20 text-white">
+      <p class="">Florentin Demortiere</p>
+      <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
+    </div>
 </template>
 
 <script lang="ts">
