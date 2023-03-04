@@ -60,15 +60,24 @@
     </ul>
   </nav>
   </header>
-  <main class="text-white">
-    <h1>Réalisation de mon logo personnel et du motion design</h1>
+  <main class="text-white ont-raleway">
+    <h1 class="text-lg my-10 mx-6">Réalisation de mon logo personnel <br>et du motion design</h1>
 
-    <div class="flex">
-      <img src="images/Logo_portefolio.png" alt="">
+    <div class="">
+      <img class="w-48 mx-auto my-6" src="images/Logo_portefolio.png" alt="">
 
-      <p>Création d'un logo personnel avec Illustrator</p>
+      <p class="text-center">Création d'un logo personnel avec Illustrator</p>
     </div>
-    
+    <div>
+      <video width="200" height="" controls class="mx-auto mt-10">
+        <source src="video/Logo_Animation.mp4">
+      </video>
+      <p class="text-center my-4">Vidéo réalisée à l'aide d'After Effect</p>
+    </div>
+    <div class="text-xs italic flex justify-between mx-2 my-1 mt-20">
+      <p class="">Florentin Demortiere</p>
+      <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
+    </div>
   </main>
 </template>
 
