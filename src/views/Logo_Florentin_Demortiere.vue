@@ -59,7 +59,17 @@
       </li>
     </ul>
   </nav>
-</header>
+  </header>
+  <main class="text-white">
+    <h1>Réalisation de mon logo personnel et du motion design</h1>
+
+    <div class="flex">
+      <img src="images/Logo_portefolio.png" alt="">
+
+      <p>Création d'un logo personnel avec Illustrator</p>
+    </div>
+    
+  </main>
 </template>
 
 <script lang="ts">
