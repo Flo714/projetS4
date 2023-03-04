@@ -1,5 +1,5 @@
 <template>
-    <header class="font-raleway italic font-extrabold relative z-20">
+    <header class="font-raleway italic font-extrabold relative z-20 bg-gradient-to-t to-black ">
         <nav class="lg:flex lg:justify-between">
         <div class="flex justify-between m-4">
           <div class="flex items-center">
