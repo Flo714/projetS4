@@ -23,22 +23,27 @@
           leave="transition duration-1750 ease-out"
           leaveFrom="transform  translate-x-0 opacity-100"
           leaveTo="transform translate-x-full opacity-0">
-          <ul id="menu" v-if="menuOuvert" class="lg:hidden w-full py-4 text-center grid grid-cols-3 rounded-xl text-xs font-bold text-white" >
-            <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
-             <a href="#travaux">Projets</a>
-            </li>
-            <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
-              <RouterLink class="px-3" to="/BarBac">A propos</RouterLink>
-            </li>
-            <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
-              <RouterLink class="px-3" to="/MapOSM">Contact</RouterLink>
-            </li> 
-            <li>
-              <img class="" src="images/Instagram.webp" alt="">
-            </li>
-            <li>
-              <img class="" src="images/linkedin.webp" alt="">
-            </li>
+          <ul id="menu" v-if="menuOuvert" class="lg:hidden w-full py-4 text-center rounded-xl text-xs font-bold text-white" >
+            <div class=" grid grid-cols-3">
+              <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
+               <a href="#travaux">Projets</a>
+              </li>
+              <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
+                <a class="" href="#perso">A propos</a>
+              </li>
+              <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
+                <a class="" href="#contact">Contact</a>
+              </li> 
+            </div>
+            <div class="flex w-32 ml-32 gap-10 my-4">
+              <li>
+                <img class="" src="images/Instagram.webp" alt="">
+              </li>
+              <li>
+                <img class="" src="images/linkedin.webp" alt="">
+              </li>
+            </div>
+
           </ul>
         </Transition>
         <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white animate__animated animate__backInRight" >
