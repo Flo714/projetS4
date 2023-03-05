@@ -1,5 +1,5 @@
 <template>
-    <header class="font-raleway italic font-extrabold relative z-20 bg-gradient-to-t from-transparent to-black ">
+    <header class="font-raleway italic font-extrabold relative z-20">
         <nav class="lg:flex lg:justify-between">
         <div class="flex justify-between m-4">
           <div class="flex items-center">
@@ -64,28 +64,28 @@
     <div>
       <img class="w-80 top-0 right-0 absolute z-10" src="/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed flex items-center justify-center opacity-20 ml-[30%] w-[40%]" src="/images/Logo_portefolio.png" alt="Logo">
-    <div class="my-32">
-      <div class="animate__animated animate__backInLeft mx-16">
-        <div class="p-8 mt-20">
-          <h1 class="text-7xl">Florentin </h1>
-          <h1 class="text-7xl ml-3 m-1">Demortiere</h1>
+    <img class="fixed flex items-center justify-center opacity-20 ml-12 mt-20 xl:ml-[30%] w-[70%] z-10" src="/images/Logo_portefolio.png" alt="Logo">
+    <div class="my-10 xl:my-32">
+      <div class="animate__animated animate__backInLeft mx-10 xl:mx-16">
+        <div class="xl:p-8 xl:mt-20">
+          <h1 class="xl:text-7xl">Florentin </h1>
+          <h1 class="xl:text-7xl ml-3 m-1">Demortiere</h1>
         </div>
         <div>
-          <p class="text-xl m-12 pr-8 -mt-6 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
+          <p class="text-xs my-6 xl:text-xl xl:m-12 xl:pr-8 xl:-mt-6 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
         </div>
       </div>
-      <div class="ml-52 animate__animated animate__backInLeft">
-        <button class="bg-white flex gap-2 px-6 py-4 rounded-full place-items-center ml-10">
-          <p class="text-black font-bold text-xl">Me contacter</p>
+      <div class="ml-20 animate__animated animate__backInLeft">
+        <button class="bg-white flex gap-2 px-3 py-2 xl:px-6 xl:py-4 rounded-full place-items-center">
+          <p class="text-black font-bold text-xs xl:text-xl">Me contacter</p>
           <img class="" src="images/fleche.png" alt="fleche">
         </button>
       </div>
       <div>
-        <img class="w-40 absolute bottom-12 right-4 animate__animated animate__rotateIn" src="gif1_pf.gif" alt="gif animé">
+        <img class="w-32 xl:w-40 absolute bottom-70 right-4 animate__animated animate__rotateIn z-0" src="gif1_pf.gif" alt="gif animé">
       </div>
     </div>
-      <div class="grid grid-cols-1 grid-flow-row-dense sm:grid-cols-2 md:grid-cols-3 gap-10 pt-32 px-20 relative " id="travaux">
+      <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-10 pt-40 px-12 relative z-20" id="travaux">
         <RouterLink to="/Logo_Florentin_Demortiere"><img class="rounded-sm" src="images/Logo_Florentin_Demortiere.png" alt="Logo Aide à la reussite"></RouterLink>
         <RouterLink to="/Charte_graphique_Germagny"><img class="rounded-sm" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite"></RouterLink>
         <RouterLink class="flex items-center justify-center" to="/Exposition_Universelle_2025"><img class="rounded-sm w-2/3" src="/images/Exposition_Universelle_2025.png" alt="Logo Aide à la reussite"></RouterLink>
@@ -95,30 +95,29 @@
 
 
       </div>
-      <div class="relative mt-28 pt-16 flex gap-20 mx-28" id="perso">
-        <img class="w-56 rounded-sm" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
-        <div class="mt-10">
-          <p class="text-4xl font-bold">Florentin <br> 
-          Demortiere</p>
-          <p class="ml-8 mt-10">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
+      <div class="relative mt-10 pt-10 lg:mt-28 lg:pt-16 lg:flex lg:gap-20 lg:mx-28 z-20" id="perso">
+        <img class="w-40 xl:w-56 mx-auto rounded-sm" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
+        <div class="mt-4 lg:mt-10">
+          <p class=" xl:text-4xl font-bold text-center italic">Florentin Demortiere</p>
+          <p class="ml-8 mt-4 lg:mt-10 text-xs">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
         </div>
       </div>
-      <div class="grid grid-cols-3 mt-28 mb-28 mx-20 ml-40" id="contact">
-        <div class="border-r-2 mx-8">
+      <div class="lg:flex mt-28 mb-28 mx-16 lg:mx-20  lg:ml-40 z-20" id="contact">
+        <div class="border-b-2 lg:border-r-2 lg:mx-8 mb-8 pl-4">
           <p>Contact</p>
-          <div class="mt-6 mx-2">
+          <div class="mt-6 mx-2 pl-4">
             <p class="text-xs opacity-70">flo.demortiere@laposte.net</p>
             <p class="text-xs opacity-70 my-4">07 66 11 98 17</p>
           </div>
         </div>
-        <div class="border-r-2 mx-8">
+        <div class="border-b-2 lg:border-r-2 lg:mx-8 mb-8 pl-4">
           <p class="">Localisation</p>
           <div class="mt-6 mx-2">
             <p class="text-xs opacity-70">1 Rue Charles Goguel</p>
             <p class="text-xs opacity-70 my-4">25200 Montbéliard</p>
           </div>
         </div>
-        <div>
+        <div class="pl-4">
           <p>Réseaux social</p>
           <div class="flex gap-8 mx-4 my-8">
             <img class="w-6" src="/images/Instagram.webp" alt="Logo Instagram">
@@ -126,7 +125,7 @@
           </div>
         </div>
       </div>
-      <div class="text-xs italic flex justify-between mx-2 my-1 mt-20">
+      <div class="text-[10px] italic flex justify-between mx-2 my-1 mt-20">
         <p class="">Florentin Demortiere</p>
         <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
       </div>
