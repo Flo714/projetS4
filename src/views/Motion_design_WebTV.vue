@@ -61,9 +61,8 @@
   </nav>
 </header>
 <main class="text-white font-raleway mx-6">
-<h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'un looper et d'une outro pour la WebTV</h1>
-
-<p class="opacity-80 text-sm">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'un looper et d'une outro pour la WebTV</h1>
+  <p class="opacity-80 text-sm">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
 
 <div class="my-10">
   <video width="250" height="" controls class="mx-auto mt-10">

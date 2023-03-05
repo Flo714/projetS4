@@ -61,15 +61,14 @@
       </nav>
     </header>
     <main class="text-white font-raleway mx-6">
-  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'un looper et d'une outro pour la WebTV</h1>
-
-  <p class="opacity-80 text-sm">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'un projet professionnel</h1>
+  <p class="opacity-80 text-sm">Aide à la réussite a pour but d'aider les étudiants à reussir leurs études. C'est une réalisation complète du site internet et de sa communication.</p>
 
   <div class="my-10">
-    <video width="200" height="" controls class="mx-auto mt-10">
-      <source src="video/Looper.mp4">
-    </video>
-    <p class="text-center my-4">Vidéo réalisée à l'aide d'After Effect</p>
+    <img src="images/aide_reussite.png" alt="Image de présentation du site web d'Aide à la reussite">
+    <div class="flex justify-end my-4 font-bold">
+      <a href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
+    </div>
   </div>
 </main>
 <div class="text-[10px] italic flex justify-between mx-2 my-1 mt-20 text-white">
