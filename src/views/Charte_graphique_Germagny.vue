@@ -68,7 +68,7 @@
   <div class="my-10">
     <img src="images/Charte_graphique_Germagny.png" alt="Image de présentation de la charte graphique de Germagny">
     <div class="flex justify-end my-4 font-bold">
-      <a href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
+      <a class="hover_1" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
     </div>
   </div>
 </main>
@@ -92,4 +92,27 @@ return {
 },
 }
 
+
+
 </script>
+
+<style>
+
+.hover_1 {
+  --c:linear-gradient(#fff 0 0); /* update the color here */
+  
+  padding-bottom: .15em;
+  background: var(--c), var(--c);
+  background-size: .3em .1em;
+  background-position:50% 100%;
+  background-repeat: no-repeat;
+  transition: .5s linear, background-size .3s .2s linear;
+}
+.hover_1:hover {
+  background-size: 40% .1em;
+  background-position: 10% 100%, 90% 100%;
+}
+
+
+
+</style>
