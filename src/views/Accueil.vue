@@ -139,16 +139,16 @@
 
 <script>
 import { RouterLink } from 'vue-router';
-
+import gsap from "gsap";
 
 export default {
   name: "App",
   components: { RouterLink },
-    data() {
+  data() {
     return {
       menuOuvert: false,
     };
-    },
+  },
 }
 
 </script>
@@ -172,6 +172,5 @@ export default {
 ::-webkit-scrollbar-thumb:hover {
   background: #aaa;
 }
-
 
 </style>
