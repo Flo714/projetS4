@@ -99,18 +99,25 @@ return {
 <style>
 
 .hover_1 {
-  --c:linear-gradient(#fff 0 0); /* update the color here */
-  
-  padding-bottom: .15em;
-  background: var(--c), var(--c);
-  background-size: .3em .1em;
-  background-position:50% 100%;
+  background:
+    linear-gradient(
+      to right,
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 1)
+    ),
+    linear-gradient(
+      to right,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 1)
+  );
+  background-size: 100% 4px, 0 4px;
+  background-position: 100% 110%, 0 110%;
   background-repeat: no-repeat;
-  transition: .5s linear, background-size .3s .2s linear;
+  transition: background-size 400ms;
 }
+
 .hover_1:hover {
-  background-size: 40% .1em;
-  background-position: 10% 100%, 90% 100%;
+  background-size: 0 4px, 100% 4px;
 }
 
 
