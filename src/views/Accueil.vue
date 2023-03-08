@@ -48,13 +48,13 @@
         </Transition>
         <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white animate__animated animate__backInRight" >
           <li class="">
-            <a class="px-10 py-4" href="#travaux">Travaux</a>
+            <a class="px-10 py-2 hover_2" href="#travaux">Travaux</a>
           </li>
           <li class="">
-            <a class="px-10 py-4" href="#perso">A propos</a>
+            <a class="px-10 py-2 hover_2" href="#perso">A propos</a>
           </li>
           <li class="">
-            <a class="px-10 py-4" href="#contact">Contact</a>
+            <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
             <img class="w-6 mx-10 my-3" src="images/Instagram.webp" alt=""> 
@@ -177,5 +177,34 @@ export default {
 ::-webkit-scrollbar-thumb:hover {
   background: #aaa;
 }
+
+.hover_2 {
+position: relative;
+padding: 0 0;
+margin: 0 0.5rem;
+color: white;
+text-decoration: none;
+text-transform: uppercase;
+}
+
+.hover_2::after {
+content: '';
+position: absolute;
+left: 50%;
+bottom: 0;
+transform: translateX(-50%) scaleX(0);
+transform-origin: 50% 50%;
+width: 50%;
+height: 1px;
+background-color: rgba(255,255,255,0.8);
+transition: transform 250ms;
+}
+
+.hover_2:hover::after {
+transform: translateX(-50%) scaleX(1);
+}
+
+
+
 
 </style>
