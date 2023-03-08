@@ -69,7 +69,7 @@
     <div>
       <img class="w-80 top-0 right-0 absolute z-10" src="/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:mt-4 xl:ml-72 xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/images/Logo_portefolio.png" alt="Logo">
+    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:mt-4 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/images/Logo_portefolio.png" alt="Logo">
     <div class="my-20 z-20">
       <div class="animate__animated animate__backInLeft mx-10 lg:mx-16">
         <div class="lg:mt-32 xl:p-8 xl:mt-10">
@@ -80,8 +80,8 @@
           <p class="text-xs md:text-lg my-6 xl:text-xl xl:m-12 xl:pr-8 lg:mx-10 lg:my-10 lg:text-lg xl:-mt-3 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
         </div>
       </div>
-      <div class="ml-20 lg:ml-28 xl:ml-44 xl:mt-20 animate__animated animate__backInLeft">
-        <button class="bg-white flex gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full place-items-center">
+      <div class="ml-20 lg:ml-28 xl:ml-44 xl:mt-20 animate__animated animate__backInLeft z-20 ">
+        <button class="bg-white flex gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full place-items-center hover:scale-110 transition duration-500 hover:bg-[#aaaaaa]">
           <p class="text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl">Me contacter</p>
           <img class="" src="images/fleche.png" alt="fleche">
         </button>
@@ -104,14 +104,15 @@
         <img class="w-40 mx-auto rounded-sm md:w-48 lg:w-64 xl:w-80" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
         <div class="mt-4 lg:mt-10">
           <p class=" xl:text-4xl font-bold text-center italic lg:text-left lg:px-10 lg:text-4xl">Florentin Demortiere</p>
-          <p class="ml-8 mt-4 lg:mt-10 text-xs opacity-50 md:text-sm md:px-32 md:text-center lg:text-left lg:px-4 lg:text-base xl:mr-40">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
+          <p class="ml-8 mt-4 lg:mt-10 text-xs text-[#aaaaaa]	 md:text-sm md:px-32 md:text-center lg:text-left lg:px-4 lg:text-base xl:mr-40">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
+          <div class="hidden relative lg:flex lg:my-6 lg:justify-end lg:mr-40">
+            <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl hover:scale-110 transition duration-500 hover:bg-[#aaaaaa] " href="CV.pdf" target="_blank">Voir mon CV</a>
+          </div>
+        </div>
+        <div class="flex justify-center my-6 lg:hidden">
+            <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl hover:scale-110 transition duration-500" href="CV.pdf" target="_blank">Voir mon CV</a>
         </div>
       </div>
-      <div class="flex justify-center my-6 lg:justify-end lg:-mt-28 lg:mr-28">
-          <button class="bg-white flex gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full place-items-center">
-            <a class="text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl" href="">Voir mon CV</a>
-          </button>
-        </div>
       <div class="lg:flex mt-28 mb-28 mx-16 lg:mx-20  lg:ml-40 z-20 xl:ml-52 xl:my-40" id="contact">
         <div class="border-b-2 lg:border-b-0 lg:border-r-2 lg:mx-8 mb-8 pl-4">
           <p class="lg:text-xl xl:text-2xl">Contact</p>
@@ -176,7 +177,5 @@ export default {
 ::-webkit-scrollbar-thumb:hover {
   background: #aaa;
 }
-
-
 
 </style>
