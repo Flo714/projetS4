@@ -37,10 +37,10 @@
             </div>
             <div class="flex w-32 ml-36 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="rs" src="images/Instagram.webp" alt="logo Instagram"></a>
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="logo Instagram"></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="rs" src="images/linkedin.webp" alt="Logo Linkedin"></a>
+                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="images/linkedin.webp" alt="Logo Linkedin"></a>
               </li>
             </div>
 
@@ -57,10 +57,10 @@
             <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 rs" src="images/Instagram.webp" alt="Logo instagram"></a>
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo instagram"></a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 rs"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
           </li>
         </ul>
       </nav>
@@ -69,7 +69,7 @@
     <div>
       <img class="w-80 top-0 right-0 absolute z-10" src="/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:mt-4 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/images/Logo_portefolio.png" alt="Logo">
+    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/images/Logo_portefolio.png" alt="Logo">
     <div class="my-20 z-20">
       <div class="animate__animated animate__backInLeft mx-10 lg:mx-16">
         <div class="lg:mt-32 xl:p-8 xl:mt-10">
@@ -81,9 +81,8 @@
         </div>
       </div>
       <div class="ml-20 lg:ml-28 xl:ml-44 xl:mt-20 animate__animated animate__backInLeft z-20 ">
-        <button class="bg-white flex gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full place-items-center hover:scale-110 transition duration-500 hover:bg-[#aaaaaa]">
-          <p class="text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl">Me contacter</p>
-          <img class="" src="images/fleche.png" alt="fleche">
+        <button class="bg-white flex gap-2 px-3 py-2 md:my-12 lg:px-8 lg:py-3 xl:py-4 rounded-full place-items-center hover:bg-transparent first-child:hidden border-2 text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl   duration-300 hover:text-white">
+          <a href="#contact">Me contacter ➔</a> 
         </button>
       </div>
       <div>
@@ -106,18 +105,18 @@
           <p class=" xl:text-4xl font-bold text-center italic lg:text-left lg:px-10 lg:text-4xl">Florentin Demortiere</p>
           <p class="ml-8 mt-4 lg:mt-10 text-xs text-[#aaaaaa]	 md:text-sm md:px-32 md:text-center lg:text-left lg:px-4 lg:text-base xl:mr-40">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
           <div class="hidden relative lg:flex lg:my-6 lg:justify-end lg:mr-40">
-            <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl hover:scale-110 transition duration-500 hover:bg-[#aaaaaa] " href="CV.pdf" target="_blank">Voir mon CV</a>
+            <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-8 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg hover:bg-transparent border-2 hover:text-white duration-300" href="CV.pdf" target="_blank">Voir mon CV</a>
           </div>
         </div>
         <div class="flex justify-center my-6 lg:hidden">
             <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl hover:scale-110 transition duration-500" href="CV.pdf" target="_blank">Voir mon CV</a>
         </div>
       </div>
-      <div class="lg:flex mt-28 mb-28 mx-16 lg:mx-20  lg:ml-40 z-20 xl:ml-52 xl:my-40" id="contact">
+      <div class="lg:flex mt-28 mb-28 mx-16 lg:mx-20  lg:ml-40 z-20 xl:ml-52 xl:my-40 relative" id="contact">
         <div class="border-b-2 lg:border-b-0 lg:border-r-2 lg:mx-8 mb-8 pl-4">
           <p class="lg:text-xl xl:text-2xl">Contact</p>
           <div class="mt-6 mx-2 lg:mx-4 xl:mr-32 xl:my-6">
-            <p class="text-xs lg:text-base opacity-70 xl:text-lg">flo.demortiere@laposte.net</p>
+            <a class="text-xs lg:text-base opacity-70 xl:text-lg hover:opacity-100 duration-500" href="mailto:flo.demortiere@laposte.net">flo.demortiere@laposte.net</a>
             <p class="text-xs opacity-70 my-4 lg:text-base xl:text-lg">07 66 11 98 17</p>
           </div>
         </div>
@@ -131,14 +130,13 @@
         <div class="pl-4 lg:text-lg">
           <p class="lg:text-xl">Réseaux sociaux</p>
           <div class="flex gap-8 mx-4 my-8 xl:my-6">
-            <img class="w-6 lg:w-10" src="/images/Instagram.webp" alt="Logo Instagram">
-            <img class="w-6 lg:w-10" src="/images/linkedin.webp" alt="Logo Instagram">
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300 w-10" src="images/Instagram.webp" alt="logo Instagram"></a>
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300 w-10" src="images/linkedin.webp" alt="Logo Linkedin"></a>
           </div>
         </div>
       </div>
-      <div class="text-[10px] italic flex justify-between mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
-        <p class="">Florentin Demortiere</p>
-        <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
+      <div class="text-[10px] italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
+        <p class="">Portfolio 2023 © - Florentin Demortiere</p>
       </div>
   </main>
 </template>
@@ -203,17 +201,6 @@ transition: transform 250ms;
 .hover_2:hover::after {
 transform: translateX(-50%) scaleX(1);
 }
-
-.rs {
-  cursor: pointer;
-  transition: all ease-in-out 150ms;
-}
-
-.rs:hover {
-  margin-top: -1px;
-  transform: translate(0, -8);
-}
-
 
 
 
