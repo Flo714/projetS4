@@ -89,10 +89,18 @@
         <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-0" src="gif1_pf.gif" alt="gif animé">
       </div>
     </div>
-      <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-10 pt-40 px-12 relative z-20" id="travaux">
+      <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-10 pt-40 mx-12 relative z-20" id="travaux">
         <RouterLink to="/Logo_Florentin_Demortiere"><img class="rounded-sm w-[70%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="images/Logo_Florentin_Demortiere.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Charte_graphique_Germagny"><img class="rounded-sm w-[70%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink class="flex items-center justify-center" to="/Exposition_Universelle_2025"><img class="rounded-sm w-[50%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="/images/Exposition_Universelle_2025.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink to="/Charte_graphique_Germagny">
+          <div class="relative ">
+              <img class=" rounded-sm w-[70%] lg:h-[250px] lg:w-[450px] mx-auto object-cover hover:bg-white hover:opacity-80" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite">
+              <div class="bg-white text-black font-extrabold border-2 border-black/80 absolute bottom-0 left-[15%] right-[15%]  py-[2%] opacity-95 px-4">
+                <p class="text-[10px]"> Charte graphique Germagny</p>
+              </div>
+              <p class="hidden">Germagny est un petit village rural situé en Saône-et-Loire, en Bourgogne-Franche-Comté, avec environ 200 habitants.</p>
+          </div>
+        </RouterLink>
+        <RouterLink class="flex items-center justify-center" to="/Exposition_Universelle_2025"><img class="rounded-sm w-[50%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="/images/Carte_postal.png" alt="Logo Aide à la reussite"></RouterLink>
         <RouterLink to="/Motion_design_WebTV"><img class="rounded-sm w-[70%] mx-auto lg:h-[250px] lg:w-[450px] object-cover" src="/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite"></RouterLink>
         <RouterLink to="/Aidealareussite"><img class="rounded-sm w-[70%] mx-auto lg:h-[250px] lg:w-[450px] object-cover" src="/images/Aidealareussite.png" alt="Logo Aide à la reussite"></RouterLink>
 
