@@ -37,10 +37,10 @@
             </div>
             <div class="flex w-32 ml-36 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <img class="" src="images/Instagram.webp" alt="">
+                <img class="rs" src="images/Instagram.webp" alt="">
               </li>
               <li>
-                <img class="" src="images/linkedin.webp" alt="">
+                <img class="rs" src="images/linkedin.webp" alt="">
               </li>
             </div>
 
