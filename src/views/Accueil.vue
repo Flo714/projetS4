@@ -57,10 +57,10 @@
             <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <img class="w-6 mx-10 my-3" src="images/Instagram.webp" alt=""> 
+            <img class="w-6 lg:w-10 mx-10 my-3 rs" src="images/Instagram.webp" alt=""> 
           </li>
           <li>
-            <img class="w-6 mx-10 my-3"  src="images/linkedin.webp" alt=""> 
+            <img class="w-6 lg:w-10 mx-10 my-3 rs"  src="images/linkedin.webp" alt=""> 
           </li>
         </ul>
       </nav>
@@ -202,6 +202,16 @@ transition: transform 250ms;
 
 .hover_2:hover::after {
 transform: translateX(-50%) scaleX(1);
+}
+
+.rs {
+  cursor: pointer;
+  transition: all ease-in-out 150ms;
+}
+
+.rs:hover {
+  margin-top: -1px;
+  transform: translate(0, -8);
 }
 
 
