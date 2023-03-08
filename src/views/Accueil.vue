@@ -37,16 +37,16 @@
             </div>
             <div class="flex w-32 ml-36 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <img class="rs" src="images/Instagram.webp" alt="">
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="rs" src="images/Instagram.webp" alt="logo Instagram"></a>
               </li>
               <li>
-                <img class="rs" src="images/linkedin.webp" alt="">
+                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="rs" src="images/linkedin.webp" alt="Logo Linkedin"></a>
               </li>
             </div>
 
           </ul>
         </Transition>
-        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white animate__animated animate__backInRight" >
+        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-xl xl:my-10 text-white animate__animated animate__backInRight" >
           <li class="">
             <a class="px-10 py-2 hover_2" href="#travaux">Travaux</a>
           </li>
@@ -57,10 +57,10 @@
             <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <img class="w-6 lg:w-10 mx-10 my-3 rs" src="images/Instagram.webp" alt=""> 
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 rs" src="images/Instagram.webp" alt="Logo instagram"></a>
           </li>
           <li>
-            <img class="w-6 lg:w-10 mx-10 my-3 rs"  src="images/linkedin.webp" alt=""> 
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 rs"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
           </li>
         </ul>
       </nav>
