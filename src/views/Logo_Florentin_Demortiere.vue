@@ -63,16 +63,16 @@
   <main class="text-white font-raleway">
     <h1 class="text-lg font-bold my-10 mx-6">Réalisation de mon logo personnel <br>et du motion design</h1>
 
-    <div class="">
+    <div class=" my-10 md:flex md:mx-16">
       <img class="w-48 mx-auto my-6" src="images/Logo_portefolio.png" alt="">
 
-      <p class="text-center">Création d'un logo personnel avec Illustrator</p>
+      <p class="text-center my-12">Création d'un logo personnel avec Illustrator</p>
     </div>
-    <div>
+    <div class="my-12 md:flex md:mx-16 md:content-center">
       <video width="200" height="" controls class="mx-auto mt-10">
         <source src="video/Logo_Animation.mp4">
       </video>
-      <p class="text-center my-4">Vidéo réalisée à l'aide d'After Effect</p>
+      <p class="text-center my-8">Vidéo réalisée à l'aide d'After Effect</p>
     </div>
     <div class="text-xs italic flex justify-between mx-2 my-1 mt-20">
       <p class="">Florentin Demortiere</p>

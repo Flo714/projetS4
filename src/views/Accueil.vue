@@ -107,6 +107,11 @@
           <p class="ml-8 mt-4 lg:mt-10 text-xs opacity-50 md:text-sm md:px-32 md:text-center lg:text-left lg:px-4 lg:text-base xl:mr-40">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
         </div>
       </div>
+      <div class="flex justify-center my-6 lg:justify-end lg:-mt-28 lg:mr-28">
+          <button class="bg-white flex gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full place-items-center">
+            <a class="text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl" href="">Voir mon CV</a>
+          </button>
+        </div>
       <div class="lg:flex mt-28 mb-28 mx-16 lg:mx-20  lg:ml-40 z-20 xl:ml-52 xl:my-40" id="contact">
         <div class="border-b-2 lg:border-b-0 lg:border-r-2 lg:mx-8 mb-8 pl-4">
           <p class="lg:text-xl xl:text-2xl">Contact</p>
@@ -139,7 +144,6 @@
 
 <script>
 import { RouterLink } from 'vue-router';
-import gsap from "gsap";
 
 export default {
   name: "App",
@@ -172,5 +176,7 @@ export default {
 ::-webkit-scrollbar-thumb:hover {
   background: #aaa;
 }
+
+
 
 </style>
