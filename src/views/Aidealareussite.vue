@@ -61,13 +61,13 @@
       </nav>
     </header>
     <main class="text-white font-raleway mx-6">
-  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'un projet professionnel</h1>
-  <p class="opacity-80 text-sm">Aide à la réussite a pour but d'aider les étudiants à reussir leurs études. C'est une réalisation complète du site internet et de sa communication.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un projet professionnel</h1>
+  <p class="opacity-80 text-sm lg:text-base">Aide à la réussite a pour but d'aider les étudiants à reussir leurs études. C'est une réalisation complète du site internet et de sa communication.</p>
 
-  <div class="my-10">
-    <img src="images/aide_reussite.png" alt="Image de présentation du site web d'Aide à la reussite">
-    <div class="flex justify-end my-4 font-bold">
-      <a href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
+  <div class="my-10 xl:my-20">
+    <img class="w-[70%] mx-auto lg:max-w-[700px]" src="images/aide_reussite.png" alt="Image de présentation du site web d'Aide à la reussite">
+    <div class="flex justify-end my-4 mr-6 font-bold xl:mr-[25%] xl:my-8">
+      <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
     </div>
   </div>
 </main>
@@ -91,3 +91,29 @@ export default {
 }
 
 </script>
+
+<style>
+
+.hover_1 {
+  background:
+    linear-gradient(
+      to right,
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 1)
+    ),
+    linear-gradient(
+      to right,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 1)
+  );
+  background-size: 100% 4px, 0 4px;
+  background-position: 100% 110%, 0 110%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+.hover_1:hover {
+  background-size: 0 4px, 100% 4px;
+}
+
+</style>
