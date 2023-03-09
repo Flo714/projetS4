@@ -61,18 +61,20 @@
   </nav>
 </header>
 <main class="text-white font-raleway mx-6">
-  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'une affiche et d'une carte postale</h1>
-  <p class="opacity-80 text-sm">Ces réalisations ont été produite lors d'un exercice pédagogique. Ces affiches répondent à l'offre de l'Exposition Universelle 2025</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'une affiche et d'une carte postale</h1>
+  <p class="opacity-80 text-sm lg:text-base">Ces réalisations ont été produite lors d'un exercice pédagogique. Ces affiches répondent à l'offre de l'Exposition Universelle 2025</p>
+  <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56">
+    <div class="my-10">
+      <img class="w-52 mx-auto lg:w-64 xl:w-80" src="images/Exposition_Universelle_2025.png" alt="Image de présentation de l'affiche">
+      <p class="text-center my-4 italic">Affiche</p>
+    </div>
 
-  <div class="my-10">
-    <img class="w-52 mx-auto" src="images/Exposition_Universelle_2025.png" alt="Image de présentation de l'affiche">
-    <p class="text-center my-4 italic">Affiche</p>
+    <div>
+      <img class="w-64 mx-auto md:my-auto lg:w-80 xl:w-[380px]" src="images/Carte_postal.png" alt="Image de présentation de la carte postale">
+      <p class="text-center my-4 italic">Carte Postal</p>
+    </div>
   </div>
-
-  <div>
-    <img class="w-64 mx-auto" src="images/Carte_postal.png" alt="Image de présentation de la carte postale">
-    <p class="text-center my-4 italic">Carte Postal</p>
-  </div>
+  
 </main>
 <div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
         <p class="">Portfolio 2023 © - Florentin Demortiere</p>
