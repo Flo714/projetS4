@@ -74,10 +74,9 @@
     <p class="text-center my-4 italic">Carte Postal</p>
   </div>
 </main>
-<div class="text-[10px] italic flex justify-between mx-2 my-1 mt-20 text-white">
-      <p class="">Florentin Demortiere</p>
-      <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
-    </div>
+<div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
+        <p class="">Portfolio 2023 © - Florentin Demortiere</p>
+      </div>
 </template>
 
 <script lang="ts">

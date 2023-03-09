@@ -74,10 +74,9 @@
       </video>
       <p class="text-center my-8 lg:text-xl italic lg:w-80 lg:ml-10">Vidéo réalisée à l'aide d'After Effect</p>
     </div>
-    <div class="text-xs italic flex justify-between mx-2 my-1 mt-20">
-      <p class="">Florentin Demortiere</p>
-      <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
-    </div>
+    <div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
+        <p class="">Portfolio 2023 © - Florentin Demortiere</p>
+      </div>
   </main>
 </template>
 

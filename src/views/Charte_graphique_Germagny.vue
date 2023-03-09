@@ -63,19 +63,18 @@
 <main class="text-white font-raleway mx-6">
   <h1 class="font-bold text-lg mt-10 mb-5">Réalisation de la charte graphique de Charte graphique Germagny </h1>
 
-  <p class="opacity-80 text-sm lg:mr-[400px] ml-6">C'est un projet fictif qui a pour but de réaliser la charte graphique de Germagny, un village de Saône et Loire. Elle a été réalisé sur le logiciel InDesign</p>
+  <p class="opacity-80 text-sm lg:mr-[400px] ml-6">C'est un projet fictif qui a pour but de réaliser la charte graphique de Germagny, un village de Saône et Loire. Elle a été réalisé sur le logiciel InDesign.</p>
 
   <div class="my-10 xl:my-20">
     <img src="images/Charte_graphique_Germagny.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:ml-20 xl:mr-0" alt="Image de présentation de la charte graphique de Germagny">
     <div class="flex justify-end my-4 mr-6 font-bold xl:justify-center xl:my-8">
-      <a class="hover_1 text-sm" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
+      <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
     </div>
   </div>
 </main>
-<div class="text-[10px] italic flex justify-between mx-2 my-1 mt-20 text-white">
-      <p class="">Florentin Demortiere</p>
-      <p>flo.demortiere@laposte.net | 07 66 11 98 17</p>
-  </div>
+<div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
+        <p class="">Portfolio 2023 © - Florentin Demortiere</p>
+      </div>
 </template>
 
 <script lang="ts">
