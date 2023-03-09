@@ -61,8 +61,8 @@
   </nav>
   </header>
   <main class="text-white font-raleway">
-    <h1 class="text-lg font-bold my-10 mx-6">Réalisation de mon logo personnel et du motion design</h1>
-    <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale.</p>
+    <h1 class="text-lg font-bold my-10 mx-6 lg:text-2xl">Réalisation de mon logo personnel et du motion design</h1>
+    <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20 lg:text-base">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale.</p>
     <div class=" my-10 md:flex md:mx-16 lg:justify-start lg:gap-10 lg:mx-2">
       <img class="w-48 mx-auto lg:ml-20 lg:mr-0  my-6 md:w-64 lg:w-80" src="images/Logo_portefolio.png" alt="Logo personnel">
 

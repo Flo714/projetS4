@@ -61,21 +61,24 @@
   </nav>
 </header>
 <main class="text-white font-raleway mx-6">
-  <h1 class="font-bold text-lg mt-10 mb-5">Réalisation d'un looper et d'une outro pour la WebTV</h1>
-  <p class="opacity-80 text-sm">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un looper et d'une outro pour la WebTV</h1>
+  <p class="opacity-80 text-sm lg:text-base">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
 
-<div class="my-10">
-  <video width="250" height="" controls class="mx-auto mt-10">
-    <source src="video/Looper.mp4">
-  </video>
-  <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
-</div>
-<div class="my-10">
-  <video width="250" height="" controls class="mx-auto mt-10">
-    <source src="video/Outro.mp4">
-  </video>
-  <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
-</div>
+  <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56">
+    <div class="my-10">
+      <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
+        <source src="video/Looper.mp4">
+      </video>
+      <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
+    </div>
+    <div class="my-10">
+      <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
+        <source src="video/Outro.mp4">
+      </video>
+      <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
+    </div>
+  </div>
+
 </main>
 <div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
         <p class="">Portfolio 2023 © - Florentin Demortiere</p>
