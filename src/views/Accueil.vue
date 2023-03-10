@@ -89,7 +89,7 @@
         <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-0" src="gif1_pf.gif" alt="gif animé">
       </div>
     </div>
-      <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-10 pt-40 mx-12 relative z-20" id="travaux">
+      <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-10 pt-40 mx-12 relative z-20" id="travaux">
         <RouterLink to="/Logo_Florentin_Demortiere"><img class="rounded-sm w-[70%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="images/Logo_Florentin_Demortiere.png" alt="Logo Aide à la reussite"></RouterLink>
         <RouterLink to="/Charte_graphique_Germagny">
           <div class="relative ">
@@ -100,7 +100,13 @@
               <p class="hidden">Germagny est un petit village rural situé en Saône-et-Loire, en Bourgogne-Franche-Comté, avec environ 200 habitants.</p>
           </div>
         </RouterLink>
-        <RouterLink class="flex items-center justify-center" to="/Exposition_Universelle_2025"><img class="rounded-sm w-[50%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="/images/Carte_postal.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink class="card flex items-center justify-center" to="/Exposition_Universelle_2025">
+          <img class="rounded-sm w-[50%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="/images/Carte_postal.png" alt="Logo Aide à la reussite">
+          <div class="info">
+            <h3>Exposition Universelle 2025</h3>
+            <button class="hover_1">En savoir plus</button>
+          </div>
+        </RouterLink>
         <RouterLink to="/Motion_design_WebTV"><img class="rounded-sm w-[70%] mx-auto lg:h-[250px] lg:w-[450px] object-cover" src="/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite"></RouterLink>
         <RouterLink to="/Aidealareussite"><img class="rounded-sm w-[70%] mx-auto lg:h-[250px] lg:w-[450px] object-cover" src="/images/Aidealareussite.png" alt="Logo Aide à la reussite"></RouterLink>
 
@@ -209,6 +215,91 @@ transition: transform 250ms;
 .hover_2:hover::after {
 transform: translateX(-50%) scaleX(1);
 }
+
+.card {
+	border-radius: 15px;
+	padding: 1.5rem;
+	position: relative;
+	display: flex;
+	align-items: flex-end;
+	transition: 0.4s ease-out;
+	box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card:hover {
+	transform: translateY(20px);
+}
+
+.card:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0.6);
+	z-index: 2;
+	transition: 0.5s;
+	opacity: 0;
+}
+
+.card:hover:before {
+	opacity: 1;
+}
+
+.card img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-radius: 15px;
+}
+
+.card .info {
+	position: relative;
+	z-index: 3;
+	color: white;
+	opacity: 0;
+	transform: translateY(30px);
+	transition: 0.5s;
+}
+
+.card:hover .info {
+	opacity: 1;
+	transform: translateY(0px);
+}
+
+.card .info h3 {
+	margin: 0px;
+}
+
+.hover_1 {
+  background:
+    linear-gradient(
+      to right,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 1)
+    ),
+    linear-gradient(
+      to right,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 1)
+  );
+  background-size: 100% 4px, 0 4px;
+  background-position: 100% 110%, 0 110%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+.hover_1:hover {
+  background-size: 0 4px, 100% 4px;
+}
+
+
 
 
 
