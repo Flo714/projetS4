@@ -89,26 +89,42 @@
         <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-0" src="gif1_pf.gif" alt="gif animé">
       </div>
     </div>
-      <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-10 pt-40 mx-12 relative z-20" id="travaux">
-        <RouterLink to="/Logo_Florentin_Demortiere"><img class="rounded-sm w-[70%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="images/Logo_Florentin_Demortiere.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Charte_graphique_Germagny">
-          <div class="relative ">
-              <img class=" rounded-sm w-[70%] lg:h-[250px] lg:w-[450px] mx-auto object-cover hover:bg-white hover:opacity-80" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite">
-              <div class="bg-white text-black font-extrabold border-2 border-black/80 absolute bottom-0 left-[15%] right-[15%]  py-[2%] opacity-95 px-4">
-                <p class="text-[10px]"> Charte graphique Germagny</p>
-              </div>
-              <p class="hidden">Germagny est un petit village rural situé en Saône-et-Loire, en Bourgogne-Franche-Comté, avec environ 200 habitants.</p>
-          </div>
-        </RouterLink>
-        <RouterLink class="card flex items-center justify-center" to="/Exposition_Universelle_2025">
-          <img class="rounded-sm w-[50%] lg:h-[250px] lg:w-[450px] mx-auto object-cover" src="/images/Carte_postal.png" alt="Logo Aide à la reussite">
+      <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] gap-28 py-40 mx-10 relative z-20 justify-center" id="travaux">
+        <RouterLink class="card" to="/Logo_Florentin_Demortiere">
+          <img class="" src="images/Logo_Florentin_Demortiere.png" alt="Logo Personnel">
           <div class="info">
-            <h3>Exposition Universelle 2025</h3>
-            <button class="hover_1">En savoir plus</button>
+            <h3 class="top-0 text-xl">Logo personnel</h3>
+            <button>En savoir plus</button>
           </div>
         </RouterLink>
-        <RouterLink to="/Motion_design_WebTV"><img class="rounded-sm w-[70%] mx-auto lg:h-[250px] lg:w-[450px] object-cover" src="/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite"></RouterLink>
-        <RouterLink to="/Aidealareussite"><img class="rounded-sm w-[70%] mx-auto lg:h-[250px] lg:w-[450px] object-cover" src="/images/Aidealareussite.png" alt="Logo Aide à la reussite"></RouterLink>
+        <RouterLink class="card" to="/Charte_graphique_Germagny">
+              <img class="" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite">
+              <div class="info">
+                <h3 class="top-0 text-xl"> Charte graphique Germagny</h3>
+                <button>En savoir plus</button>
+              </div>
+        </RouterLink>
+        <RouterLink class="card" to="/Exposition_Universelle_2025">
+          <img class="" src="/images/Carte_postal.png" alt="Logo Aide à la reussite">
+          <div class="info">
+            <h3 class="top-0 text-xl">Exposition Universelle 2025</h3>
+            <button class="">En savoir plus</button>
+          </div>
+        </RouterLink>
+        <RouterLink class="card" to="/Motion_design_WebTV">
+          <img class="" src="/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite">
+          <div class="info">
+            <h3 class="top-0 text-xl">Motion design WebTV</h3>
+            <button>En savoir plus</button>
+          </div>
+        </RouterLink>
+        <RouterLink class="card" to="/Aidealareussite">
+          <img class="" src="/images/Aidealareussite.png" alt="Logo Aide à la reussite">
+          <div class="info">
+            <h3 class="top-0 text-xl">Aide à la reussite</h3>
+            <button>En savoir plus</button>
+          </div>
+        </RouterLink>
 
 
 
@@ -216,66 +232,74 @@ transition: transform 250ms;
 transform: translateX(-50%) scaleX(1);
 }
 
+.wrapper {
+display: flex;
+width: 90%;
+justify-content: center;
+}
+
 .card {
-	border-radius: 15px;
-	padding: 1.5rem;
-	position: relative;
-	display: flex;
-	align-items: flex-end;
-	transition: 0.4s ease-out;
-	box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+width: 330px;
+height: 230px;
+border-radius: 15px;
+padding: 1.5rem;
+background: white;
+position: relative;
+display: flex;
+align-items: flex-end;
+justify-content: center;
+transition: 0.4s ease-out;
+box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
 }
 
 .card:hover {
-	transform: translateY(20px);
+transform: translateY(20px);
 }
 
 .card:before {
-	content: "";
-	position: absolute;
-	top: 0;
-	left: 0;
-	display: block;
-	width: 100%;
-	height: 100%;
-	border-radius: 15px;
-	background: rgba(0, 0, 0, 0.6);
-	z-index: 2;
-	transition: 0.5s;
-	opacity: 0;
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+display: block;
+width: 100%;
+height: 100%;
+border-radius: 15px;
+background: rgba(0, 0, 0, 0.6);
+z-index: 2;
+transition: 0.5s;
+opacity: 0;
 }
 
 .card:hover:before {
-	opacity: 1;
+opacity: 1;
 }
 
 .card img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-	position: absolute;
-	top: 0;
-	left: 0;
-	border-radius: 15px;
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+border-radius: 15px;
 }
 
 .card .info {
-	position: relative;
-	z-index: 3;
-	color: white;
-	opacity: 0;
-	transform: translateY(30px);
-	transition: 0.5s;
+position: relative;
+z-index: 3;
+color: white;
+opacity: 0;
+transform: translateY(30px);
+transition: 0.5s;
 }
 
 .card:hover .info {
-	opacity: 1;
-	transform: translateY(0px);
+opacity: 1;
+transform: translateY(0px);
 }
 
-.card .info h3 {
-	margin: 0px;
-}
+
+
 
 .hover_1 {
   background:
