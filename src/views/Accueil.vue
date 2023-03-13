@@ -149,7 +149,7 @@
           </div>
         </div>
         <div class="flex justify-center my-6 lg:hidden">
-            <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-5 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl hover:scale-110 transition duration-500" href="CV.pdf" target="_blank">Voir mon CV</a>
+            <a class="bg-white gap-2 px-3 py-2 md:my-12 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg hover:scale-110 transition duration-500" href="CV.pdf" target="_blank">Voir mon CV</a>
         </div>
       </div>
       <div class="lg:flex mt-28 mb-28 mx-16 lg:mx-20  lg:ml-40 z-20 xl:ml-52 xl:my-40 relative" id="contact">
