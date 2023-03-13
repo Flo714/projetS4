@@ -89,40 +89,50 @@
         <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-0" src="gif1_pf.gif" alt="gif animé">
       </div>
     </div>
-      <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] gap-28 py-40 mx-10 relative z-20 justify-center" id="travaux">
+      <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] justify-items-center items-center gap-10 py-40 mx-10 relative z-20 justify-center" id="travaux">
         <RouterLink class="card" to="/Logo_Florentin_Demortiere">
           <img class="" src="images/Logo_Florentin_Demortiere.png" alt="Logo Personnel">
           <div class="info">
-            <h3 class="top-0 text-xl">Logo personnel</h3>
-            <button>En savoir plus</button>
+            <h3 class="text-xl font-bold">Logo personnel</h3>
+            <div class="flex justify-center my-3">
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+            </div>
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Charte_graphique_Germagny">
               <img class="" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite">
               <div class="info">
-                <h3 class="top-0 text-xl"> Charte graphique Germagny</h3>
-                <button>En savoir plus</button>
+                <h3 class="text-xl font-bold"> Charte graphique Germagny</h3>
+                <div class="flex justify-center my-3">
+                  <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+                </div>
               </div>
         </RouterLink>
         <RouterLink class="card" to="/Exposition_Universelle_2025">
           <img class="" src="/images/Carte_postal.png" alt="Logo Aide à la reussite">
           <div class="info">
-            <h3 class="top-0 text-xl">Exposition Universelle 2025</h3>
-            <button class="">En savoir plus</button>
+            <h3 class="text-xl font-bold">Exposition Universelle 2025</h3>
+            <div class="flex justify-center my-3">
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+            </div>
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Motion_design_WebTV">
           <img class="" src="/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite">
           <div class="info">
-            <h3 class="top-0 text-xl">Motion design WebTV</h3>
-            <button>En savoir plus</button>
+            <h3 class="text-xl font-bold">Motion design WebTV</h3>
+            <div class="flex justify-center my-3">
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+            </div>
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Aidealareussite">
           <img class="" src="/images/Aidealareussite.png" alt="Logo Aide à la reussite">
           <div class="info">
-            <h3 class="top-0 text-xl">Aide à la reussite</h3>
-            <button>En savoir plus</button>
+            <h3 class="text-xl font-bold">Aide à la reussite</h3>
+            <div class="flex justify-center my-3">
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+            </div>
           </div>
         </RouterLink>
 
