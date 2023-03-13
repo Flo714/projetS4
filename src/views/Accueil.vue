@@ -95,7 +95,7 @@
           <div class="info">
             <h3 class="text-xl font-bold">Logo personnel</h3>
             <div class="flex justify-center my-3">
-              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
             </div>
           </div>
         </RouterLink>
@@ -104,7 +104,7 @@
               <div class="info">
                 <h3 class="text-xl font-bold"> Charte graphique Germagny</h3>
                 <div class="flex justify-center my-3">
-                  <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+                  <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
                 </div>
               </div>
         </RouterLink>
@@ -113,7 +113,7 @@
           <div class="info">
             <h3 class="text-xl font-bold">Exposition Universelle 2025</h3>
             <div class="flex justify-center my-3">
-              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
             </div>
           </div>
         </RouterLink>
@@ -122,7 +122,7 @@
           <div class="info">
             <h3 class="text-xl font-bold">Motion design WebTV</h3>
             <div class="flex justify-center my-3">
-              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
             </div>
           </div>
         </RouterLink>
@@ -131,7 +131,7 @@
           <div class="info">
             <h3 class="text-xl font-bold">Aide à la reussite</h3>
             <div class="flex justify-center my-3">
-              <button class="bg-white text-black border-white border-2 font-bold px-3 py-1 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
+              <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
             </div>
           </div>
         </RouterLink>
