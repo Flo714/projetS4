@@ -70,23 +70,23 @@
       <img class="w-80 top-0 right-0 absolute z-10" src="/images/Ellipse.png" alt="">
     </div>
     <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/images/Logo_portefolio.png" alt="Logo">
-    <div class="my-20 z-20">
+    <div class="my-20">
       <div class="animate__animated animate__backInLeft mx-10 lg:mx-16">
-        <div class="lg:mt-32 xl:p-8 xl:mt-10">
+        <div class="lg:mt-32 xl:p-8 xl:mt-10 z-20">
           <h1 class="md:text-5xl xl:text-6xl">Florentin </h1>
           <h1 class="md:text-5xl xl:text-6xl ml-3 m-1">Demortiere</h1>
         </div>
-        <div>
+        <div class="z-20">
           <p class="text-xs md:text-lg my-6 xl:text-xl xl:m-12 xl:pr-8 lg:mx-10 lg:my-10 lg:text-lg xl:-mt-3 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
         </div>
       </div>
-      <div class="ml-20 lg:ml-28 xl:ml-44 xl:mt-20 animate__animated animate__backInLeft z-20 ">
+      <div class="ml-20 lg:ml-28 xl:ml-44 xl:mt-20 animate__animated animate__backInLeft relative z-20">
         <button class="bg-white flex gap-2 px-3 py-2 md:my-12 lg:px-8 lg:py-3 xl:py-4 rounded-full place-items-center hover:bg-transparent first-child:hidden border-2 text-black font-bold text-xs md:text-base lg:text-lg xl:text-xl   duration-300 hover:text-white">
           <a href="#contact">Me contacter ➔</a> 
         </button>
       </div>
       <div>
-        <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-0" src="gif1_pf.gif" alt="gif animé">
+        <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-10" src="gif1_pf.gif" alt="gif animé">
       </div>
     </div>
       <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] justify-items-center items-center gap-10 py-40 mx-10 relative z-20 justify-center" id="travaux">
@@ -253,7 +253,6 @@ width: 330px;
 height: 230px;
 border-radius: 15px;
 padding: 1.5rem;
-background: white;
 position: relative;
 display: flex;
 align-items: flex-end;
