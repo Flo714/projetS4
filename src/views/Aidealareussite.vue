@@ -43,21 +43,21 @@
             </div>
           </ul>
         </Transition>
-        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white animate__animated animate__backInRight" >
+        <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-xl xl:my-10 text-white animate__animated animate__backInRight" >
           <li class="">
-            <RouterLink class="px-10 py-4" to="/">Travaux</RouterLink>
+            <a class="px-10 py-2 hover_2" href="#travaux">Travaux</a>
           </li>
           <li class="">
-            <RouterLink class="px-10 py-4" to="/">A propos</RouterLink>
+            <a class="px-10 py-2 hover_2" href="#perso">A propos</a>
           </li>
           <li class="">
-            <RouterLink class="px-10 py-4" to="/">Contact</RouterLink>
+            <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <img class="w-6 mx-10 my-3" src="images/Instagram.webp" alt=""> 
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo instagram"></a>
           </li>
           <li>
-            <img class="w-6 mx-10 my-3"  src="images/linkedin.webp" alt=""> 
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
           </li>
         </ul>
       </nav>
