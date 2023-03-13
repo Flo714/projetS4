@@ -37,7 +37,7 @@
             </div>
             <div class="flex w-32 ml-36 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="logo Instagram"></a>
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo Instagram"></a>
               </li>
               <li>
                 <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="images/linkedin.webp" alt="Logo Linkedin"></a>

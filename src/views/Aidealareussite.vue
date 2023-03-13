@@ -28,28 +28,30 @@
              <a href="#travaux">Projets</a>
             </li>
             <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
-              <RouterLink class="px-3" to="/BarBac">A propos</RouterLink>
+              <RouterLink class="px-3" to="/">A propos</RouterLink>
             </li>
             <li class="border-2 border-gray-500 rounded-md m-2 p-2 sm:m-8">
-              <RouterLink class="px-3" to="/MapOSM">Contact</RouterLink>
+              <RouterLink class="px-3" to="/">Contact</RouterLink>
             </li> 
-            <li>
-              <img class="" src="images/Instagram.webp" alt="">
-            </li>
-            <li>
-              <img class="" src="images/linkedin.webp" alt="">
-            </li>
+            <div class="flex w-32 ml-32 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
+              <li>
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo Instagram"></a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="images/linkedin.webp" alt="Logo Linkedin"></a>
+              </li>
+            </div>
           </ul>
         </Transition>
         <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-2xl xl:my-10 text-white animate__animated animate__backInRight" >
           <li class="">
-            <a class="px-10 py-4" href="#travaux">Travaux</a>
+            <RouterLink class="px-10 py-4" to="/">Travaux</RouterLink>
           </li>
           <li class="">
-            <a class="px-10 py-4" href="#perso">A propos</a>
+            <RouterLink class="px-10 py-4" to="/">A propos</RouterLink>
           </li>
           <li class="">
-            <a class="px-10 py-4" href="#contact">Contact</a>
+            <RouterLink class="px-10 py-4" to="/">Contact</RouterLink>
           </li>
           <li>
             <img class="w-6 mx-10 my-3" src="images/Instagram.webp" alt=""> 
