@@ -62,44 +62,60 @@
         </ul>
   </nav>
   </header>
-  <main class="text-white">
+  <main class="text-white mx-10">
 
-    <h1 class="text-2xl my-6 lg:my-10">Mentions légales</h1>
+    <h1 class="text-2xl my-6 lg:mb-20 lg:text-5xl font-bold">Mentions légales</h1>
   
-    <div class="lg:mr-80">
-      <h2 class="text-lg my-4 font-bold lg:my-8">1. Informations sur le propriétaire du site :</h2>
-      <p>Demortiere Florentin</p>
-      <p>1 Rue Charles Goguel</p>
-      <p>07 66 11 98 17</p>
-      <p>Flo.demortiere@laposte.net</p>
-    </div>
+    <div class="mx-10">
 
-    <div class="lg:mr-80">
-      <h2 class="text-lg my-4 font-bold lg:my-8">2. Hébergeur du site :</h2>
-      <p>Infomaniak</p>
-      <p>Rue Eugène Marziano 25 1227 Les Acacias (GE)</p>
-      <p>04 11 93 76 67</p>
-    </div>
+      <div class="lg:mr-80">
+        <h2 class="text-lg my-4 font-bold lg:my-8">1. Informations sur le propriétaire du site :</h2>
+        <div class="mx-6">
+          <p>Demortiere Florentin</p>
+          <p>1 Rue Charles Goguel</p>
+          <p>07 66 11 98 17</p>
+          <p>Flo.demortiere@laposte.net</p>
+        </div>
+      </div>
 
-    <div class="lg:mr-80">
-      <h2 class="text-lg my-4 font-bold lg:my-8">3. Propriété intellectuelle </h2>
-      <p>Tous les éléments du site (textes, images, vidéos, etc.) sont la propriété exclusive de Florentin Demortiere et sont protégés par les lois relatives à la propriété intellectuelle. Toute reproduction, diffusion, ou exploitation non autorisée de ces éléments est strictement interdite.</p>
+      <div class="lg:mr-80">
+        <h2 class="text-lg my-4 font-bold lg:my-8">2. Hébergeur du site :</h2>
+        <div class="mx-6">
+          <p>Infomaniak</p>
+          <p>Rue Eugène Marziano 25 1227 Les Acacias (GE)</p>
+          <p>04 11 93 76 67</p>
+        </div>
+      </div>
+
+      <div class="lg:mr-80">
+        <h2 class="text-lg my-4 font-bold lg:my-8">3. Propriété intellectuelle </h2>
+        <div class="mx-6">
+          <p>Tous les éléments du site (textes, images, vidéos, etc.) sont la propriété exclusive de Florentin Demortiere et sont protégés par les lois relatives à la propriété intellectuelle. Toute reproduction, diffusion, ou exploitation non autorisée de ces éléments est strictement interdite.</p>
+        </div>
+      </div>
+
+      <div class="lg:mr-80">
+        <h2 class="text-lg my-4 font-bold lg:my-8">4. Utilisation des données personnelles :</h2>
+        <div class="mx-6">
+          <p>Les informations personnelles recueillies sur ce site sont utilisées uniquement dans le cadre de la gestion de votre compte et de vos échanges avec Florentin Demortiere. Elles ne sont en aucun cas transmises à des tiers. Conformément à la loi Informatique et Libertés du 6 janvier 1978, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant.</p>
+        </div>
+      </div>
+    
+      <div class="lg:mr-80">
+        <h2 class="text-lg my-4 font-bold lg:my-8">5. Responsabilité :</h2>
+        <div class="mx-6">
+          <p>Florentin Demortiere décline toute responsabilité en cas d'interruption ou d'indisponibilité du site, de survenance de bugs ou d'erreurs. L'utilisateur est seul responsable de l'utilisation qu'il fait du site et des informations qui y sont contenues.</p>
+        </div>
+      </div>
+
+      <div class="lg:mr-80">
+        <h2 class="text-lg my-4 font-bold lg:my-8">6. Liens hypertextes :</h2>
+        <div class="mx-6">
+          <p>Les liens hypertextes présents sur le site peuvent renvoyer vers d'autres sites web. Florentin Demortiere ne saurait être tenu responsable du contenu de ces sites ni des éventuels préjudices qu'ils pourraient causer. Il est important de noter que ces mentions légales ne sont qu'un exemple et qu'il est recommandé de consulter un avocat pour s'assurer de leur pertinence et de leur conformité avec les lois en vigueur dans votre pays.</p>
+        </div>
+      </div>
     </div>
     
-    <div class="lg:mr-80">
-      <h2 class="text-lg my-4 font-bold lg:my-8">4. Utilisation des données personnelles :</h2>
-      <p>Les informations personnelles recueillies sur ce site sont utilisées uniquement dans le cadre de la gestion de votre compte et de vos échanges avec Florentin Demortiere. Elles ne sont en aucun cas transmises à des tiers. Conformément à la loi Informatique et Libertés du 6 janvier 1978, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant.</p>
-    </div>
-   
-    <div class="lg:mr-80">
-      <h2 class="text-lg my-4 font-bold lg:my-8">5. Responsabilité :</h2>
-    <p>Florentin Demortiere décline toute responsabilité en cas d'interruption ou d'indisponibilité du site, de survenance de bugs ou d'erreurs. L'utilisateur est seul responsable de l'utilisation qu'il fait du site et des informations qui y sont contenues.</p>
-    </div>
-    
-    <div class="lg:mr-80">
-      <h2 class="text-lg my-4 font-bold lg:my-8">6. Liens hypertextes :</h2>
-    <p>Les liens hypertextes présents sur le site peuvent renvoyer vers d'autres sites web. Florentin Demortiere ne saurait être tenu responsable du contenu de ces sites ni des éventuels préjudices qu'ils pourraient causer. Il est important de noter que ces mentions légales ne sont qu'un exemple et qu'il est recommandé de consulter un avocat pour s'assurer de leur pertinence et de leur conformité avec les lois en vigueur dans votre pays.</p>
-    </div>
     
 
 
