@@ -5,7 +5,7 @@ import Charte_graphique_Germagny from '../views/Charte_graphique_Germagny.vue'
 import Motion_design_WebTV from '../views/Motion_design_WebTV.vue'
 import Exposition_Universelle_2025 from '../views/Exposition_Universelle_2025.vue'
 import Aidealareussite from '../views/Aidealareussite.vue'
-import mentions_legale from '../views/mentions-legal.vue'
+import mentions_legales from '../views/mentions-legales.vue'
 
 
 const router = createRouter({
@@ -17,7 +17,7 @@ const router = createRouter({
     { path: '/Motion_design_WebTV', name: 'Motion_design_WebTV', component: Motion_design_WebTV },
     { path: '/Exposition_Universelle_2025', name: 'Exposition_Universelle_2025', component: Exposition_Universelle_2025 },
     { path: '/Aidealareussite', name: 'Aidealareussite', component: Aidealareussite },
-    { path: '/mentions-legal.vue', name: 'mentions_legale', component: mentions_legale },
+    { path: '/mentions_legales', name: 'mentions_legales', component: mentions_legales },
  
     // ici les autre routes
   ]
