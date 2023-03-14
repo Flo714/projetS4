@@ -140,7 +140,7 @@
 
       </div>
       <div class="relative mt-10 pt-10 lg:mt-28 lg:pt-16 lg:flex lg:gap-20 lg:mx-28 z-20" id="perso">
-        <img class="w-40 mx-auto rounded-sm md:w-48 lg:w-64 xl:w-80" src="/public/images/Flo.jpg" alt="Photo de Florentin Demortiere">
+        <img class="w-40 mx-auto rounded-sm md:w-48 lg:w-64 xl:w-80" src="/public/images/Carte_postal.png" alt="Photo de Florentin Demortiere">
         <div class="mt-4 lg:mt-10">
           <p class=" xl:text-4xl font-bold text-center italic lg:text-left lg:px-10 lg:text-4xl">Florentin Demortiere</p>
           <p class="ml-8 mt-4 lg:mt-10 text-xs text-[#aaaaaa]	 md:text-sm md:px-32 md:text-center lg:text-left lg:px-4 lg:text-base xl:mr-40">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
