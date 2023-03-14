@@ -175,8 +175,8 @@
           </div>
         </div>
       </div>
-      <div class="text-[10px] italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
-        <p class="">Portfolio 2023 © - Florentin Demortiere - <RouterLink to="/mentions_legales">Mentions Légales</RouterLink></p>
+      <div class="text-[10px] italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-base ">
+        <p class="">Portfolio 2023 © - Florentin Demortiere - <RouterLink class="hover:font-black duration-300 underline" to="/mentions_legales">Mentions Légales</RouterLink></p>
       </div>
   </main>
 </template>
@@ -222,7 +222,6 @@ padding: 0 0;
 margin: 0 0.5rem;
 color: white;
 text-decoration: none;
-text-transform: uppercase;
 }
 
 .hover_2::after {
