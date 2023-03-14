@@ -4,14 +4,14 @@
         <div class="flex justify-between m-4">
           <div class="flex items-center">
             <RouterLink to="/">
-              <img class="w-20 animate__animated animate__backInLeft" src="images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
+              <img class="w-20 animate__animated animate__backInLeft" src="/public//public/images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
             </RouterLink>
           </div>
           <div class="flex justify-between items-center">
             <span class="text-3xl cursor-pointer lg:hidden block w-12">
               <img class=""  aria-controls="menu"
                :aria-expanded="menuOuvert"
-               @click="menuOuvert = !menuOuvert" src="images/Menu.png" alt="Logo Menu" />
+               @click="menuOuvert = !menuOuvert" src="/public/images/Menu.png" alt="Logo Menu" />
               <span class="sr-only ">Menu</span>
             </span>
           </div>
@@ -37,10 +37,10 @@
             </div>
             <div class="flex w-32 ml-36 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo Instagram"></a>
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo Instagram"></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="images/linkedin.webp" alt="Logo Linkedin"></a>
+                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
               </li>
             </div>
 
@@ -57,19 +57,19 @@
             <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo instagram"></a>
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo instagram"></a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
           </li>
         </ul>
       </nav>
     </header>
   <main class="bg-black text-white font-raleway font-semibold">
     <div>
-      <img class="w-80 top-0 right-0 absolute z-10 " src="/images/Ellipse.png" alt="">
+      <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/images/Logo_portefolio.png" alt="Logo">
+    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
     <div class="my-20">
       <div class="animate__animated animate__backInLeft mx-10 lg:mx-16">
         <div class="lg:mt-32 xl:p-8 xl:mt-10 z-20">
@@ -86,12 +86,12 @@
         </button>
       </div>
       <div>
-        <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-10" src="gif1_pf.gif" alt="gif animé">
+        <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-10" src="/public/gif1_pf.gif" alt="gif animé">
       </div>
     </div>
       <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] justify-items-center items-center gap-10 py-40 mx-10 relative z-20 justify-center" id="travaux">
         <RouterLink class="card" to="/Logo_Florentin_Demortiere">
-          <img class="" src="images/Logo_Florentin_Demortiere.png" alt="Logo Personnel">
+          <img class="" src="/public/images/Logo_Florentin_Demortiere.png" alt="Logo Personnel">
           <div class="info">
             <h3 class="text-xl font-bold">Logo personnel</h3>
             <div class="flex justify-center my-3">
@@ -100,7 +100,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Charte_graphique_Germagny">
-              <img class="" src="/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite">
+              <img class="" src="/public/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite">
               <div class="info">
                 <h3 class="text-xl font-bold"> Charte graphique Germagny</h3>
                 <div class="flex justify-center my-3">
@@ -109,7 +109,7 @@
               </div>
         </RouterLink>
         <RouterLink class="card" to="/Exposition_Universelle_2025">
-          <img class="" src="/images/Carte_postal.png" alt="Logo Aide à la reussite">
+          <img class="" src="/public/images/Carte_postal.png" alt="Logo Aide à la reussite">
           <div class="info">
             <h3 class="text-xl font-bold">Exposition Universelle 2025</h3>
             <div class="flex justify-center my-3">
@@ -118,7 +118,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Motion_design_WebTV">
-          <img class="" src="/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite">
+          <img class="" src="/public/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite">
           <div class="info">
             <h3 class="text-xl font-bold">Motion design WebTV</h3>
             <div class="flex justify-center my-3">
@@ -127,7 +127,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Aidealareussite">
-          <img class="" src="/images/Aidealareussite.png" alt="Logo Aide à la reussite">
+          <img class="" src="/public/images/Aidealareussite.png" alt="Logo Aide à la reussite">
           <div class="info">
             <h3 class="text-xl font-bold">Aide à la reussite</h3>
             <div class="flex justify-center my-3">
@@ -140,7 +140,7 @@
 
       </div>
       <div class="relative mt-10 pt-10 lg:mt-28 lg:pt-16 lg:flex lg:gap-20 lg:mx-28 z-20" id="perso">
-        <img class="w-40 mx-auto rounded-sm md:w-48 lg:w-64 xl:w-80" src="/images/Flo.JPG" alt="Photo de Florentin Demortiere">
+        <img class="w-40 mx-auto rounded-sm md:w-48 lg:w-64 xl:w-80" src="/public/images/Flo.JPG" alt="Photo de Florentin Demortiere">
         <div class="mt-4 lg:mt-10">
           <p class=" xl:text-4xl font-bold text-center italic lg:text-left lg:px-10 lg:text-4xl">Florentin Demortiere</p>
           <p class="ml-8 mt-4 lg:mt-10 text-xs text-[#aaaaaa]	 md:text-sm md:px-32 md:text-center lg:text-left lg:px-4 lg:text-base xl:mr-40">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
@@ -149,7 +149,7 @@
           </div>
         </div>
         <div class="flex justify-center my-6 lg:hidden">
-            <a class="bg-white gap-2 px-3 py-2 md:my-12 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg hover:scale-110 transition duration-500" href="CV.pdf" target="_blank">Voir mon CV</a>
+            <a class="bg-white gap-2 px-3 py-2 md:my-12 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg hover:scale-110 transition duration-500" href="/public/CV.pdf" target="_blank">Voir mon CV</a>
         </div>
       </div>
       <div class="lg:flex mt-28 mb-28 mx-16 lg:mx-20  lg:ml-40 z-20 xl:ml-52 xl:my-40 relative" id="contact">
@@ -170,8 +170,8 @@
         <div class="pl-4 lg:text-lg">
           <p class="lg:text-xl">Réseaux sociaux</p>
           <div class="flex gap-8 mx-4 my-8 xl:my-6">
-            <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300 w-10" src="images/Instagram.webp" alt="logo Instagram"></a>
-            <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300 w-10" src="images/linkedin.webp" alt="Logo Linkedin"></a>
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300 w-10" src="/public/images/Instagram.webp" alt="logo Instagram"></a>
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300 w-10" src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
           </div>
         </div>
       </div>

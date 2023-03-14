@@ -4,14 +4,14 @@
     <div class="flex justify-between m-4">
       <div class="flex items-center">
         <RouterLink to="/">
-          <img class="w-20 animate__animated animate__backInLeft" src="images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
+          <img class="w-20 animate__animated animate__backInLeft" src="/public/images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
         </RouterLink>
       </div>
       <div class="flex justify-between items-center">
         <span class="text-3xl cursor-pointer lg:hidden block w-12">
           <img class=""  aria-controls="menu"
            :aria-expanded="menuOuvert"
-           @click="menuOuvert = !menuOuvert" src="images/Menu.png" alt="Logo Menu" />
+           @click="menuOuvert = !menuOuvert" src="/public/images/Menu.png" alt="Logo Menu" />
           <span class="sr-only ">Menu</span>
         </span>
       </div>
@@ -35,10 +35,10 @@
             </li> 
             <div class="flex w-32 ml-32 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo Instagram"></a>
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo Instagram"></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="images/linkedin.webp" alt="Logo Linkedin"></a>
+                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
               </li>
             </div>
           </ul>
@@ -54,10 +54,10 @@
             <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo instagram"></a>
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo instagram"></a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
           </li>
         </ul>
   </nav>
@@ -67,12 +67,12 @@
   <p class="opacity-80 text-sm lg:text-base">Ces réalisations ont été produite lors d'un exercice pédagogique. Ces affiches répondent à l'offre de l'Exposition Universelle 2025</p>
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56">
     <div class="my-10">
-      <img class="w-52 mx-auto lg:w-64 xl:w-80" src="images/Exposition_Universelle_2025.png" alt="Image de présentation de l'affiche">
+      <img class="w-52 mx-auto lg:w-64 xl:w-80" src="/public/images/Exposition_Universelle_2025.png" alt="Image de présentation de l'affiche">
       <p class="text-center my-4 italic">Affiche</p>
     </div>
 
     <div>
-      <img class="w-64 mx-auto md:my-auto lg:w-80 xl:w-[380px]" src="images/Carte_postal.png" alt="Image de présentation de la carte postale">
+      <img class="w-64 mx-auto md:my-auto lg:w-80 xl:w-[380px]" src="/public/images/Carte_postal.png" alt="Image de présentation de la carte postale">
       <p class="text-center my-4 italic">Carte Postal</p>
     </div>
   </div>

@@ -4,14 +4,14 @@
     <div class="flex justify-between m-4">
       <div class="flex items-center">
         <RouterLink to="/">
-          <img class="w-20 animate__animated animate__backInLeft" src="images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
+          <img class="w-20 animate__animated animate__backInLeft" src="/public/images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
         </RouterLink>
       </div>
       <div class="flex justify-between items-center">
         <span class="text-3xl cursor-pointer lg:hidden block w-12">
           <img class=""  aria-controls="menu"
            :aria-expanded="menuOuvert"
-           @click="menuOuvert = !menuOuvert" src="images/Menu.png" alt="Logo Menu" />
+           @click="menuOuvert = !menuOuvert" src="/public/images/Menu.png" alt="Logo Menu" />
           <span class="sr-only ">Menu</span>
         </span>
       </div>
@@ -35,10 +35,10 @@
             </li> 
             <div class="flex w-32 ml-32 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo Instagram"></a>
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo Instagram"></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="images/linkedin.webp" alt="Logo Linkedin"></a>
+                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
               </li>
             </div>
           </ul>
@@ -54,10 +54,10 @@
             <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo instagram"></a>
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo instagram"></a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
           </li>
         </ul>
   </nav>
@@ -68,7 +68,7 @@
   <p class="opacity-80 text-sm lg:mr-[400px] ml-6">C'est un projet fictif qui a pour but de réaliser la charte graphique de Germagny, un village de Saône et Loire. Elle a été réalisé sur le logiciel InDesign.</p>
 
   <div class="my-10 xl:my-20">
-    <img src="images/Charte_graphique_Germagny.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:ml-20 xl:mr-0" alt="Image de présentation de la charte graphique de Germagny">
+    <img src="/public/images/Charte_graphique_Germagny.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:ml-20 xl:mr-0" alt="Image de présentation de la charte graphique de Germagny">
     <div class="flex justify-end my-4 mr-6 font-bold xl:justify-center xl:my-8">
       <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
     </div>

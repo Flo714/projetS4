@@ -4,14 +4,14 @@
     <div class="flex justify-between m-4">
       <div class="flex items-center">
         <RouterLink to="/">
-          <img class="w-20 animate__animated animate__backInLeft" src="images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
+          <img class="w-20 animate__animated animate__backInLeft" src="/public/images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
         </RouterLink>
       </div>
       <div class="flex justify-between items-center">
         <span class="text-3xl cursor-pointer lg:hidden block w-12">
           <img class=""  aria-controls="menu"
            :aria-expanded="menuOuvert"
-           @click="menuOuvert = !menuOuvert" src="images/Menu.png" alt="Logo Menu" />
+           @click="menuOuvert = !menuOuvert" src="/public/images/Menu.png" alt="Logo Menu" />
           <span class="sr-only ">Menu</span>
         </span>
       </div>
@@ -35,10 +35,10 @@
             </li> 
             <div class="flex w-32 ml-32 sm:ml-64 sm:w-40 md:ml-[350px] gap-10 my-4">
               <li>
-                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo Instagram"></a>
+                <a href="https://www.instagram.com/flodem.pro/?hl=fr"><img class="hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo Instagram"></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="images/linkedin.webp" alt="Logo Linkedin"></a>
+                <a href="https://www.linkedin.com/in/florentin-demortiere/"><img class="hover:scale-110 duration-300" src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
               </li>
             </div>
           </ul>
@@ -54,10 +54,10 @@
             <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
           </li>
           <li>
-            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="images/Instagram.webp" alt="Logo instagram"></a>
+            <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo instagram"></a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="images/linkedin.webp" alt="Logo Linkedin"></a>
+            <a href="https://www.linkedin.com/in/florentin-demortiere/"  target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300"  src="/public/images/linkedin.webp" alt="Logo Linkedin"></a>
           </li>
         </ul>
   </nav>
@@ -69,13 +69,13 @@
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56">
     <div class="my-10">
       <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
-        <source src="video/Looper.mp4">
+        <source src="/public/video/Looper.mp4">
       </video>
       <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
     </div>
     <div class="my-10">
       <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
-        <source src="video/Outro.mp4">
+        <source src="/public/video/Outro.mp4">
       </video>
       <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
     </div>
