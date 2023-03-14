@@ -176,7 +176,7 @@
         </div>
       </div>
       <div class="text-[10px] italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
-        <p class="">Portfolio 2023 © - Florentin Demortiere</p>
+        <p class="">Portfolio 2023 © - Florentin Demortiere - <RouterLink to="/mentions_legale">Mentions Légales</RouterLink></p>
       </div>
   </main>
 </template>
