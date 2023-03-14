@@ -73,11 +73,11 @@
     <div class="my-20">
       <div class="animate__animated animate__backInLeft mx-10 lg:mx-16">
         <div class="lg:mt-32 xl:p-8 xl:mt-10 z-20">
-          <h1 class="md:text-5xl xl:text-6xl">Florentin </h1>
-          <h1 class="md:text-5xl xl:text-6xl ml-3 m-1">Demortiere</h1>
+          <h1 class="text-xl md:text-5xl xl:text-6xl">Florentin </h1>
+          <h1 class="text-xl md:text-5xl xl:text-6xl ml-3 m-1">Demortiere</h1>
         </div>
         <div class="z-20">
-          <p class="text-xs md:text-lg my-6 xl:text-xl xl:m-12 xl:pr-8 lg:mx-10 lg:my-10 lg:text-lg xl:-mt-3 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
+          <p class="text-sm md:text-lg my-6 xl:text-xl xl:m-12 xl:pr-8 lg:mx-10 lg:my-10 lg:text-lg xl:-mt-3 opacity-50">Je m'appelle Florentin Demortiere et je suis un étudiant en MMI. Je suis passionné par le design graphique</p>
         </div>
       </div>
       <div class="ml-20 lg:ml-28 xl:ml-44 xl:mt-20 animate__animated animate__backInLeft relative z-20">
