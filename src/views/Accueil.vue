@@ -4,7 +4,7 @@
         <div class="flex justify-between m-4">
           <div class="flex items-center">
             <RouterLink to="/">
-              <img class="w-20 animate__animated animate__backInLeft" src="/public//public/images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
+              <img class="w-20 animate__animated animate__backInLeft" src="/public/images/Logo_portefolio.png" alt="Logo Florentin Demortiere"/>
             </RouterLink>
           </div>
           <div class="flex justify-between items-center">
