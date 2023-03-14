@@ -89,7 +89,7 @@
         <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-0" src="/public/gif1_pf.gif" alt="gif animé">
       </div>
     </div>
-      <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] justify-items-center items-center gap-10 py-40 lg:mx-10 relative z-20 justify-center" id="travaux">
+      <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] justify-items-center items-center gap-10 pt-40 pb-10 lg:mx-10 relative z-20 justify-center" id="travaux">
         <RouterLink class="card" to="/Logo_Florentin_Demortiere">
           <img class="" src="/public/images/Logo_Florentin_Demortiere.png" alt="Logo Personnel">
           <div class="info">
