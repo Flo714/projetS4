@@ -67,7 +67,7 @@
   <p class="opacity-80 text-sm lg:text-base">Aide à la réussite a pour but d'aider les étudiants à reussir leurs études. C'est une réalisation complète du site internet et de sa communication.</p>
 
   <div class="my-10 xl:my-20">
-    <img class="w-[70%] mx-auto lg:max-w-[700px]" src="/public/images/aide_reussite.png" alt="Image de présentation du site web d'Aide à la reussite">
+    <img class="w-[70%] mx-auto lg:max-w-[700px]" src="/public/images/Aide_reussite.png" alt="Image de présentation du site web d'Aide à la reussite">
     <div class="flex justify-end my-4 mr-6 font-bold xl:mr-[25%] xl:my-8">
       <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
     </div>
