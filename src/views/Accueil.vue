@@ -67,7 +67,7 @@
     </header>
   <main class="bg-black text-white font-raleway font-semibold">
     <div>
-      <img class="w-80 top-0 right-0 absolute z-10" src="/images/Ellipse.png" alt="">
+      <img class="w-80 top-0 right-0 absolute z-10 " src="/images/Ellipse.png" alt="">
     </div>
     <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/images/Logo_portefolio.png" alt="Logo">
     <div class="my-20">
