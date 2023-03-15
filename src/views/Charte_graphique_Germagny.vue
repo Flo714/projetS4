@@ -81,17 +81,17 @@
         Ensuite, Germagny étant une commune rural situé dans une région riche en bonvin</p>
   </div>
 
-  <div class="lg:my-40 mx-10">
+  <div class="lg:my-40 mx-10 xl:mx-20">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
-    <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(400px,1fr))] justify-items-center items-center gap-10 lg:gap-36">
+    <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
       <div class="lg:mx-10">
-        <img class="max-w-[250px]  lg:max-w-xl" src="/public/images/I_img_p2.png" alt="Image du logo sur Illustrator">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/I_img_p2.png" alt="Image du logo sur Illustrator">
       </div>
       <div class="lg:mx-10">
-        <img class="max-w-[250px] lg:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
       </div>
       <div class="lg:mx-10"> 
-        <img class="max-w-[250px]  lg:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
       </div>
     </div>
   </div>
