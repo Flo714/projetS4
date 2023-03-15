@@ -145,7 +145,7 @@
           <p class=" xl:text-4xl font-bold text-center italic lg:text-left lg:px-10 lg:text-4xl">Florentin Demortiere</p>
           <p class="ml-8 mt-4 lg:mt-10 text-xs text-[#aaaaaa]	 md:text-sm md:px-32 md:text-center lg:text-left lg:px-4 lg:text-base xl:mr-40">Étant passionné par le design depuis quelques années, j’ai réaliser plusieurs projets personnel ou dans le cadre de mes études au sein du Département MMI de Montbéliard.</p>
           <div class="hidden relative lg:flex lg:my-6 lg:justify-end lg:mr-40">
-            <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-8 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg hover:bg-transparent border-2 hover:text-white duration-300" href="CV.pdf" target="_blank">Voir mon CV</a>
+            <a class="bg-white gap-2 px-3 py-2 md:my-12 lg:px-8 lg:py-3 xl:py-4 rounded-full  text-black font-bold text-xs md:text-base lg:text-lg hover:bg-transparent border-2 hover:text-white duration-300" href="CV.pdf" download target="_blank">Voir mon CV</a>
           </div>
         </div>
         <div class="flex justify-center my-6 lg:hidden">
