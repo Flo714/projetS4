@@ -69,16 +69,42 @@
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un projet professionnel</h1>
   <p class="opacity-80 text-sm lg:text-base">Aide à la réussite a pour but d'aider les étudiants à reussir leurs études. C'est une réalisation complète du site internet et de sa communication.</p>
 
-  <div class="my-10 xl:my-20">
-    <img class="w-[70%] mx-auto lg:max-w-[700px]" src="/public/images/Aide_reussite.png" alt="Image de présentation du site web d'Aide à la reussite">
-    <div class="flex justify-end my-4 mr-6 font-bold xl:mr-[25%] xl:my-8">
-      <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
+  <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center">
+    <div class="my-10 xl:my-20">
+      <img class="w-[70%] mx-auto lg:max-w-[700px] rounded-md" src="/public/images/Aide_reussite.png " alt="Image de présentation du site web d'Aide à la reussite">
+      <div class="flex justify-end my-4 mr-6 font-bold xl:mr-24">
+        <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
+      </div>
+    </div>
+    <p>Aide à la réussite etait le projet du semestre 3 du BUT MMI. Durant ce projet, mon groupe et moi avons réaliser la communication, le design et le developpement du projet en entier.
+      Pour ma part, j'ai réaliser principalement le design du site internet.
+    </p>
+  </div>
+  <div class="lg:flex lg:justify-center lg:items-center lg:gap-20 my-6 lg:my-20 xl:mx-28">
+    <img class="w-[300px] mx-auto lg:w-[450px] xl:w-[700px] rounded-md" src="/public/images/evolution_logo_ar.png" alt="Évolution du logo Aide à la réussite">
+    <p class="my-4">La phase de recherche du logo a pris beaucoup de temps. Travailler les 1ers logo est essentiel pour arriver à un résultat travaillé.</p>
+  </div>
+  <div class="lg:my-40 mx-10 xl:mx-20">
+    <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
+    <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
+      <div class="lg:mx-20">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg rounded-md" src="/public/images/Aidealareussite.png" alt="Image du logo sur Illustrator">
+      </div>
+      <div class="lg:mx-20">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg rounded-md" src="/public/images/harmonie_ar.png" alt="Image d'exemple de la charte graphique">
+      </div>
+      <div class="lg:mx-20"> 
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg rounded-md" src="/public/images/connecter_ar.png" alt="Image d'exemple de la charte graphique">
+      </div>
+      <div class="lg:mx-20"> 
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg rounded-md" src="/public/images/figma_ar.png" alt="Image d'exemple de la charte graphique">
+      </div>
     </div>
   </div>
+  <div class="text-[10px] italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-base ">
+      <p class="">Portfolio 2023 © - Florentin Demortiere - <RouterLink class="hover:font-black duration-300 underline" to="/mentions_legales">Mentions Légales</RouterLink></p>
+    </div>
 </main>
-<div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
-        <p class="">Portfolio 2023 © - Florentin Demortiere</p>
-      </div>
 </template>
 
 <script lang="ts">
