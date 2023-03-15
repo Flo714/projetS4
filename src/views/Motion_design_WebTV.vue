@@ -63,6 +63,9 @@
   </nav>
 </header>
 <main class="text-white font-raleway mx-6">
+  <div>
+      <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
+    </div>
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un looper et d'une outro pour la WebTV</h1>
   <p class="opacity-80 text-sm lg:text-base">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
 

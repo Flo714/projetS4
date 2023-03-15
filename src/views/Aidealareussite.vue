@@ -63,6 +63,9 @@
       </nav>
     </header>
     <main class="text-white font-raleway mx-6">
+      <div>
+      <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
+    </div>
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un projet professionnel</h1>
   <p class="opacity-80 text-sm lg:text-base">Aide à la réussite a pour but d'aider les étudiants à reussir leurs études. C'est une réalisation complète du site internet et de sa communication.</p>
 

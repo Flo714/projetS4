@@ -63,6 +63,9 @@
   </nav>
 </header>
 <main class="text-white font-raleway mx-6">
+  <div>
+      <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
+    </div>
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'une affiche et d'une carte postale</h1>
   <p class="opacity-80 text-sm lg:text-base">Ces réalisations ont été produite lors d'un exercice pédagogique. Ces affiches répondent à l'offre de l'Exposition Universelle 2025</p>
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56">

@@ -63,6 +63,9 @@
   </nav>
   </header>
   <main class="text-white font-raleway">
+    <div>
+      <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
+    </div>
     <h1 class="text-lg font-bold my-10 mx-6 lg:text-2xl">Réalisation de mon logo personnel et du motion design</h1>
     <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20 lg:text-base sm:mx-8">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale.</p>
     <div>

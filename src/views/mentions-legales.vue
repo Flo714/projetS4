@@ -63,7 +63,9 @@
   </nav>
   </header>
   <main class="text-white mx-10">
-
+    <div>
+      <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
+    </div>
     <h1 class="text-2xl my-6 lg:mb-20 lg:text-5xl font-bold">Mentions légales</h1>
   
     <div class="mx-10">
