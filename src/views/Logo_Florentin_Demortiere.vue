@@ -45,13 +45,13 @@
     </Transition>
     <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-xl xl:my-10 text-white animate__animated animate__backInRight" >
           <li class="">
-            <a class="px-10 py-2 hover_2" href="#travaux">Travaux</a>
+            <RouterLink class="px-10 py-2 hover_2" to="/">Travaux</RouterLink>
           </li>
           <li class="">
-            <a class="px-10 py-2 hover_2" href="#perso">A propos</a>
+            <RouterLink class="px-10 py-2 hover_2" to="/">A propos</RouterLink>
           </li>
           <li class="">
-            <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
+            <RouterLink class="px-10 py-2 hover_2" to="/">Contact</RouterLink>
           </li>
           <li>
             <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo instagram"></a>
@@ -101,8 +101,8 @@
     </div>
 
 
-    <div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
-        <p class="">Portfolio 2023 © - Florentin Demortiere</p>
+    <div class="text-[10px] italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-base ">
+        <p class="">Portfolio 2023 © - Florentin Demortiere - <RouterLink class="hover:font-black duration-300 underline" to="/mentions_legales">Mentions Légales</RouterLink></p>
       </div>
   </main>
 </template>

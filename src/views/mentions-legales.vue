@@ -44,14 +44,14 @@
           </ul>
     </Transition>
     <ul class="lg:flex items-center align-baseline text-sm mx-4 font-bold hidden xl:text-xl xl:my-10 text-white animate__animated animate__backInRight" >
-          <li class="">
-            <a class="px-10 py-2 hover_2" href="#travaux">Travaux</a>
+      <li class="">
+            <RouterLink class="px-10 py-2 hover_2" to="/">Travaux</RouterLink>
           </li>
           <li class="">
-            <a class="px-10 py-2 hover_2" href="#perso">A propos</a>
+            <RouterLink class="px-10 py-2 hover_2" to="/">A propos</RouterLink>
           </li>
           <li class="">
-            <a class="px-10 py-2 hover_2" href="#contact">Contact</a>
+            <RouterLink class="px-10 py-2 hover_2" to="/">Contact</RouterLink>
           </li>
           <li>
             <a href="https://www.instagram.com/flodem.pro/?hl=fr" target="_blank"><img class="w-6 lg:w-10 mx-10 my-3 hover:scale-110 duration-300" src="/public/images/Instagram.webp" alt="Logo instagram"></a>
