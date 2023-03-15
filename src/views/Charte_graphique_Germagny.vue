@@ -74,24 +74,24 @@
     <div>
       <img src="/public/images/Charte_graphique_Germagny.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto" alt="Image de présentation de la charte graphique de Germagny">
       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
-        <a class="hover_1 text-sm lg:text-lg xl:text-xl italic" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
+        <a class="hover_1 text-sm lg:text-lg italic" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
       </div>
     </div>
       <p class="md:mx-10 xl:mr-40">Pour arrriver à ce résultat, j'ai d'abord commencé par faire le logo. Je me suis inspiré d'autres communes pour arriver à faire une église. 
         Ensuite, Germagny étant une commune rural situé dans une région riche en bonvin</p>
   </div>
 
-  <div>
-    <h2 class="font-bold text-lg xl:text-xl mt-10 mb-5 mx-10">Galerie Photo</h2>
-    <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(480px,1fr))] justify-items-center items-center gap-10">
-      <div class="">
-        <img class="max-w-sm lg:max-w-2xl" src="/public/images/I_img_p2.png" alt="Image du logo sur Illustrator">
+  <div class="lg:my-40 mx-10">
+    <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
+    <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(400px,1fr))] justify-items-center items-center gap-10 lg:gap-36">
+      <div class="lg:mx-10">
+        <img class="max-w-[250px]  lg:max-w-xl" src="/public/images/I_img_p2.png" alt="Image du logo sur Illustrator">
       </div>
-      <div class="">
-        <img class="max-w-sm lg:max-w-xl" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
+      <div class="lg:mx-10">
+        <img class="max-w-[250px] lg:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
       </div>
-      <div class=""> 
-        <img class="max-w-sm lg:max-w-xl" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
+      <div class="lg:mx-10"> 
+        <img class="max-w-[250px]  lg:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
       </div>
     </div>
   </div>
