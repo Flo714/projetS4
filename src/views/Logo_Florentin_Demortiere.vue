@@ -64,18 +64,40 @@
   </header>
   <main class="text-white font-raleway">
     <h1 class="text-lg font-bold my-10 mx-6 lg:text-2xl">Réalisation de mon logo personnel et du motion design</h1>
-    <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20 lg:text-base">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale.</p>
-    <div class=" my-10 md:flex md:mx-16 lg:justify-start lg:gap-10 lg:mx-2">
-      <img class="w-48 mx-auto lg:ml-20 lg:mr-0  my-6 md:w-64 lg:w-80" src="/public/images/Logo_portefolio.png" alt="Logo personnel">
+    <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20 lg:text-base sm:mx-8">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale.</p>
+    <div>
+      <div class=" my-10 md:flex md:mx-16 lg:justify-start lg:gap-10 lg:mx-2">
+        <img class="w-48 mx-auto lg:ml-20 lg:mr-0  my-6 md:w-64 lg:w-[400px]" src="/public/images/Logo_portefolio.png" alt="Logo personnel">
+        <p class="text-center my-12 lg:text-xl italic lg:mt-20 lg:ml-10">Création d'un logo personnel</p>
+      </div>
+      <div>
+        <div class="md:grid md:grid-cols-2 lg:items-center lg:justify-center lg:mb- md:mx-16">
+          <p class="my-10 sm:mx-8 lg:mx-0 lg:items-center lg:justify-center">Pour faire ce logo, j'ai commencé à rechercher des idées, à trouver des inspirations sur internet afin d'éclaircir les idées que j'avais en têtes puis
+          j'ai regardé les meilleurs portfolios afin d'observer les tendances design. Ensuite, je suis passé sur Illustrator afin de mettre mes idées sur en images.</p>
+          <div class="my-10">
+            <img class="w-72 mx-auto sm:w-80 md:w-[400px] lg:w-[500px]" src="/public/images/I_img.png" alt="Image de l'interface Illustrator">
+            <p class="text-center mt-6 mb-12 lg:text-xl italic lg:ml-10">Logo sur Illustrator</p>
+          </div>
+        </div>
 
-      <p class="text-center my-12 lg:text-xl italic lg:mt-20 lg:ml-10">Création d'un logo personnel avec Illustrator</p>
+         <p class="mb-10 mx-4 sm:mx-16">Je choisi ma meilleur version du logo puis je la décline en différentes couleurs, différents formats ...</p>
+      </div>
     </div>
+
     <div class="my-12 md:flex md:mx-16 md:items-center lg:justify-start lg:gap-10 lg:mx-2">
-      <video width="200" height="" controls class="mx-auto mt-10 md:w-64 lg:w-80 lg:ml-20 lg:mr-0">
-        <source src="/public/video/Logo_Animation.mp4">
-      </video>
-      <p class="text-center my-8 lg:text-xl italic lg:w-80 lg:ml-10">Vidéo réalisée à l'aide d'After Effect</p>
+      <div class="lg:flex lg:flex-col lg:ml-20">
+        <video width="200" height="" controls class=" mt-10 md:w-64 lg:w-[600px]  lg:mr-0 sm:w-72">
+          <source src="/public/video/Logo_Animation.mp4">
+        </video>
+        <p class="text-center my-8 lg:text-xl italic lg:w-80 xl:ml-8">Vidéo réalisée à l'aide d'After Effect</p>
+      </div>
+      <div class="">
+        <p class="my-10 mx-4 sm:mx-8 lg:mx-28">Pour ce qui est de l'animation, j'ai utlisé After Effect. Je me suis renseigné sur internet pour trouvée une animation qui me convenait. 
+          Je l'ai ensuite réalisé pour arrivé à ce résultat</p>
+      </div>
     </div>
+
+
     <div class="text-[10px] text-white italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-sm">
         <p class="">Portfolio 2023 © - Florentin Demortiere</p>
       </div>
