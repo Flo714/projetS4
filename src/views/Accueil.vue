@@ -66,6 +66,13 @@
       </nav>
     </header>
   <main class="bg-black text-white font-raleway font-semibold">
+    <a href="#" id="scroll-to-top" class="fixed bottom-4 right-4 p-3 rounded-full bg-white text-black hidden hover:bg-white/70  transition ease-in-out duration-300 z-30">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hover:text-white" fill="none" viewBox="0 0 24 24" stroke="black" >
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+      </svg>
+    </a>
+
+
     <div>
       <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
     </div>
@@ -86,7 +93,7 @@
         </button>
       </div>
       <div>
-        <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-72 lg:bottom-40 xl:bottom-20 animate__animated animate__rotateIn z-0" src="/public/gif1_pf.gif" alt="gif animé">
+        <img class="w-32 lg:w-48 absolute right-4 md:w-36 md:bottom-[1000px] lg:bottom-[600px] xl:bottom-20 animate__animated animate__rotateIn z-0" src="/public/gif1_pf.gif" alt="gif animé">
       </div>
     </div>
       <div class="wrapper grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(320px,1fr))] justify-items-center items-center gap-10 pt-40 pb-10 lg:mx-10 relative z-20 justify-center" id="travaux">
@@ -194,10 +201,51 @@ export default {
   },
 }
 
+document.addEventListener('DOMContentLoaded', () => {
+    const scrollToTopButton = document.querySelector('#scroll-to-top');
+    window.addEventListener('scroll', () => {
+      if (window.pageYOffset > 0) {
+        scrollToTopButton.classList.remove('hidden');
+        scrollToTopButton.classList.add('scroll-to-top-enter', 'scroll-to-top-enter-active');
+        scrollToTopButton.classList.remove('scroll-to-top-exit', 'scroll-to-top-exit-active');
+      } else {
+        scrollToTopButton.classList.add('scroll-to-top-exit', 'scroll-to-top-exit-active');
+        scrollToTopButton.classList.remove('scroll-to-top-enter', 'scroll-to-top-enter-active');
+        setTimeout(() => {
+          scrollToTopButton.classList.add('hidden');
+        }, 1000); /* Temps d'attente avant de cacher le bouton après l'animation */
+      }
+    });
+    scrollToTopButton.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+
 </script>
 
 <style>
 
+.scroll-to-top-enter {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+
+  .scroll-to-top-enter-active {
+    opacity: 1;
+    transform: scale(1);
+    transition: all 2s ease-in-out;
+  }
+
+  .scroll-to-top-exit {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  .scroll-to-top-exit-active {
+    opacity: 0;
+    transform: scale(0.5);
+    transition: all 2s ease-in-out;
+  }
 
 /* Cibler la scrollbar de WebKit */
 ::-webkit-scrollbar {
