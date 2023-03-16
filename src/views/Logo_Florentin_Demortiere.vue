@@ -63,6 +63,11 @@
   </nav>
   </header>
   <main class="text-white font-raleway">
+    <a href="#" id="scroll-to-top" class="fixed bottom-4 right-4 p-3 rounded-full bg-white text-black hidden hover:bg-white/70  transition ease-in-out duration-300 z-30">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 hover:text-white" fill="none" viewBox="0 0 24 24" stroke="black" >
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+      </svg>
+    </a>
     <div>
       <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
     </div>
