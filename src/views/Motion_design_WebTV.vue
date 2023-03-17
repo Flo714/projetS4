@@ -91,13 +91,13 @@
   <div class="lg:w-2/3 lg:my-20">
     <p>La réalisation d'un looper et d'une outro pour la WebTV a été une première pour moi. C'était mon 1er projet de motion design. Pour faire le looper, j'ai d'abord fait les visuels sur Photoshop
       avec les réseaux sociaux et les photos en arrière plan. Ensuite, j'ai exporter ces visuels sur Premiere pro pour faire le montage.</p>
-    <p class="my-2">Pour faire défiler les logos en arrière plan, j'ai utilisé les animations et les positions dans le temps pour les faire bouger</p>
+    <p class="my-2">Pour faire défiler les logos en arrière plan, j'ai utilisé les animations et les positions le temps pour les faire bouger</p>
   </div>
   <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20">
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
       <div class="lg:mx-10">
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/Pr_motion.png" alt="Image du looper sur Premiere pro">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/pr_motion.png" alt="Image du looper sur Premiere pro">
       </div>
       <div class="lg:mx-10">
         <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/ps_motion.png" alt="Image de Photoshop">
