@@ -105,7 +105,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Charte_graphique_Germagny">
-              <img class="" src="/public/images/Charte_graphique_Germagny.png" alt="Logo Aide à la reussite">
+              <img class="" src="/public/images/Charte_graphique_Germagny.png" alt="Image de présentation de la charte graphique de germagny">
               <div class="info">
                 <h3 class="text-xl font-bold"> Charte graphique Germagny</h3>
                 <div class="flex justify-center my-3">
@@ -114,7 +114,7 @@
               </div>
         </RouterLink>
         <RouterLink class="card" to="/Exposition_Universelle_2025">
-          <img class="" src="/public/images/Carte_postal.png" alt="Logo Aide à la reussite">
+          <img class="" src="/public/images/Carte_postal.png" alt="Image de présentation du projet de l'exposition universelle 2025">
           <div class="info">
             <h3 class="text-xl font-bold">Exposition Universelle 2025</h3>
             <div class="flex justify-center my-3">
@@ -123,7 +123,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Motion_design_WebTV">
-          <img class="" src="/public/images/Motion_design_WebTV.png" alt="Logo Aide à la reussite">
+          <img class="object-cover" src="/public/images/looper_motion.png" alt="Image de présentation du Motion Design">
           <div class="info">
             <h3 class="text-xl font-bold">Motion design WebTV</h3>
             <div class="flex justify-center my-3">
@@ -132,7 +132,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Aidealareussite">
-          <img class="object-cover" src="/public/images/Aide_reussite.png" alt="Logo Aide à la reussite">
+          <img class="object-cover" src="/public/images/Aide_reussite.png" alt="Image de présentation d'Aide à la réussite">
           <div class="info">
             <h3 class="text-xl font-bold">Aide à la reussite</h3>
             <div class="flex justify-center my-3">
