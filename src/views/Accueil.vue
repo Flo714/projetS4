@@ -231,7 +231,7 @@ document.addEventListener('DOMContentLoaded', () => {
   .scroll-to-top-enter-active {
     opacity: 1;
     transform: scale(1);
-    transition: all 2s ease-in-out;
+    transition: all 1s ease-in-out;
   }
 
   .scroll-to-top-exit {
@@ -242,7 +242,7 @@ document.addEventListener('DOMContentLoaded', () => {
   .scroll-to-top-exit-active {
     opacity: 0;
     transform: scale(0.5);
-    transition: all 2s ease-in-out;
+    transition: all 1s ease-in-out;
   }
 
 /* Cibler la scrollbar de WebKit */
