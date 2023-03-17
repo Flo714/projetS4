@@ -97,7 +97,7 @@
         <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg"  src="/public/images/affiche_ps.png" alt="Image de l'affiche sur Photoshop">
       </div>
       <div class="lg:mx-10">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/carte_postal_ps.png" alt="Image de la carte postal sur Photoshop">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/Carte_postal_ps.png" alt="Image de la carte postal sur Photoshop">
       </div>
     </div>
   </div>
