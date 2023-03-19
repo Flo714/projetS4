@@ -77,13 +77,13 @@
   <p class="opacity-80 text-sm lg:text-base">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 z-20">
-    <div class="my-10">
+    <div class="my-10 z-20">
       <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
         <source src="/public/video/Looper.mp4">
       </video>
       <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
     </div>
-    <div class="my-10">
+    <div class="my-10 z-20">
       <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
         <source src="/public/video/Outro.mp4">
       </video>
@@ -98,10 +98,10 @@
   <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
-      <div class="lg:mx-10">
+      <div class="lg:mx-10 z-20">
         <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/pr_motion.png" alt="Image du looper sur Premiere pro">
       </div>
-      <div class="lg:mx-10">
+      <div class="lg:mx-10 z-20">
         <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/ps_motion.png" alt="Image de Photoshop">
       </div>
     </div>

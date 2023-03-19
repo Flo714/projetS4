@@ -69,35 +69,37 @@
     </svg>
   </a>
   <div>
-      <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
-    </div>
-    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
+    <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
+  </div>
+  <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'une affiche et d'une carte postale</h1>
   <p class="opacity-80 text-sm lg:text-base">Ces réalisations ont été produite lors d'un exercice pédagogique. Ces affiches répondent à l'offre de l'Exposition Universelle 2025</p>
-  <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 z-20">
-    <div class="my-10">
+
+
+  <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 ">
+    <div class="my-10 z-20">
       <img class="w-52 mx-auto lg:w-64 xl:w-80" src="/public/images/Exposition_Universelle_2025.png" alt="Image de présentation de l'affiche">
       <p class="text-center my-4 italic">Affiche</p>
     </div>
 
-    <div>
+    <div class="z-20">
       <img class="w-64 mx-auto md:my-auto lg:w-80 xl:w-[380px]" src="/public/images/Carte_postal.png" alt="Image de présentation de la carte postale">
       <p class="text-center my-4 italic">Carte Postal</p>
     </div>
   </div>
-  <div class="xl:mr-[500px] my-10 md:mx-20 z-20">
-    <p>L'objectif de ce projet était d'imaginer un concept, de définir une iconographie et de mettre en page une affiche et une carte postale pour l'Exposition Universelle 2025. 
+  <div class="xl:mr-[500px] my-10 md:mx-20 ">
+    <p class="z-20">L'objectif de ce projet était d'imaginer un concept, de définir une iconographie et de mettre en page une affiche et une carte postale pour l'Exposition Universelle 2025. 
       Le thème de cette Exposition était "Concevoir la Société du Futur, Imaginer notre monde de Demain".<br>
     Pour réaliser l'affiche et la carte postale, j'ai utilisé l'outil Photoshop. ( voir ci-dessous ) J'ai choisi de mettre en oeuvre le concept de la liberté des espèces animales 
     en montrant que les animaux dans les zoos pouvait être remplacé par des robots afin de libérer les espèces dans leurs milieux naturels.</p>
   </div>
-  <div class="lg:my-40 mx-16 z-20">
+  <div class="lg:my-40 mx-16 ">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
-    <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36">
-      <div class="lg:mx-10">
+    <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 ">
+      <div class="lg:mx-10 z-20">
         <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg"  src="/public/images/affiche_ps.png" alt="Image de l'affiche sur Photoshop">
       </div>
-      <div class="lg:mx-10">
+      <div class="lg:mx-10 z-20">
         <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/Carte_postal_ps.png" alt="Image de la carte postal sur Photoshop">
       </div>
     </div>
