@@ -71,6 +71,8 @@
   <div>
       <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
     </div>
+    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
+
   <h1 class="font-bold text-lg xl:text-2xl mt-10 mb-5">Réalisation de la charte graphique de Charte graphique Germagny</h1>
 
   <p class="opacity-80 text-sm lg:mr-[400px] ml-6">C'est un projet fictif qui a pour but de réaliser la charte graphique de Germagny, un village de Saône et Loire. Elle a été réalisé sur le logiciel InDesign.</p>
