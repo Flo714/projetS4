@@ -86,7 +86,7 @@
   </div>
   <div class="xl:mr-[500px] my-10 md:mx-20">
     <p>L'objectif de ce projet était d'imaginer un concept, de définir une iconographie et de mettre en page une affiche et une carte postale pour l'Exposition Universelle 2025. 
-      Le thème de cette Exposition était "Concevoir la Société du Futur, Imaginer Notre de Demain".<br>
+      Le thème de cette Exposition était "Concevoir la Société du Futur, Imaginer notre monde de Demain".<br>
     Pour réaliser l'affiche et la carte postale, j'ai utilisé l'outil Photoshop. ( voir ci-dessous ) J'ai choisi de mettre en oeuvre le concept de la liberté des espèces animales 
     en montrant que les animaux dans les zoos pouvait être remplacé par des robots afin de libérer les espèces dans leurs milieux naturels.</p>
   </div>
