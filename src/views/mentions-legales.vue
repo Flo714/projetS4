@@ -75,7 +75,7 @@
 
     <h1 class="text-2xl my-6 lg:mb-20 lg:text-5xl font-bold">Mentions légales</h1>
   
-    <div class="mx-10">
+    <div class="mx-10 z-20">
 
       <div class="lg:mr-80">
         <h2 class="text-lg my-4 font-bold lg:my-8">1. Informations sur le propriétaire du site :</h2>

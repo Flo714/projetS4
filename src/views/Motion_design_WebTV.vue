@@ -76,7 +76,7 @@
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un looper et d'une outro pour la WebTV</h1>
   <p class="opacity-80 text-sm lg:text-base">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
 
-  <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56">
+  <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 z-20">
     <div class="my-10">
       <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
         <source src="/public/video/Looper.mp4">
@@ -90,12 +90,12 @@
       <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
     </div>
   </div>
-  <div class="lg:w-2/3 lg:my-20">
+  <div class="lg:w-2/3 lg:my-20 z-20">
     <p>La réalisation d'un looper et d'une outro pour la WebTV a été une première pour moi. C'était mon 1er projet de motion design. Pour faire le looper, j'ai d'abord fait les visuels sur Photoshop
       avec les réseaux sociaux et les photos en arrière plan. Ensuite, j'ai exporter ces visuels sur Premiere pro pour faire le montage.</p>
     <p class="my-2">Pour faire défiler les logos en arrière plan, j'ai utilisé les animations et les positions dans le temps pour les faire bouger</p>
   </div>
-  <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20">
+  <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
       <div class="lg:mx-10">

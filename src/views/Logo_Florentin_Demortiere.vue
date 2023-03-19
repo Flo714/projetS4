@@ -75,7 +75,7 @@
 
     <h1 class="text-lg font-bold my-10 mx-6 lg:text-2xl">Réalisation de mon logo personnel et du motion design</h1>
     <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20 lg:text-base sm:mx-8">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale.</p>
-    <div>
+    <div class="z-20">
       <div class=" my-10 md:flex md:mx-16 lg:justify-start lg:gap-10 lg:mx-2">
         <img class="w-48 mx-auto lg:ml-20 lg:mr-0  my-6 md:w-64 lg:w-[400px]" src="/public/images/Logo_portefolio.png" alt="Logo personnel">
         <p class="text-center my-12 lg:text-xl italic lg:mt-20 lg:ml-10">Création d'un logo personnel</p>
@@ -94,7 +94,7 @@
       </div>
     </div>
 
-    <div class="my-12 md:flex md:mx-16 md:items-center lg:justify-start lg:gap-10 lg:mx-2">
+    <div class="my-12 md:flex md:mx-16 md:items-center lg:justify-start lg:gap-10 lg:mx-2 z-20">
       <div class="lg:flex lg:flex-col lg:ml-20">
         <video width="200" height="" controls class=" mt-10 md:w-64 lg:w-[600px]  lg:mr-0 sm:w-72">
           <source src="/public/video/Logo_Animation.mp4">

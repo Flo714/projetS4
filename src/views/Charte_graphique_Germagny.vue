@@ -77,7 +77,7 @@
 
   <p class="opacity-80 text-sm lg:mr-[400px] ml-6">C'est un projet fictif qui a pour but de réaliser la charte graphique de Germagny, un village de Saône et Loire. Elle a été réalisé sur le logiciel InDesign.</p>
 
-  <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center">
+  <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div>
       <img src="/public/images/Charte_graphique_Germagny.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto" alt="Image de présentation de la charte graphique de Germagny">
       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
@@ -88,7 +88,7 @@
         Ensuite, Germagny étant une commune rural situé dans une région riche en bonvin</p>
   </div>
 
-  <div class="lg:my-40 mx-10 xl:mx-20">
+  <div class="lg:my-40 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
       <div class="lg:mx-10">
