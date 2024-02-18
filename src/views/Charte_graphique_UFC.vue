@@ -87,7 +87,7 @@
       <p class="md:mx-10 xl:mr-40">Pour créer la charte graphique de l'université de Franche-Comté avec InDesign, j'ai débuté par une recherche approfondie sur son identité et ses valeurs. Ensuite, j'ai élaboré une palette de couleurs et sélectionné des typographies adaptées. J'ai créé des motifs et des illustrations uniques, puis conçu des modèles de documents flexibles. Enfin, j'ai documenté l'ensemble des directives dans un guide de style détaillé pour assurer la cohérence visuelle.</p>
   </div>
 
-  <div class="lg:my-40 mx-10 xl:mx-20 z-20">
+  <div class="lg:my-40 mx-28 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64 ">
       <div class="lg:mx-20 z-20">
