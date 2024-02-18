@@ -81,9 +81,9 @@
         <p class="my-12 mr-20 lg:text-xl italic lg:mt-20 lg:ml-10">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale. Ils véhiculent un message dynamique et captivant.</p>
       </div>
       <div>
-        <div class="md:grid md:grid-cols-2 lg:items-center lg:justify-center lg:mb- md:mx-16">
+        <div class="md:grid md:grid-cols-2 lg:items-center lg:justify-center md:mx-16">
           <p class="my-10 sm:mx-8 lg:mx-0 lg:items-center lg:justify-center">Pour faire ce logo, j'ai commencé à rechercher des idées, à trouver des inspirations sur internet afin d'éclaircir les idées que j'avais en têtes puis
-          j'ai regardé les meilleurs portfolios afin d'observer les tendances design. Ensuite, je suis passé sur Illustrator afin de mettre mes idées sur en images.</p>
+          j'ai regardé les meilleurs portfolios afin d'observer les tendances design. Ensuite, je suis passé sur Illustrator afin de mettre mes idées en images.</p>
           <div class="my-10 z-20">
             <img class="w-72 mx-auto sm:w-80 md:w-[400px] lg:w-[500px]" src="/public/images/I_img.png" alt="Image de l'interface Illustrator">
             <p class="text-center mt-6 mb-12 lg:text-xl italic lg:ml-10">Logo sur Illustrator</p>
@@ -102,8 +102,7 @@
         <p class="text-center my-2 lg:text-xl italic lg:w-80 xl:ml-8">Vidéo réalisée à l'aide d'After Effect</p>
       </div>
       <div class="">
-        <p class="my-10 mx-4 sm:mx-8 lg:mx-28">Pour ce qui est de l'animation, j'ai utlisé After Effect. Je me suis renseigné sur internet pour trouvée une animation qui me convenait. 
-          Je l'ai ensuite réalisé pour arrivé à ce résultat</p>
+        <p class="my-10 mx-4 sm:mx-8 lg:mx-28">L'animation captivante conçue avec After Effects met en lumière mon logo d'une manière innovante et dynamique. Le logo apparaît et prends vie à travers une séquence d'effets visuels. Des éléments graphiques créatifs s'entrelacent harmonieusement avec mon logo, créant une expérience visuelle immersive. </p>
       </div>
     </div>
 
