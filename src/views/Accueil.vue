@@ -105,7 +105,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Charte_graphique_Germagny">
-              <img class="" src="/public/images/Charte_graphique_Germagny.png" alt="Image de présentation de la charte graphique de germagny">
+              <img class="" src="/public/images/Charte_UFC.png" alt="Image de présentation de la charte graphique de germagny">
               <div class="info">
                 <h3 class="text-xl font-bold"> Charte graphique Germagny</h3>
                 <div class="flex justify-center my-3">
