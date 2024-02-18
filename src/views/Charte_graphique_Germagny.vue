@@ -92,13 +92,13 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64 ">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/I_img_p2.png" alt="Image du logo sur Illustrator">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/Couleurs.jpeg" alt="Image des couleurs de la charte graphique de l'université de Franche-Comté">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/Applications_varie.jpeg" alt="Image de mock-up de la charte graphique de l'université de Franche-Comté">
       </div>
       <div class="lg:mx-10 z-20"> 
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/img2_p2.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/Restriction.jpeg" alt="Image des restrictions de la charte graphique de l'université de Franche-Comté">
       </div>
     </div>
   </div>
