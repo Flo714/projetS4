@@ -71,7 +71,7 @@
   <div>
       <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
     </div>
-    <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
+    <img class="fixed flex items-center justify-center opacity-10 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
 
   <h1 class="font-bold text-lg xl:text-2xl mt-10 mb-5">Réalisation de la charte graphique de l'université de Franche-Comté (projet éducatif)</h1>
 
