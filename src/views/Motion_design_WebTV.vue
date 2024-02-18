@@ -121,7 +121,8 @@ name: "App",
 components: { RouterLink },
 data() {
 return {
-  menuOuvert: false,
+  currentYear: new Date().getFullYear(),
+    menuOuvert: false,
 };
 },
 }
