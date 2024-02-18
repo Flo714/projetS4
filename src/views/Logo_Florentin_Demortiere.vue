@@ -74,11 +74,11 @@
     <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
 
     <h1 class="text-lg font-bold my-10 mx-6 lg:text-2xl z-20">Réalisation de mon logo personnel et du motion design</h1>
-    <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20 lg:text-base sm:mx-8 z-20">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale.</p>
+    <p class="opacity-80 text-sm px-4 lg:mr-[500px] lg:mx-20 lg:text-base sm:mx-8 z-20">Dans un monde où l'image est devenue essentielle pour se démarquer et communiquer efficacement, la création d'un logo personnel et son intégration dans un motion design dynamique sont des éléments clés pour véhiculer une identité visuelle forte et mémorable. Cette démarche artistique et technique allie à la fois la créativité graphique et les dernières avancées en animation digitale. Dans ce processus, chaque détail compte : des formes aux couleurs en passant par les mouvements fluides, tout est pensé pour refléter au mieux ma personnalité, mon style et mon message. Découvrez le parcours fascinant de la réalisation de mon logo personnel et de son motion design, où chaque étape est une exploration artistique pour donner vie à la vision et captiver votre audience.</p>
     <div class="z-20">
       <div class=" my-10 md:flex md:mx-16 lg:justify-start lg:gap-10 lg:mx-2 z-20">
         <img class="w-48 mx-auto lg:ml-20 lg:mr-0  my-6 md:w-64 lg:w-[400px]" src="/public/images/Logo_portefolio.png" alt="Logo personnel">
-        <p class="text-center my-12 lg:text-xl italic lg:mt-20 lg:ml-10">Création d'un logo personnel</p>
+        <p class="text-center my-12 lg:text-xl italic lg:mt-20 lg:ml-10">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale. Ils véhiculent un message dynamique et captivant.</p>
       </div>
       <div>
         <div class="md:grid md:grid-cols-2 lg:items-center lg:justify-center lg:mb- md:mx-16">
