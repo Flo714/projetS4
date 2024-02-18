@@ -78,7 +78,7 @@
     <div class="z-20">
       <div class=" my-10 md:flex md:mx-16 lg:justify-start lg:gap-10 lg:mx-2 z-20">
         <img class="w-48 mx-auto lg:ml-20 lg:mr-0  my-6 md:w-64 lg:w-[400px]" src="/public/images/Logo_portefolio.png" alt="Logo personnel">
-        <p class="my-12 lg:text-xl italic lg:mt-20 lg:ml-10">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale. Ils véhiculent un message dynamique et captivant.</p>
+        <p class="my-12 mr-20 lg:text-xl italic lg:mt-20 lg:ml-10">C'est un logo personnel qui représente mes passions et mes aspirations. J'ai choisi de travailler avec Illustrator pour créer un logo qui associe les lettres F et D de manière créative et originale. Ils véhiculent un message dynamique et captivant.</p>
       </div>
       <div>
         <div class="md:grid md:grid-cols-2 lg:items-center lg:justify-center lg:mb- md:mx-16">
