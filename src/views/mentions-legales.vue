@@ -143,6 +143,7 @@ name: "App",
 components: { RouterLink },
 data() {
 return {
+  currentYear: new Date().getFullYear(),
   menuOuvert: false,
 };
 },
