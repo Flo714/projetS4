@@ -99,7 +99,7 @@
         <video width="200" height="" controls class=" mt-10 md:w-64 lg:w-[600px]  lg:mr-0 sm:w-72">
           <source src="/public/video/Logo_Animation.mp4">
         </video>
-        <p class="text-center my-8 lg:text-xl italic lg:w-80 xl:ml-8">Vidéo réalisée à l'aide d'After Effect</p>
+        <p class="text-center my-2 lg:text-xl italic lg:w-80 xl:ml-8">Vidéo réalisée à l'aide d'After Effect</p>
       </div>
       <div class="">
         <p class="my-10 mx-4 sm:mx-8 lg:mx-28">Pour ce qui est de l'animation, j'ai utlisé After Effect. Je me suis renseigné sur internet pour trouvée une animation qui me convenait. 
