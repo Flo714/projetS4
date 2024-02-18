@@ -79,9 +79,9 @@
 
   <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="z-20">
-      <img src="/public/images/Charte_graphique_Germagny.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto" alt="Image de présentation de la charte graphique de Germagny">
+      <img src="/public/images/Charte_UFC.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto" alt="Image de présentation de la charte graphique de l'université de Franche-Comté">
       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
-        <a class="hover_1 text-sm lg:text-lg italic" href="Charte_graphique_Germagny.pdf" target="_blank">Voir plus</a>
+        <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_univ.pdf" target="_blank">Voir plus</a>
       </div>
     </div>
       <p class="md:mx-10 xl:mr-40">Pour arrriver à ce résultat, j'ai d'abord commencé par faire le logo. Je me suis inspiré d'autres communes pour arriver à faire une église. 
