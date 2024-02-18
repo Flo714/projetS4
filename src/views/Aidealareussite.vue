@@ -122,6 +122,7 @@ export default {
   components: { RouterLink },
     data() {
     return {
+        currentYear: new Date().getFullYear(),
       menuOuvert: false,
     };
     },
