@@ -84,8 +84,7 @@
         <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_univ.pdf" target="_blank">Voir plus</a>
       </div>
     </div>
-      <p class="md:mx-10 xl:mr-40">Pour arrriver à ce résultat, j'ai d'abord commencé par faire le logo. Je me suis inspiré d'autres communes pour arriver à faire une église. 
-        Ensuite, Germagny étant une commune rural situé dans une région riche en bonvin</p>
+      <p class="md:mx-10 xl:mr-40">Pour créer la charte graphique de l'université de Franche-Comté avec InDesign, j'ai débuté par une recherche approfondie sur son identité et ses valeurs. Ensuite, j'ai élaboré une palette de couleurs et sélectionné des typographies adaptées. J'ai créé des motifs et des illustrations uniques, puis conçu des modèles de documents flexibles. Enfin, j'ai documenté l'ensemble des directives dans un guide de style détaillé pour assurer la cohérence visuelle.</p>
   </div>
 
   <div class="lg:my-40 mx-10 xl:mx-20 z-20">
