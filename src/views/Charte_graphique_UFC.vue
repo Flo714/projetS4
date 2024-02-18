@@ -81,7 +81,7 @@
     <div class="z-20">
       <img src="/public/images/Charte_UFC.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto shadow-white shadow" alt="Image de présentation de la charte graphique de l'université de Franche-Comté">
       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
-        <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_univ.pdf" target="_blank">Voir plus</a>
+        <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_univ.pdf" target="_blank">Télécharger</a>
       </div>
     </div>
       <p class="md:mx-10 xl:mr-40">Pour créer la charte graphique de l'université de Franche-Comté avec InDesign, j'ai débuté par une recherche approfondie sur son identité et ses valeurs. Ensuite, j'ai élaboré une palette de couleurs et sélectionné des typographies adaptées. J'ai créé des motifs et des illustrations uniques, puis conçu des modèles de documents flexibles. Enfin, j'ai documenté l'ensemble des directives dans un guide de style détaillé pour assurer la cohérence visuelle.</p>
