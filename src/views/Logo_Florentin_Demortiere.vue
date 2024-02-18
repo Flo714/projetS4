@@ -99,7 +99,7 @@
         <video width="200" height="" controls class=" mt-10 md:w-64 lg:w-[600px]  lg:mr-0 sm:w-72">
           <source src="/public/video/Logo_Animation.mp4">
         </video>
-        <p class="text-center my-2 lg:text-xl italic lg:w-80 xl:ml-8">Vidéo réalisée à l'aide d'After Effect</p>
+        <p class="text-center my-2 lg:text-xl italic lg:w-80">Vidéo réalisée à l'aide d'After Effect</p>
       </div>
       <div class="">
         <p class="my-10 mx-4 sm:mx-8 lg:mx-28">L'animation captivante conçue avec After Effects met en lumière mon logo d'une manière innovante et dynamique. Le logo apparaît et prends vie à travers une séquence d'effets visuels. Des éléments graphiques créatifs s'entrelacent harmonieusement avec mon logo, créant une expérience visuelle immersive. </p>
