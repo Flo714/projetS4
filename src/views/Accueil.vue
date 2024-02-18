@@ -181,7 +181,7 @@
         </div>
       </div>
       <div class="text-[10px] italic flex justify-center mx-2 my-1 mt-20 lg:text-xs xl:text-base ">
-        <p class="">Portfolio 2023 © - Florentin Demortiere - <RouterLink class="hover:font-black duration-300 underline" to="/mentions_legales">Mentions Légales</RouterLink></p>
+        <p class="">Portfolio {{currentYear}} © - Florentin Demortiere - <RouterLink class="hover:font-black duration-300 underline" to="/mentions_legales">Mentions Légales</RouterLink></p>
       </div>
   </main>
 </template>
@@ -194,6 +194,7 @@ export default {
   components: { RouterLink },
   data() {
     return {
+        currentYear: new Date().getFullYear(),
       menuOuvert: false,
     };
   },
