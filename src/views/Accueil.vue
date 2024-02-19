@@ -114,7 +114,7 @@
               </div>
         </RouterLink>
         <RouterLink class="card" to="/drone_video">
-          <img class="" src="/public/images/GYBM0529-min.jpg" alt="Image de présentation du projet de la video en drone">
+          <img class="" src="/public/images/img_pres.JPG" alt="Image de présentation du projet de la video en drone">
           <div class="info">
             <h3 class="text-xl font-bold">Video Drone</h3>
             <div class="flex justify-center my-3">
