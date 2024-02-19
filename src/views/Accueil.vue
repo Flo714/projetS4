@@ -113,7 +113,7 @@
                 </div>
               </div>
         </RouterLink>
-        <RouterLink class="card" to="/Drone_video">
+        <RouterLink class="card" to="/drone_video">
           <img class="" src="/public/images/Carte_postal.png" alt="Image de présentation du projet de l'exposition universelle 2025">
           <div class="info">
             <h3 class="text-xl font-bold">Exposition Universelle 2025</h3>
