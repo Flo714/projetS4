@@ -3,7 +3,7 @@ import AccueilView from '../views/Accueil.vue'
 import Logo_Florentin_Demortiere from '../views/Logo_Florentin_Demortiere.vue'
 import Charte_graphique_UFC from '../views/Charte_graphique_UFC.vue'
 import Motion_design_WebTV from '../views/Motion_design_WebTV.vue'
-import Drone_video from '../views/Drone-video.vue'
+import Drone_video from '../views/Drone_video.vue'
 import Aidealareussite from '../views/Aidealareussite.vue'
 import mentions_legales from '../views/mentions-legales.vue'
 
