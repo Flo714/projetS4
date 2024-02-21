@@ -73,7 +73,7 @@
   </div>
   <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un Mini-Film drone</h1>
-  <p class="opacity-80 text-sm lg:text-base">J'ai récemment entrepris un projet captivant : la réalisation d'un Mini-Film à partir de vidéos prises avec un drone. Ce périple a été à la fois passionnant et stimulant. Chaque vol du drone a offert une perspective unique, capturant des paysages à couper le souffle et des moments éphémères avec une clarté saisissante. Parcourant des lieux pittoresques et explorant des angles inédits, j'ai créé un montage visuel qui raconte une histoire immersive. Le processus de création m'a permis de fusionner ma passion pour la vidéographie avec l'exploration aérienne, donnant vie à un Mini-Film qui incarne l'émerveillement et l'aventure.</p>
+  <p class="opacity-80 text-sm lg:text-base lg:mr-40">J'ai récemment entrepris un projet captivant : la réalisation d'un Mini-Film à partir de vidéos prises avec un drone. Ce périple a été à la fois passionnant et stimulant. Chaque vol du drone a offert une perspective unique, capturant des paysages à couper le souffle et des moments éphémères avec une clarté saisissante. Parcourant des lieux pittoresques et explorant des angles inédits, j'ai créé un montage visuel qui raconte une histoire immersive. Le processus de création m'a permis de fusionner ma passion pour la vidéographie avec l'exploration aérienne, donnant vie à un Mini-Film qui incarne l'émerveillement et l'aventure.</p>
 
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 lg:ml-20 ">
@@ -83,7 +83,7 @@
     </div>
 
     <div class="z-20">
-        <h2 class="font-bold text-lg lg:text-2xl mt-10 mb-20 mx-10">Technique de tournage</h2>
+        <h2 class="font-bold text-lg lg:text-xl">Technique de tournage</h2>
       <p class="my-4">Pour mon mini-film en drone, j'ai d'abord planifié minutieusement mes prises de vue en repérant les points clés sur la carte. Une fois sur place, j'ai préparé mon équipement, vérifié les conditions météo, et utilisé des techniques variées de vol pour capturer des images dynamiques. En ajustant l'altitude et en filmant aux heures dorées, j'ai réussi à créer un récit visuel immersif mettant en valeur la beauté naturelle de la campagne, tout en respectant les règles de sécurité.</p>
     </div>
   </div>
