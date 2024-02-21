@@ -87,10 +87,10 @@
       <p class="my-4">Pour mon mini-film en drone, j'ai d'abord planifié minutieusement mes prises de vue en repérant les points clés sur la carte. Une fois sur place, j'ai préparé mon équipement, vérifié les conditions météo, et utilisé des techniques variées de vol pour capturer des images dynamiques. En ajustant l'altitude et en filmant aux heures dorées, j'ai réussi à créer un récit visuel immersif mettant en valeur la beauté naturelle de la campagne, tout en respectant les règles de sécurité.</p>
     </div>
   </div>
-<div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 lg:ml-20 ">
+<div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
     <div class="z-20">
         <h2 class="font-bold text-lg lg:text-xl">Technique de tournage</h2>
-      <p class="my-4 mr-40">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
+      <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
     </div>
     <div class="my-10 z-20">
         <img src="/public/images/Drone_img.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
@@ -101,10 +101,10 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 ">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg"  src="/public/images/affiche_ps.png" alt="Image de l'affiche sur Photoshop">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg"  src="/public/images/Img_drone1.png" alt="Image de la video 1">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/Carte_postal_ps.png" alt="Image de la carte postal sur Photoshop">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/Img_drone2.png" alt="Image de la video 2">
       </div>
     </div>
   </div>
