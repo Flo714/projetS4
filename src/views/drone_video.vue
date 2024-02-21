@@ -100,10 +100,10 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 ">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg"  src="/public/images/Img_drone1.png" alt="Image de la video 1">
+        <img class="max-w-[250px]  lg:max-w-md"  src="/public/images/Img_drone1.png" alt="Image de la video 1">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/Img_drone2.png" alt="Image de la video 2">
+        <img class="max-w-[250px] lg:max-w-md" src="/public/images/Img_drone2.png" alt="Image de la video 2">
       </div>
     </div>
   </div>
