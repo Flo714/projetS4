@@ -72,8 +72,8 @@
     <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
   </div>
   <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
-  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'une affiche et d'une carte postale</h1>
-  <p class="opacity-80 text-sm lg:text-base">Ces réalisations ont été produite lors d'un exercice pédagogique. Ces affiches répondent à l'offre de l'Exposition Universelle 2025</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un petit film drone</h1>
+  <p class="opacity-80 text-sm lg:text-base">J'ai récemment entrepris un projet captivant : la réalisation d'un petit film à partir de vidéos prises avec un drone. Ce périple a été à la fois passionnant et stimulant. Chaque vol du drone a offert une perspective unique, capturant des paysages à couper le souffle et des moments éphémères avec une clarté saisissante. Parcourant des lieux pittoresques et explorant des angles inédits, j'ai créé un montage visuel qui raconte une histoire immersive. Le processus de création m'a permis de fusionner ma passion pour la vidéographie avec l'exploration aérienne, donnant vie à un petit film qui incarne l'émerveillement et l'aventure.</p>
 
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 ">
