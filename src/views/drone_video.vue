@@ -89,7 +89,6 @@
   </div>
 <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
     <div class="z-20">
-        <h2 class="font-bold text-lg lg:text-xl">Technique de tournage</h2>
       <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
     </div>
     <div class="my-10 z-20">
