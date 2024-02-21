@@ -87,11 +87,15 @@
       <p class="my-4">Pour mon mini-film en drone, j'ai d'abord planifié minutieusement mes prises de vue en repérant les points clés sur la carte. Une fois sur place, j'ai préparé mon équipement, vérifié les conditions météo, et utilisé des techniques variées de vol pour capturer des images dynamiques. En ajustant l'altitude et en filmant aux heures dorées, j'ai réussi à créer un récit visuel immersif mettant en valeur la beauté naturelle de la campagne, tout en respectant les règles de sécurité.</p>
     </div>
   </div>
-  <div class="xl:mr-[500px] my-10 md:mx-20 ">
-    <p class="z-20">L'objectif de ce projet était d'imaginer un concept, de définir une iconographie et de mettre en page une affiche et une carte postale pour l'Exposition Universelle 2025. 
-      Le thème de cette Exposition était "Concevoir la Société du Futur, Imaginer notre monde de Demain".<br>
-    Pour réaliser l'affiche et la carte postale, j'ai utilisé l'outil Photoshop. ( voir ci-dessous ) J'ai choisi de mettre en oeuvre le concept de la liberté des espèces animales 
-    en montrant que les animaux dans les zoos pouvait être remplacé par des robots afin de libérer les espèces dans leurs milieux naturels.</p>
+<div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 lg:ml-20 ">
+    <div class="z-20">
+        <h2 class="font-bold text-lg lg:text-xl">Technique de tournage</h2>
+      <p class="my-4">Pour mon mini-film en drone, j'ai d'abord planifié minutieusement mes prises de vue en repérant les points clés sur la carte. Une fois sur place, j'ai préparé mon équipement, vérifié les conditions météo, et utilisé des techniques variées de vol pour capturer des images dynamiques. En ajustant l'altitude et en filmant aux heures dorées, j'ai réussi à créer un récit visuel immersif mettant en valeur la beauté naturelle de la campagne, tout en respectant les règles de sécurité.</p>
+    </div>
+    <div class="my-10 z-20">
+      
+      <p class="text-center my-4 italic">Mini-Film drone</p>
+    </div>
   </div>
   <div class="lg:my-40 mx-16 ">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
