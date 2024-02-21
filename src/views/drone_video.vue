@@ -83,8 +83,8 @@
     </div>
 
     <div class="z-20">
-      <img class="w-64 mx-auto md:my-auto lg:w-80 xl:w-[380px]" src="/public/images/Carte_postal.png" alt="Image de présentation de la carte postale">
-      <p class="text-center my-4 italic">Carte Postal</p>
+        <h2>Technique de tournage</h2>
+      <p class="my-4">Pour mon mini-film en drone, j'ai d'abord planifié minutieusement mes prises de vue en repérant les points clés sur la carte. Une fois sur place, j'ai préparé mon équipement, vérifié les conditions météo, et utilisé des techniques variées de vol pour capturer des images dynamiques. En ajustant l'altitude et en filmant aux heures dorées, j'ai réussi à créer un récit visuel immersif mettant en valeur la beauté naturelle de la campagne, tout en respectant les règles de sécurité.</p>
     </div>
   </div>
   <div class="xl:mr-[500px] my-10 md:mx-20 ">
