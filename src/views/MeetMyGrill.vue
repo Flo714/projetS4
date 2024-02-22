@@ -74,19 +74,15 @@
     <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
 
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation de l'identité d'un restaurant (projet éducatif)</h1>
-  <p class="opacity-80 text-sm lg:text-base">En collaboration avec trois camarades créatifs, j'ai eu le privilège de concevoir l'identité graphique d'un restaurant captivant. Notre équipe de quatre personnes a fusionné ses compétences en design pour donner vie à une vision commune, mêlant art culinaire et esthétique visuelle. Ensemble, nous avons exploré chaque élément, des logos aux menus en passant par le site internet, afin de capturer l'essence unique du restaurant et de créer une expérience visuelle cohérente et mémorable pour les clients. Cette collaboration dynamique a permis de combiner nos idées créatives individuelles pour aboutir à une identité graphique qui reflète parfaitement l'atmosphère et le style distinctifs de l'établissement.</p>
+  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px]">En collaboration avec trois camarades créatifs, j'ai eu le privilège de concevoir l'identité graphique d'un restaurant captivant. Notre équipe de quatre personnes a fusionné ses compétences en design pour donner vie à une vision commune, mêlant art culinaire et esthétique visuelle. Ensemble, nous avons exploré chaque élément, des logos aux menus en passant par le site internet, afin de capturer l'essence unique du restaurant et de créer une expérience visuelle cohérente et mémorable pour les clients. Cette collaboration dynamique a permis de combiner nos idées créatives individuelles pour aboutir à une identité graphique qui reflète parfaitement l'atmosphère et le style distinctifs de l'établissement.</p>
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 z-20">
     <div class="my-10 z-20">
-      <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
-        <source src="/public/video/Looper.mp4">
-      </video>
+     
       <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
     </div>
     <div class="my-10 z-20">
-      <video width="250" height="" controls class="mx-auto mt-10 md:w-80 xl:w-[500px]">
-        <source src="/public/video/Outro.mp4">
-      </video>
+      
       <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
     </div>
   </div>
