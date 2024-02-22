@@ -1,4 +1,4 @@
-<template>
+y<template>
     <header class="font-raleway italic font-extrabold relative z-20">
         <nav class="lg:flex lg:justify-between">
         <div class="flex justify-between m-4">
@@ -123,9 +123,9 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Motion_design_WebTV">
-          <img class="object-cover" src="/public/images/looper_motion.png" alt="Image de présentation du Motion Design">
+          <img class="object-cover" src="/public/images/meetmygrill.png" alt="Image de présentation du projet "Meet My Grill"">
           <div class="info">
-            <h3 class="text-xl font-bold">Motion design WebTV</h3>
+            <h3 class="text-xl font-bold">Meet My Grill</h3>
             <div class="flex justify-center my-3">
               <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
             </div>
