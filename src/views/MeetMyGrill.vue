@@ -125,7 +125,7 @@
         <img class="max-w-[250px] lg:max-w-sm" src="/public/images/menu2_mg.png" alt="Image du menu de Meet My Grill">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-sm" src="/public/images/website_mg.png" alt="Image du site internet de Meet My Grill">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/website_mg.png" alt="Image du site internet de Meet My Grill">
       </div>
     </div>
   </div>
