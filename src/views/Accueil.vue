@@ -131,7 +131,7 @@ y<template>
             </div>
           </div>
         </RouterLink>
-        <RouterLink class="card" to="/Aidealareussite">
+        <RouterLink class="card" to="/Schoolastique">
           <img class="object-cover" src="/public/images/Schoolastique.png" alt="Image de présentation de Schoolastique">
           <div class="info">
             <h3 class="text-xl font-bold">Schoolastique</h3>
