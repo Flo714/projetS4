@@ -108,7 +108,7 @@
       <p class="my-4">Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui comment nous avons réaliser l'identité complète de "Meet My grill"</p>
     </div>
     <div class="z-20">
-      <img src="/public/images/Img_com_mg.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto shadow-white shadow" alt="Image de présentation du dossier de communication de "Meet My Grill"">
+      <img src="/public/images/Img_com_mg.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto shadow-white shadow" alt="Image de présentation du dossier de communication de Meet My Grill">
       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
         <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_com_mg.pdf" target="_blank">Télécharger</a>
       </div>
@@ -123,10 +123,10 @@
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/pr_motion.png" alt="Image du looper sur Premiere pro">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/menu2_mg.png" alt="Image du menu de Meet My Grill">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/ps_motion.png" alt="Image de Photoshop">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/website_mg.png" alt="Image du site internet de Meet My Grill">
       </div>
     </div>
   </div>
