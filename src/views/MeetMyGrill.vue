@@ -93,13 +93,13 @@
       <div class="lg:mx-20 z-20">
         <img class="max-w-[120px] lg:max-w-xs" src="/public/images/Affiche_mg.png" alt="Image de l'affiche de Meet My Grill">
       </div>
-      <p class="text-center text-sm italic my-4">Affiche</p>
+      <p class="text-center italic my-4">Affiche</p>
     </div>
     <div class="my-10 z-20">
       <div class="lg:mx-20 z-20">
         <img class="max-w-[120px] lg:max-w-xs" src="/public/images/menu1_mg.png" alt="Image de présentation du menu">
       </div>
-      <p class="text-center text-sm italic my-4">Menu de présentation</p>
+      <p class="text-center italic my-4">Menu de présentation</p>
     </div>
   </div>
   <div class="lg:w-2/3 lg:my-20 z-20">
