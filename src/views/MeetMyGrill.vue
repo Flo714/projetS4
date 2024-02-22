@@ -108,7 +108,7 @@
       <p class="my-4">Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui comment nous avons réaliser l'identité complète de "Meet My grill"</p>
     </div>
     <div class="z-20">
-      <img src="/public/images/Img_com_mg.png" class="w-[70%] mx-auto shadow-white shadow" alt="Image de présentation du dossier de communication de Meet My Grill">
+      <img src="/public/images/img_com_mg.png" class="w-[70%] mx-auto shadow-white shadow" alt="Image de présentation du dossier de communication de Meet My Grill">
       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
         <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_com_mg.pdf" target="_blank">Télécharger</a>
       </div>
