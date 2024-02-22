@@ -93,7 +93,7 @@
     </div>
     <div class="my-10 z-20">
         <img src="/public/images/Drone_img.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
-      <p class="text-center my-4 italic">DJI Mini 3 Pro</p>
+      <p class="text-center mb-4 lg:-mt-20 italic">DJI Mini 3 Pro</p>
     </div>
   </div>
   <div class="lg:my-40 mx-16 ">
