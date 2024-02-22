@@ -73,8 +73,8 @@
     </div>
     <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
 
-  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un looper et d'une outro pour la WebTV</h1>
-  <p class="opacity-80 text-sm lg:text-base">C'est un projet qui avait pour but de réaliser les habillage vidéo de la WebTV - IUT Nord Franche-Comté. Je me suis occupé du looper et de l'outro.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation de l'identité d'un restaurant (projet éducatif)</h1>
+  <p class="opacity-80 text-sm lg:text-base">En collaboration avec trois camarades créatifs, j'ai eu le privilège de concevoir l'identité graphique d'un restaurant captivant. Notre équipe de quatre personnes a fusionné ses compétences en design pour donner vie à une vision commune, mêlant art culinaire et esthétique visuelle. Ensemble, nous avons exploré chaque élément, des logos aux menus en passant par le site internet, afin de capturer l'essence unique du restaurant et de créer une expérience visuelle cohérente et mémorable pour les clients. Cette collaboration dynamique a permis de combiner nos idées créatives individuelles pour aboutir à une identité graphique qui reflète parfaitement l'atmosphère et le style distinctifs de l'établissement.</p>
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 z-20">
     <div class="my-10 z-20">
