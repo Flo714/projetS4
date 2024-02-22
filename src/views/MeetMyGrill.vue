@@ -78,12 +78,16 @@
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 z-20">
     <div class="my-10 z-20">
-     
-      <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
+      <div class="lg:mx-20 z-20">
+        <img class="max-w-[200px] lg:max-w-md" src="/public/images/Affiche_mg.png" alt="Image de l'affiche de Meet My Grill">
+      </div>
+      <p class="text-center text-sm italic my-4">Affiche</p>
     </div>
     <div class="my-10 z-20">
-      
-      <p class="text-center text-sm italic my-4">Vidéo réalisée à l'aide de Premiere Pro</p>
+      <div class="lg:mx-20 z-20">
+        <img class="max-w-[200px] lg:max-w-md" src="/public/images/menu1_mg.png" alt="Image de présentation du menu">
+      </div>
+      <p class="text-center text-sm italic my-4">Menu de présentation</p>
     </div>
   </div>
   <div class="lg:w-2/3 lg:my-20 z-20">
