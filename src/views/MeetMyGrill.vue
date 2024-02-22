@@ -107,9 +107,11 @@
     <div class="z-20">
       <p class="my-4">Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui comment nous avons réaliser l'identité complète de "Meet My grill"</p>
     </div>
-    <div class="my-10 z-20">
-        <img src="/public/images/Drone_img.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
-      <p class="text-center mb-4 lg:-mt-12 italic">DJI Mini 3 Pro</p>
+    <div class="z-20">
+      <img src="/public/images/Charte_UFC.png" class="w-[70%] mx-auto lg:max-w-[700px] xl:mx-auto shadow-white shadow" alt="Image de présentation de la charte graphique de l'université de Franche-Comté">
+      <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
+        <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_univ.pdf" target="_blank">Télécharger</a>
+      </div>
     </div>
   </div>
     
