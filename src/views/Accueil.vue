@@ -122,7 +122,7 @@ y<template>
             </div>
           </div>
         </RouterLink>
-        <RouterLink class="card" to="/Motion_design_WebTV">
+        <RouterLink class="card" to="/MeetMyGrill">
           <img class="object-cover" src="/public/images/meetmygrill.png" alt="Image de présentation du projet Meet My Grill">
           <div class="info">
             <h3 class="text-xl font-bold">Meet My Grill</h3>
