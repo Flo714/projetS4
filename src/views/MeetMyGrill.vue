@@ -102,6 +102,17 @@
       <p class="text-center italic my-4">Menu de présentation</p>
     </div>
   </div>
+    
+  <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
+    <div class="z-20">
+      <p class="my-4">Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui comment nous avons réaliser l'identité complète de "Meet My grill"</p>
+    </div>
+    <div class="my-10 z-20">
+        <img src="/public/images/Drone_img.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
+      <p class="text-center mb-4 lg:-mt-12 italic">DJI Mini 3 Pro</p>
+    </div>
+  </div>
+    
   <div class="lg:w-2/3 lg:my-20 z-20">
     <p>Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui invite nos clients à découvrir et à vivre l'expérience "Meet My Grill" de manière immersive et mémorable.</p>
     <p class="my-2">Pour faire défiler les logos en arrière plan, j'ai utilisé les animations et les positions dans le temps pour les faire bouger</p>
