@@ -109,20 +109,20 @@
     </div>
     <div class="z-20">
       <img src="/public/images/img_com_mg.png" class="w-[70%] mx-auto shadow-white shadow" alt="Image de présentation du dossier de communication de Meet My Grill">
-      <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
+      <div class="flex justify-end my-4 mr-10 font-bold xl:justify-end xl:my-4">
         <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_com_mg.pdf" target="_blank">Télécharger</a>
       </div>
     </div>
   </div>
     
-  <div class="lg:w-1/2 lg:my-20 z-20">
+  <div class="lg:w-1/2 lg:my-20 lg:ml-40 z-20">
     <p>Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui invite nos clients à découvrir et à vivre l'expérience "Meet My Grill" de manière immersive et mémorable.</p>
   </div>
   <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-sm" src="/public/images/menu2_mg.png" alt="Image du menu de Meet My Grill">
+        <img class="max-w-[250px]  lg:max-w-md src="/public/images/menu2_mg.png" alt="Image du menu de Meet My Grill">
       </div>
       <div class="lg:mx-10 z-20">
         <img class="max-w-[250px] lg:max-w-md xl:max-w-sm" src="/public/images/website_mg.png" alt="Image du site internet de Meet My Grill">
