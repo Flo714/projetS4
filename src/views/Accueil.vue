@@ -116,7 +116,7 @@
         <RouterLink class="card" to="/drone_video">
           <img class="" src="/public/images/img_pres.jpg" alt="Image de présentation du projet de la video en drone">
           <div class="info">
-            <h3 class="text-xl font-bold">Video Drone</h3>
+            <h3 class="text-xl font-bold">Mini-Film drone</h3>
             <div class="flex justify-center my-3">
               <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
             </div>
