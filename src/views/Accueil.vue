@@ -123,7 +123,7 @@ y<template>
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Motion_design_WebTV">
-          <img class="object-cover" src="/public/images/meetmygrill.png" alt="Image de présentation du projet "Meet My Grill"">
+          <img class="object-cover" src="/public/images/meetmygrill.png" alt="Image de présentation du projet Meet My Grill">
           <div class="info">
             <h3 class="text-xl font-bold">Meet My Grill</h3>
             <div class="flex justify-center my-3">
