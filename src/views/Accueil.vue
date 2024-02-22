@@ -132,7 +132,7 @@
           </div>
         </RouterLink>
         <RouterLink class="card" to="/Aidealareussite">
-          <img class="object-cover" src="/public/images/Aide_reussite.png" alt="Image de présentation d'Aide à la réussite">
+          <img class="object-cover" src="/public/images/Schoolastique.png" alt="Image de présentation de Schoolastique">
           <div class="info">
             <h3 class="text-xl font-bold">Schoolastique</h3>
             <div class="flex justify-center my-3">
