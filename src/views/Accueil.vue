@@ -152,7 +152,7 @@
         <RouterLink class="card" to="/Offf_2025.vue">
           <img class="object-cover" src="/public/images/Offf_2025.png" alt="Image de présentation du match UFC">
           <div class="info">
-            <h3 class="text-xl font-bold">Recommendation Créative OFFF2025</h3>
+            <h3 class="text-xl text-center font-bold">Recommendation Créative OFFF 2025</h3>
             <div class="flex justify-center my-3">
               <button class="bg-white text-black border-white border-2 font-bold px-3 py-2 rounded-full hover:bg-transparent hover:text-white duration-300 text-sm">En savoir plus</button>
             </div>
