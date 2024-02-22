@@ -6,6 +6,7 @@ import MeetMyGrill from '../views/MeetMyGrill.vue'
 import drone_video from '../views/drone_video.vue'
 import Schoolastique from '../views/Schoolastique.vue'
 import mentions_legales from '../views/mentions-legales.vue'
+import match_UFC from '../views/match_UFC.vue'
 
 
 const router = createRouter({
@@ -18,6 +19,7 @@ const router = createRouter({
     { path: '/drone_video', name: 'drone_video', component: drone_video },
     { path: '/Schoolastique', name: 'Schoolastique', component: Schoolastique },
     { path: '/mentions_legales', name: 'mentions_legales', component: mentions_legales },
+    { path: '/match_UFC', name: 'match_UFC', component: match_UFC },
  
     // ici les autre routes
   ]
