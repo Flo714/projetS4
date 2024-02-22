@@ -103,7 +103,7 @@
     </div>
   </div>
     
-  <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
+  <div class="md:flex md:justify-center md:items-center md:gap-16 lg:mx-40 lg:my-20 ">
     <div class="z-20">
       <p class="my-4">Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui comment nous avons réaliser l'identité complète de "Meet My grill"</p>
     </div>
@@ -115,17 +115,17 @@
     </div>
   </div>
     
-  <div class="lg:w-2/3 lg:my-20 z-20">
+  <div class="lg:w-1/2 lg:my-20 z-20">
     <p>Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui invite nos clients à découvrir et à vivre l'expérience "Meet My Grill" de manière immersive et mémorable.</p>
   </div>
   <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md xl:max-w-lg" src="/public/images/menu2_mg.png" alt="Image du menu de Meet My Grill">
+        <img class="max-w-[250px]  lg:max-w-md xl:max-w-sm" src="/public/images/menu2_mg.png" alt="Image du menu de Meet My Grill">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/website_mg.png" alt="Image du site internet de Meet My Grill">
+        <img class="max-w-[250px] lg:max-w-md xl:max-w-sm" src="/public/images/website_mg.png" alt="Image du site internet de Meet My Grill">
       </div>
     </div>
   </div>
