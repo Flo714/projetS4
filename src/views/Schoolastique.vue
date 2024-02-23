@@ -99,16 +99,13 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-40">
       <div class="lg:mx-20 z-20">
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Aidealareussite.png" alt="Image du logo sur Illustrator">
+        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Schoolastique_logo_xs.png" alt="Image du logo petit format de Schoolastique">
       </div>
       <div class="lg:mx-20 z-20">
-        <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/harmonie_ar.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/Schoolastique_website2.png" alt="Autre image de présentation du site web de Schoolastique">
       </div>
       <div class="lg:mx-20 z-20"> 
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/connecter_ar.png" alt="Image d'exemple de la charte graphique">
-      </div>
-      <div class="lg:mx-20 z-20"> 
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/figma_ar.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Schoolastique_website3.png" alt="Autre image de présentation du site web de Schoolastique">
       </div>
     </div>
   </div>
