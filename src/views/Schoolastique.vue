@@ -88,10 +88,10 @@
   </div>
 <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
     <div class="z-20">
-      <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
+      <p class="my-4">J'ai conçu deux logos distincts pour répondre aux besoins variés de notre projet. Le premier logo est optimisé pour les grands formats, comme les présentations et les documents imprimés, assurant une visibilité maximale et une impression nette. Le second logo est spécialement adapté aux petits formats, tels que les profils de réseaux sociaux et les applications mobiles, garantissant une clarté et une lisibilité optimales, même à une petite échelle. Ces deux designs complémentaires assurent une cohérence visuelle sur toutes les plateformes, quel que soit le format d'affichage.</p>
     </div>
     <div class="my-10 z-20">
-        <img src="/public/images/Schoolastique_logo_xl.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image du logo grand format de Schoolastique">
+        <img src="/public/images/Schoolastique_logo_xl.png" class="mx-auto xl:mx-auto" alt="Image du logo grand format de Schoolastique">
       <p class="text-center mb-4 lg:-mt-12 italic">Logo grand format</p>
     </div>
   </div>
