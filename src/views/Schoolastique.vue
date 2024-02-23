@@ -72,8 +72,13 @@
         <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
       </div>
       <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
-  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un projet professionnel</h1>
-  <p class="opacity-80 text-sm lg:text-base">Aide à la réussite a pour but d'aider les étudiants à reussir leurs études. C'est une réalisation complète du site internet et de sa communication.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation du projet Schoolastique (éducatif)</h1>
+  <p class="opacity-80 text-sm lg:text-base">"Schoolastique" est un projet où j'ai collaboré avec 4 autres étudiants pour créer un site internet conseillant des produits aux étudiants. En utilisant des liens d'affiliation, les étudiants sont dirirger vers ces produits. Le site offrira des conseils sur une variété de produits allant des fournitures scolaires aux gadgets technologiques, tout en permettant aux étudiants de partager leurs expériences et recommandations.
+
+
+
+
+</p>
 
   <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 xl:my-20 z-20">
