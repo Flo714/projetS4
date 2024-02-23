@@ -79,7 +79,7 @@
     <div class="my-10 xl:my-20 z-20">
       <img class="w-[70%] mx-auto lg:max-w-[700px] rounded-md" src="/public/images/Schoolastique_website.png " alt="Image de présentation du site web de Schoolastique">
       <div class="flex justify-end my-4 mr-6 font-bold xl:mr-24">
-        <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="https://schoolastique.daboub.fr/" target="_blank">Voir plus</a>
+        <a class="hover_1 text-sm lg:text-lg xl:text-xl xl:mr-8" href="https://schoolastique.daboub.fr/" target="_blank">Voir plus</a>
       </div>
     </div>
     <p>Aide à la réussite etait le projet du semestre 3 du BUT MMI. Durant ce projet, mon groupe et moi avons réaliser la communication, le design et le developpement du projet en entier.
