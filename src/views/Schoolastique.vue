@@ -91,8 +91,8 @@
       <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
     </div>
     <div class="my-10 z-20">
-        <img src="/public/images/Drone_img.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
-      <p class="text-center mb-4 lg:-mt-12 italic">DJI Mini 3 Pro</p>
+        <img src="/public/images/Schoolastique_logo_xl.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image du logo grand format de Schoolastique">
+      <p class="text-center mb-4 lg:-mt-12 italic">Logo grand format</p>
     </div>
   </div>
   <div class="lg:my-40 mx-10 xl:mx-20 z-20">
