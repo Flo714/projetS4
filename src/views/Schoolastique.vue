@@ -92,7 +92,7 @@
     </div>
     <div class="my-10 z-20">
         <img src="/public/images/Schoolastique_logo_xl.png" class="mx-auto lg:max-w-[700px] xl:mx-auto" alt="Image du logo grand format de Schoolastique">
-      <p class="text-center mb-4 lg:-mt-12 italic">Logo grand format</p>
+      <p class="text-center mb-4 italic">Logo grand format</p>
     </div>
   </div>
   <div class="lg:my-40 mx-10 xl:mx-20 z-20">
