@@ -8,6 +8,7 @@ import Schoolastique from '../views/Schoolastique.vue'
 import mentions_legales from '../views/mentions-legales.vue'
 import match_UFC from '../views/match_UFC.vue'
 import Offf_2025 from '../views/Offf_2025.vue'
+import FCSM from '../views/FCSM.vue'
 
 
 const router = createRouter({
@@ -22,7 +23,8 @@ const router = createRouter({
     { path: '/mentions_legales', name: 'mentions_legales', component: mentions_legales },
     { path: '/match_UFC', name: 'match_UFC', component: match_UFC },
     { path: '/Offf_2025', name: 'Offf_2025', component: Offf_2025 },
-
+    { path: '/FCSM', name: 'FCSM', component: FCSM },
+    
     // ici les autre routes
   ]
 })
