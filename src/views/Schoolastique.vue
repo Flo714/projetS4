@@ -73,7 +73,7 @@
       </div>
       <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation du projet Schoolastique (éducatif)</h1>
-  <p class="opacity-80 text-sm lg:text-base">"Schoolastique" est un projet où j'ai collaboré avec 4 autres étudiants pour créer un site internet conseillant des produits aux étudiants. En utilisant des liens d'affiliation, les étudiants sont dirirger vers ces produits. Le site offrira des conseils sur une variété de produits allant des fournitures scolaires aux gadgets technologiques, tout en permettant aux étudiants de partager leurs expériences et recommandations.
+  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px] ">"Schoolastique" est un projet où j'ai collaboré avec 4 autres étudiants pour créer un site internet conseillant des produits aux étudiants. En utilisant des liens d'affiliation, les étudiants sont dirirger vers ces produits. Le site offrira des conseils sur une variété de produits allant des fournitures scolaires aux gadgets technologiques, tout en permettant aux étudiants de partager leurs expériences et recommandations.
 
 
 
