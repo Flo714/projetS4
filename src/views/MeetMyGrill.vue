@@ -116,7 +116,7 @@
   </div>
     
   <div class="lg:w-1/2 lg:my-20 lg:ml-24 z-20">
-    <p>Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui invite nos clients à découvrir et à vivre l'expérience "Meet My Grill" de manière immersive et mémorable.</p>
+    <p>Nous avons également pris en charge la création de la maquette de notre site internet pour "Meet My Grill", ainsi qu'un modèle de menu typique que vous pouvez voir ci-dessous. La maquette du site internet est conçue pour refléter notre identité visuelle dynamique, mettant en valeur nos spécialités de viande rouge et notre ambiance chaleureuse. Quant au menu type, il présente de manière attrayante nos plats signature, mettant en avant la qualité de nos grillades et de nos accompagnements savoureux. Ces outils visuels sont essentiels pour offrir une expérience en ligne immersive et informer nos clients sur ce que "Meet My Grill" a à offrir.</p>
   </div>
   <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
