@@ -71,7 +71,7 @@
       <div>
         <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
       </div>
-      <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
+      <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[20%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Création de l'identité graphique d'une rencontre université (projet éducatif)</h1>
   <p class="opacity-80 text-sm lg:text-base lg:mr-[400px]">Ce projet consiste à créer l'identité graphique d'un match de football opposant l'université de Franche-Comté, à l'université de Paris au stade Bonal. L'objectif est de réunir tous les étudiants autour de leur équipe pour renforcer la fierté universitaire et resserrer les liens avec l'établissement. L'événement sera plus qu'un simple match : il célèbre l'engagement académique envers notre université.</p>
 
