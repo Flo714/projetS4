@@ -92,7 +92,7 @@
       <p class="my-4">En plus de notre travail sur l'identité graphique du Festival OFFF, j'ai également créé une animation dynamique en utilisant After Effects. Cette animation captivante apporte une dimension supplémentaire à notre identité visuelle, ajoutant du mouvement et de la fluidité à notre concept en noir et blanc. Grâce à After Effects, j'ai pu donner vie à notre vision créative, renforçant ainsi l'impact visuel de notre projet pour le Festival OFFF.</p>
     </div>
     <div class="z-20">
-        <video controls src="/public/video/Anim_v2.mp4" class="w-[90%] mx-auto shadow shadow-white">La vidéo arrive, merci de patienté !</video>
+        <video controls src="/public/video/Anim_v2.mp4" class="w-[100%] mx-auto shadow shadow-white">La vidéo arrive, merci de patienté !</video>
     </div>
   </div>
   <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20 z-20">
