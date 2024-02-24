@@ -104,16 +104,10 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-40">
       <div class="lg:mx-20 z-20">
-        <img class=" w-[100%] max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/ecusson.png" alt="Image de l'ecusson de l'équipe">
+        <img class=" w-[100%] max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/Blender.png" alt="Image de l'interface Blender du projet">
       </div>
       <div class="lg:mx-20 z-20">
-        <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/t-shirt.jpg" alt="Image du t-shirt pour les fans">
-      </div>
-      <div class="lg:mx-20 z-20"> 
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Video_ecran_mock_up.gif" alt="Video de l'ecran du stade au couleurs de l'équipe">
-      </div>
-      <div class="lg:mx-20 z-20"> 
-        <img class="lg:max-w-md rounded-md" src="/public/images/Mock-up_stade.jpg" alt="Image du stade aux couleurs de l'équipe">
+        <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/Img_fcsm.png" alt="Image du logo du FCSM dans le rendu">
       </div>
     </div>
   </div>
