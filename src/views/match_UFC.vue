@@ -78,9 +78,7 @@
   <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 xl:my-20 z-20">
       <img class="w-[70%] mx-auto lg:max-w-[400px] rounded-md" src="/public/images/Affiche_officiel.jpg " alt="Image de présentation de l'affiche officiel du match">
-      <div class="flex justify-end my-4 mr-6 font-bold xl:mr-24">
-        <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
-      </div>
+        <p class="text-center mb-4 lg:-mt-12 italic">Affiche</p>
     </div>
     <p>J'ai pris en charge la création de tous les éléments graphiques avec une attention particulière. J'ai designé les affiches officielles et j'ai également exploré divers autres supports pour enrichir ma communication visuelle. Chaque détail a été pensé dans le but de transmettre le message de manière percutante. J'ai veillé à ce que chaque élément graphique soit en harmonie avec notre vision globale. Du choix des couleurs à la disposition des éléments visuels, j'ai travaillé méticuleusement pour créer une expérience visuelle qui attire et retient l'attention de notre public cible.</p>
   </div>
