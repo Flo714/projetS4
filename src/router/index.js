@@ -9,6 +9,7 @@ import mentions_legales from '../views/mentions-legales.vue'
 import match_UFC from '../views/match_UFC.vue'
 import Offf_2025 from '../views/Offf_2025.vue'
 import fcsm from '../views/fcsm.vue'
+import CDLR from '../views/CDLR.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -23,6 +24,7 @@ const router = createRouter({
     { path: '/match_UFC', name: 'match_UFC', component: match_UFC },
     { path: '/Offf_2025', name: 'Offf_2025', component: Offf_2025 },
     { path: '/fcsm', name: 'fcsm', component: fcsm },
+    { path: '/CDLR', name: 'CDLR', component: CDLR },
     
     // ici les autre routes
   ]
