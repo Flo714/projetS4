@@ -72,15 +72,15 @@
         <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
       </div>
       <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] w-[40%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
-  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Création de l'identité graphique d'une rencontre université (projet éducatif)</h1>
-  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px]">Ce projet consiste à créer l'identité graphique d'un match de football opposant l'université de Franche-Comté, à l'université de Paris au stade Bonal. L'objectif est de réunir tous les étudiants autour de leur équipe pour renforcer la fierté universitaire et resserrer les liens avec l'établissement. L'événement sera plus qu'un simple match : il célèbre l'engagement académique envers notre université.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Présentation en vidéo 3D du logo du FC Sochaux-Montbéliard</h1>
+  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px]">Plongez dans un monde visuel captivant où le logo du FCSM prend vie avec grâce et modernité. Cette expérience unique reflétera l'essence du club, mêlant tradition et innovation.</p>
 
   <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 z-20">
-      <img class="w-[70%] mx-auto lg:max-w-[400px] rounded-md" src="/public/images/Affiche_officiel.jpg " alt="Image de présentation de l'affiche officiel du match">
-        <p class="text-center mb-4 lg:-mt-12 italic">Affiche</p>
+        <video controls src="/public/images/Teaser_logo_FCSM_v2.mp4" class="w-[80%]">La vidéo arrive, merci de patienté !</video>
+        <p class="text-center mb-4 lg:-mt-12 italic">Vidéo</p>
     </div>
-    <p>J'ai pris en charge la création de tous les éléments graphiques avec une attention particulière. J'ai designé les affiches officielles et j'ai également exploré divers autres supports pour enrichir ma communication visuelle. Chaque détail a été pensé dans le but de transmettre le message de manière percutante. J'ai veillé à ce que chaque élément graphique soit en harmonie avec notre vision globale. Du choix des couleurs à la disposition des éléments visuels, j'ai travaillé méticuleusement pour créer une expérience visuelle qui attire et retient l'attention de notre public cible.</p>
+    <p>J'ai utilisé Blender pour créer cette vidéo 3D mettant en vedette le logo du FCSM. Blender est un logiciel puissant et polyvalent qui m'a permis de modéliser, d'animer et de rendre le logo de manière réaliste et captivante. Grâce à ses fonctionnalités avancées, j'ai pu donner vie au logo avec fluidité et dynamisme, tout en ajoutant des effets visuels pour renforcer son impact. Blender a été l'outil parfait pour donner vie à ma vision créative et offrir une expérience visuelle immersive aux spectateurs</p>
   </div>
             
 <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
