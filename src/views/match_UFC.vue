@@ -75,14 +75,14 @@
   <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Création de l'identité graphique d'une rencontre université (projet éducatif)</h1>
   <p class="opacity-80 text-sm lg:text-base lg:mr-[400px]">Ce projet consiste à créer l'identité graphique d'un match de football opposant l'université de Franche-Comté, à l'université de Paris au stade Bonal. L'objectif est de réunir tous les étudiants autour de leur équipe pour renforcer la fierté universitaire et resserrer les liens avec l'établissement. L'événement sera plus qu'un simple match : il célèbre l'engagement académique envers notre université.</p>
 
-<div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
-    <div class="z-20">
-      <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
+  <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
+    <div class="my-10 xl:my-20 z-20">
+      <img class="w-[70%] mx-auto lg:max-w-[400px] rounded-md" src="/public/images/Affiche_officiel.jpg " alt="Image de présentation de l'affiche officiel du match">
+      <div class="flex justify-end my-4 mr-6 font-bold xl:mr-24">
+        <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
+      </div>
     </div>
-    <div class="my-10 z-20">
-        <img src="/public/images/Maillot_avant_t.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du maillot">
-      <p class="text-center mb-4 lg:-mt-12 italic">Maillot Joueur</p>
-    </div>
+    <p>J'ai pris en charge la création de tous les éléments graphiques avec une attention particulière. J'ai designé les affiches officielles et j'ai également exploré divers autres supports pour enrichir ma communication visuelle. Chaque détail a été pensé dans le but de transmettre le message de manière percutante. J'ai veillé à ce que chaque élément graphique soit en harmonie avec notre vision globale. Du choix des couleurs à la disposition des éléments visuels, j'ai travaillé méticuleusement pour créer une expérience visuelle qui attire et retient l'attention de notre public cible.</p>
   </div>
   <div class="lg:flex lg:justify-center lg:items-center lg:gap-20 my-6 lg:my-20 xl:mx-28 ">
     <img class="w-[300px] mx-auto lg:w-[450px] xl:w-[700px] rounded-md z-20" src="/public/images/evolution_logo_ar.png" alt="Évolution du logo Aide à la réussite">
