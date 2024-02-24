@@ -82,6 +82,7 @@
     </div>
     <p>J'ai pris en charge la création de tous les éléments graphiques avec une attention particulière. J'ai designé les affiches officielles et j'ai également exploré divers autres supports pour enrichir ma communication visuelle. Chaque détail a été pensé dans le but de transmettre le message de manière percutante. J'ai veillé à ce que chaque élément graphique soit en harmonie avec notre vision globale. Du choix des couleurs à la disposition des éléments visuels, j'ai travaillé méticuleusement pour créer une expérience visuelle qui attire et retient l'attention de notre public cible.</p>
   </div>
+            
 <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
     <div class="z-20">
       <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
@@ -91,11 +92,19 @@
       <p class="text-center mb-4 lg:-mt-20 italic">Maillot</p>
     </div>
   </div>
+            
+  <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
+    <div class="my-10 z-20">
+      <img class="w-[70%] mx-auto lg:max-w-[400px] rounded-md" src="/public/images/Scoreboard.gif " alt="Video du scoreboard en live">
+        <p class="text-center mb-4 lg:-mt-12 italic">Scoreboard</p>
+    </div>
+    <p>J'ai créé plusieurs animations pour des éléments clés tels que le scoreboard et l'écran du stade, contribuant ainsi à l'expérience immersive et dynamique lors de  l'événements. Chaque animation a été soigneusement conçue pour correspondre au thème de l'événement et captiver l'attention du public tout en fournissant des informations pertinentes de manière claire et attrayante.</p>
+  </div>
   <div class="lg:my-40 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-40">
       <div class="lg:mx-20 z-20">
-        <img class="max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/ecusson.png" alt="Image de l'ecusson de l'équipe">
+        <img class=" w-[70%] max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/ecusson.png" alt="Image de l'ecusson de l'équipe">
       </div>
       <div class="lg:mx-20 z-20">
         <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/t-shirt.jpg" alt="Image du t-shirt pour les fans">
@@ -104,7 +113,7 @@
         <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Video_ecran_mock_up.gif" alt="Video de l'ecran du stade au couleurs de l'équipe">
       </div>
       <div class="lg:mx-20 z-20"> 
-        <img class="w-[70%]  lg:max-w-md rounded-md" src="/public/images/Mock-up_stade.jpg" alt="Image du stade aux couleurs de l'équipe">
+        <img class="lg:max-w-md rounded-md" src="/public/images/Mock-up_stade.jpg" alt="Image du stade aux couleurs de l'équipe">
       </div>
     </div>
   </div>
