@@ -78,7 +78,7 @@
   <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 z-20">
         <video controls src="/public/video/Teaser_logo_FCSM_v2.mp4" class="w-[50%] mx-auto shadow shadow-white">La vidéo arrive, merci de patienté !</video>
-        <p class="text-center mb-4 italic">Vidéo</p>
+        <p class="text-center mb-4 italic mt-4">Vidéo</p>
     </div>
     <p>J'ai utilisé Blender pour créer cette vidéo 3D mettant en vedette le logo du FCSM. Blender est un logiciel puissant et polyvalent qui m'a permis de modéliser, d'animer et de rendre le logo de manière réaliste et captivante. Grâce à ses fonctionnalités avancées, j'ai pu donner vie au logo avec fluidité et dynamisme, tout en ajoutant des effets visuels pour renforcer son impact. Blender a été l'outil parfait pour donner vie à ma vision créative et offrir une expérience visuelle immersive aux spectateurs</p>
   </div>
@@ -87,7 +87,7 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-40">
       <div class="lg:mx-20 z-20">
-        <img class=" w-[100%] max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/Blender.png" alt="Image de l'interface Blender du projet">
+        <img class=" w-[120%] max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/Blender.png" alt="Image de l'interface Blender du projet">
       </div>
       <div class="lg:mx-20 z-20">
         <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/Img_fcsm.png" alt="Image du logo du FCSM dans le rendu">
