@@ -77,7 +77,7 @@
 
   <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 z-20">
-        <video controls src="/public/video/Teaser_logo_FCSM_v2.mp4" class="w-[80%]">La vidéo arrive, merci de patienté !</video>
+        <video controls src="/public/video/Teaser_logo_FCSM_v2.mp4" class="w-[50%]">La vidéo arrive, merci de patienté !</video>
         <p class="text-center mb-4 lg:-mt-12 italic">Vidéo</p>
     </div>
     <p>J'ai utilisé Blender pour créer cette vidéo 3D mettant en vedette le logo du FCSM. Blender est un logiciel puissant et polyvalent qui m'a permis de modéliser, d'animer et de rendre le logo de manière réaliste et captivante. Grâce à ses fonctionnalités avancées, j'ai pu donner vie au logo avec fluidité et dynamisme, tout en ajoutant des effets visuels pour renforcer son impact. Blender a été l'outil parfait pour donner vie à ma vision créative et offrir une expérience visuelle immersive aux spectateurs</p>
