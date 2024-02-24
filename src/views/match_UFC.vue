@@ -95,7 +95,7 @@
             
   <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 z-20">
-        <video controls src="/public/images/Scoreboard.mp4">La vidéo arrive, merci de patienté !</video>
+        <video controls src="/public/images/Scoreboard.mp4" class="w-[80%]">La vidéo arrive, merci de patienté !</video>
         <p class="text-center mb-4 italic">Scoreboard</p>
     </div>
     <p>J'ai créé plusieurs animations pour des éléments clés tels que le scoreboard et l'écran du stade, contribuant ainsi à l'expérience immersive et dynamique lors de  l'événements. Chaque animation a été soigneusement conçue pour correspondre au thème de l'événement et captiver l'attention du public tout en fournissant des informations pertinentes de manière claire et attrayante.</p>
@@ -104,7 +104,7 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-40">
       <div class="lg:mx-20 z-20">
-        <img class=" w-[95%] max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/ecusson.png" alt="Image de l'ecusson de l'équipe">
+        <img class=" w-[100%] max-w-[150px]  lg:max-w-md rounded-md" src="/public/images/ecusson.png" alt="Image de l'ecusson de l'équipe">
       </div>
       <div class="lg:mx-20 z-20">
         <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/t-shirt.jpg" alt="Image du t-shirt pour les fans">
