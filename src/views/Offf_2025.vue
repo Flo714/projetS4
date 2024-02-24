@@ -73,59 +73,33 @@
     </div>
     <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
 
-  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation de l'identité graphique d'un restaurant (projet éducatif)</h1>
-  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px]">En collaboration avec trois camarades créatifs, j'ai eu le privilège de concevoir l'identité graphique d'un restaurant captivant. Notre équipe de quatre personnes a fusionné ses compétences en design pour donner vie à une vision commune, mêlant art culinaire et esthétique visuelle. Ensemble, nous avons exploré chaque élément, des logos aux menus en passant par le site internet, afin de capturer l'essence unique du restaurant et de créer une expérience visuelle cohérente et mémorable pour les clients. Cette collaboration dynamique a permis de combiner nos idées créatives individuelles pour aboutir à une identité graphique qui reflète parfaitement l'atmosphère et le style distinctifs de l'établissement.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'une nouvelle identité pour le festival OFFF 2025 (projet éducatif)</h1>
+  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px]">Le Festival OFFF est un événement annuel dédié à la créativité numérique, au design, à l'art et à la culture visuelle. Lancé en 2001 à Barcelone, en Espagne, par Héctor Ayuso, le Festival OFFF est devenu un rendez-vous incontournable pour les professionnels de l'industrie créative et les passionnés du monde entier. Il propose une série de conférences, d'ateliers, d'expositions et de projections de films qui mettent en lumière les dernières tendances et les talents émergents dans le domaine de la création numérique. Le Festival OFFF offre également une plateforme unique pour le networking et l'échange d'idées entre les participants.</p>
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 lg:ml-20 lg:my-20">
     <div class="my-10 z-20">
-      <img class="max-w-[120px] lg:max-w-md" src="/public/images/Logo_mg.png" alt="Image du Logo de Meet My Grill">
-      <p class="text-center my-4 italic">Logo de Meet My Grill</p>
+      <img class="max-w-[120px] lg:max-w-md" src="/public/images/guide_style_offf.png" alt="Image du du guide de style de l'identité">
+      <p class="text-center my-4 italic">Guide de style</p>
     </div>
 
     <div class="z-20">
         <h2 class="font-bold text-lg lg:text-xl">Explication de l'identité graphique</h2>
-      <p class="my-4">"Meet My Grill" incarne une véritable passion pour la viande rouge et le feu. L'identité graphique est une célébration de la flamboyance et de la qualité de la viande de bœuf. Le logo évoque l'énergie ardente et l'expertise culinaire qui animent notre établissement. Les nuances riches de orange rappellent la tendreté et la saveur incomparables de la nouriture. Chaque élément visuel, des menus aux enseignes, évoque l'atmosphère chaleureuse et l'excellence gastronomique de Meet My Grill. L'identité est un hommage vibrant à l'art de griller la viande et à la passion pour les saveurs authentiques du bœuf.</p>
-    </div>
-  </div>
-    
-  <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 z-20">
-    <div class="my-10 z-20">
-      <div class="lg:mx-20 z-20">
-        <img class="max-w-[120px] lg:max-w-xs" src="/public/images/Affiche_mg.png" alt="Image de l'affiche de Meet My Grill">
-      </div>
-      <p class="text-center italic my-4">Affiche</p>
-    </div>
-    <div class="my-10 z-20">
-      <div class="lg:mx-20 z-20">
-        <img class="max-w-[120px] lg:max-w-xs" src="/public/images/menu1_mg.png" alt="Image de présentation du menu">
-      </div>
-      <p class="text-center italic my-4">Menu de présentation</p>
-    </div>
+      <p class="my-4">En équipe de trois, nous avons créé l'identité graphique du Festival OFFF en noir et blanc, adoptant un style moderne. Notre approche minimaliste met en avant l'élégance et la modernité, captant l'essence de la créativité contemporaine. Chaque élément visuel a été soigneusement conçu pour refléter l'énergie et l'innovation du festival tout en conservant une esthétique intemporelle.</p></div>
   </div>
     
   <div class="md:flex md:justify-center md:items-center md:gap-16 lg:mx-40 lg:my-20 ">
     <div class="z-20">
-      <p class="my-4">Nous avons créé une variété de supports de communication pour "Meet My Grill", notamment un dossier de communication soigneusement conçu. Ce dossier capture l'essence de notre identité centrée sur la viande rouge et le feu, avec des images vibrantes et une présentation claire de notre offre culinaire, notre menu et nos services. C'est un outil essentiel qui comment nous avons réaliser l'identité complète de "Meet My grill"</p>
+      <p class="my-4"En plus de notre travail sur l'identité graphique du Festival OFFF, j'ai également créé une animation dynamique en utilisant After Effects. Cette animation captivante apporte une dimension supplémentaire à notre identité visuelle, ajoutant du mouvement et de la fluidité à notre concept en noir et blanc. Grâce à After Effects, j'ai pu donner vie à notre vision créative, renforçant ainsi l'impact visuel de notre projet pour le Festival OFFF.</p>
     </div>
     <div class="z-20">
-      <img src="/public/images/img_com_mg.png" class="w-[90%] mx-auto shadow-white shadow" alt="Image de présentation du dossier de communication de Meet My Grill">
-      <div class="flex justify-end my-4 mr-10 font-bold xl:justify-end xl:my-4">
-        <a class="hover_1 text-sm lg:text-lg italic" href="Dossier_com_mg.pdf" target="_blank">Télécharger</a>
-      </div>
+        <video controls src="/public/video/Anim_v2.mp4" class="w-[50%] mx-auto shadow shadow-white">La vidéo arrive, merci de patienté !</video>
     </div>
-  </div>
-    
-  <div class="lg:w-1/2 lg:my-20 lg:ml-24 z-20">
-    <p>Nous avons également pris en charge la création de la maquette de notre site internet pour "Meet My Grill", ainsi qu'un modèle de menu typique que vous pouvez voir ci-dessous. La maquette du site internet est conçue pour refléter notre identité visuelle dynamique, mettant en valeur nos spécialités de viande rouge et notre ambiance chaleureuse. Quant au menu type, il présente de manière attrayante nos plats signature, mettant en avant la qualité de nos grillades et de nos accompagnements savoureux. Ces outils visuels sont essentiels pour offrir une expérience en ligne immersive et informer nos clients sur ce que "Meet My Grill" a à offrir.</p>
   </div>
   <div class="lg:mb-40 lg:mt-20 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl my-10 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-20">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-sm" src="/public/images/menu2_mg.png" alt="Image du menu de Meet My Grill">
-      </div>
-      <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md xl:max-w-lg" src="/public/images/website_mg.png" alt="Image du site internet de Meet My Grill">
+        <img class="max-w-[250px] lg:max-w-sm shadow shadow-white" src="/public/images/maquette_offf.png" alt="Image de la maquette du offf">
       </div>
     </div>
   </div>
