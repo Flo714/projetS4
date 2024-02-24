@@ -104,7 +104,7 @@
         <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Video_ecran_mock_up.gif" alt="Video de l'ecran du stade au couleurs de l'équipe">
       </div>
       <div class="lg:mx-20 z-20"> 
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Mock-up_stade.jpg" alt="Image du stade aux couleurs de l'équipe">
+        <img class="w-[70%]  lg:max-w-md rounded-md" src="/public/images/Mock-up_stade.jpg" alt="Image du stade aux couleurs de l'équipe">
       </div>
     </div>
   </div>
