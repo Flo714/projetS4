@@ -95,7 +95,7 @@
             
   <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 z-20">
-      <img class="w-[70%] mx-auto lg:max-w-[400px] rounded-md" src="/public/images/Scoreboard.gif " alt="Video du scoreboard en live">
+        <video controls src="/public/images/Scoreboard.mp4">La vidéo arrive, merci de patienté !</video>
         <p class="text-center mb-4 italic">Scoreboard</p>
     </div>
     <p>J'ai créé plusieurs animations pour des éléments clés tels que le scoreboard et l'écran du stade, contribuant ainsi à l'expérience immersive et dynamique lors de  l'événements. Chaque animation a été soigneusement conçue pour correspondre au thème de l'événement et captiver l'attention du public tout en fournissant des informations pertinentes de manière claire et attrayante.</p>
