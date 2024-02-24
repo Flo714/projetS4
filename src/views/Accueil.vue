@@ -149,7 +149,7 @@
             </div>
           </div>
         </RouterLink>
-        <RouterLink class="card" to="/Offf_2025.vue">
+        <RouterLink class="card" to="/Offf_2025">
           <img class="object-cover" src="/public/images/Offf_2025.png" alt="Image de présentation du match UFC">
           <div class="info">
             <h3 class="text-xl text-center font-bold">Recommendation Créative OFFF 2025</h3>
@@ -159,7 +159,7 @@
           </div>
         </RouterLink>
 
-        <RouterLink class="card" to="/fcsm.vue">
+        <RouterLink class="card" to="/fcsm">
           <img class="object-cover" src="/public/images/FCSM.png" alt="Image de présentation du projet sur le FCSM">
           <div class="info">
             <h3 class="text-xl text-center font-bold">Présentation FCSM 3D</h3>
