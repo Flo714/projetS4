@@ -77,7 +77,7 @@
 
   <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 xl:my-20 z-20">
-      <img class="w-[70%] mx-auto lg:max-w-[700px] rounded-md" src="/public/images/Affiche_UFC.png " alt="Image de présentation du site web d'Aide à la reussite">
+      <img class="w-[70%] mx-auto lg:max-w-[700px] rounded-md" src="/public/images/Affiche_officiel.png " alt="Image de présentation du site web d'Aide à la reussite">
       <div class="flex justify-end my-4 mr-6 font-bold xl:mr-24">
         <a class="hover_1 text-sm lg:text-lg xl:text-xl" href="https://aidealareussite.fr/" target="_blank">Voir plus</a>
       </div>
