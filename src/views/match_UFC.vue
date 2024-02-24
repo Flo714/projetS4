@@ -82,9 +82,14 @@
     </div>
     <p>J'ai pris en charge la création de tous les éléments graphiques avec une attention particulière. J'ai designé les affiches officielles et j'ai également exploré divers autres supports pour enrichir ma communication visuelle. Chaque détail a été pensé dans le but de transmettre le message de manière percutante. J'ai veillé à ce que chaque élément graphique soit en harmonie avec notre vision globale. Du choix des couleurs à la disposition des éléments visuels, j'ai travaillé méticuleusement pour créer une expérience visuelle qui attire et retient l'attention de notre public cible.</p>
   </div>
-  <div class="lg:flex lg:justify-center lg:items-center lg:gap-20 my-6 lg:my-20 xl:mx-28 ">
-    <img class="w-[300px] mx-auto lg:w-[450px] xl:w-[700px] rounded-md z-20" src="/public/images/evolution_logo_ar.png" alt="Évolution du logo Aide à la réussite">
-    <p class="my-4">La phase de recherche du logo a pris beaucoup de temps. Travailler les 1ers logo est essentiel pour arriver à un résultat travaillé.</p>
+<div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
+    <div class="z-20">
+      <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
+    </div>
+    <div class="my-10 z-20">
+      <img src="/public/images/Mailot_avant_png.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du maillot">
+      <p class="text-center mb-4 lg:-mt-12 italic">Maillot</p>
+    </div>
   </div>
   <div class="lg:my-40 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
