@@ -159,7 +159,7 @@
           </div>
         </RouterLink>
 
-        <RouterLink class="card" to="/FCSM.vue">
+        <RouterLink class="card" to="/fcsm.vue">
           <img class="object-cover" src="/public/images/FCSM.png" alt="Image de présentation du projet sur le FCSM">
           <div class="info">
             <h3 class="text-xl text-center font-bold">Présentation FCSM 3D</h3>
