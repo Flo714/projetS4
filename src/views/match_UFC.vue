@@ -88,23 +88,23 @@
     </div>
     <div class="my-10 z-20">
       <img src="/public/images/Maillot_trans.png" class="w-[80%] mx-auto xl:mx-auto" alt="Image de présentation du maillot">
-      <p class="text-center mb-4 lg:-mt-12 italic">Maillot</p>
+      <p class="text-center mb-4 lg:-mt-20 italic">Maillot</p>
     </div>
   </div>
   <div class="lg:my-40 mx-10 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-40">
       <div class="lg:mx-20 z-20">
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Aidealareussite.png" alt="Image du logo sur Illustrator">
+        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/ecusson.png" alt="Image de l'ecusson de l'équipe">
       </div>
       <div class="lg:mx-20 z-20">
-        <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/harmonie_ar.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px] lg:max-w-xs rounded-md" src="/public/images/t-shirt.jpg" alt="Image du t-shirt pour les fans">
       </div>
       <div class="lg:mx-20 z-20"> 
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/connecter_ar.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Video_ecran_mock_up.gif" alt="Video de l'ecran du stade au couleurs de l'équipe">
       </div>
       <div class="lg:mx-20 z-20"> 
-        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/figma_ar.png" alt="Image d'exemple de la charte graphique">
+        <img class="max-w-[250px]  lg:max-w-md rounded-md" src="/public/images/Mock-up_stade.jpg" alt="Image du stade aux couleurs de l'équipe">
       </div>
     </div>
   </div>
