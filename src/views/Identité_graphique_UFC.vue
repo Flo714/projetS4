@@ -96,7 +96,6 @@
        <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
         <a class="hover_1 text-sm lg:text-lg italic" href="https://zeroheight.com/2fee06df4/p/74b99f-il-etait-une-fois">Voir Plus</a>
       </div>
-      <p class="text-center mb-4 lg:-mt-20 italic">Design Systeme</p>
     </div>
   </div>
             
