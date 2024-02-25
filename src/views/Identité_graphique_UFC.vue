@@ -92,15 +92,18 @@
       <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
     </div>
     <div class="my-10 z-20">
-      <img src="/public/images/Maillot_trans.png" class="w-[80%] mx-auto xl:mx-auto" alt="Image de présentation du maillot">
-      <p class="text-center mb-4 lg:-mt-20 italic">Maillot</p>
+      <img src="/public/images/evolution.png" class="w-[80%] mx-auto xl:mx-auto" alt="Image de présentation du design systeme">
+       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
+        <a class="hover_1 text-sm lg:text-lg italic" href="https://zeroheight.com/2fee06df4/p/74b99f-il-etait-une-fois">Voir Plus</a>
+      </div>
+      <p class="text-center mb-4 lg:-mt-20 italic">Design Systeme</p>
     </div>
   </div>
             
   <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 z-20">
         <video controls src="/public/video/Video_v4.mp4" class="w-[80%]">La vidéo arrive, merci de patienté !</video>
-        <p class="text-center mb-4 italic mr-20">Animation</p>
+        <p class="text-center mb-4 italic mr-32">Animation</p>
     </div>
     <p>J'ai conçu une animation en noir et blanc qui incarne la simplicité et la modernité de mon identité. À travers des motifs épurées et un contraste saisissant,  l'animation capture l'essence même de mon identité. Chaque mouvement, chaque forme, chaque ombre raconte une histoire de manière concise et captivante, invitant les spectateurs à observer l'animation</p>
   </div>
