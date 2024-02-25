@@ -83,8 +83,8 @@
     </div>
 
     <div class="z-20">
-        <h2 class="font-bold text-lg lg:text-xl">Technique de tournage</h2>
-      <p class="my-4">Pour mon mini-film en drone, j'ai d'abord planifié minutieusement mes prises de vue en repérant les points clés sur la carte. Une fois sur place, j'ai préparé mon équipement, vérifié les conditions météo, et utilisé des techniques variées de vol pour capturer des images dynamiques. En ajustant l'altitude et en filmant aux heures dorées, j'ai réussi à créer un récit visuel immersif mettant en valeur la beauté naturelle de la campagne, tout en respectant les règles de sécurité.</p>
+        <h2 class="font-bold text-lg lg:text-xl">Explications</h2>
+      <p class="my-4">"Végétale Vallée" est l'un des spectacles du festival, offrant une expérience immersive au public pendant plusieurs mois. Avec sa durée prolongée, il fallait donc créer des flyers pour chaque événement afin d'informer et d'attirer les spectateurs tout au long de cette période exceptionnelle. Ces flyers ont été conçus avec par moi-même pour refléter l'essence unique de chaque performance, captivant l'attention du public et les incitant à découvrir cette aventure végétale. En concevant ces supports de communication, j'ai contribué à faire de "Végétale Vallée" une expérience inoubliable et à en assurer le succès continu tout au long du spectacle.</p>
     </div>
   </div>
 <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
