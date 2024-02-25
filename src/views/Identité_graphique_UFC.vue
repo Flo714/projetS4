@@ -99,10 +99,10 @@
             
   <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="my-10 z-20">
-        <video controls src="/public/images/Scoreboard.mp4" class="w-[80%]">La vidéo arrive, merci de patienté !</video>
-        <p class="text-center mb-4 italic mr-20">Scoreboard</p>
+        <video controls src="/public/video/Video_v4.mp4" class="w-[80%]">La vidéo arrive, merci de patienté !</video>
+        <p class="text-center mb-4 italic mr-20">Animation</p>
     </div>
-    <p>J'ai créé plusieurs animations pour des éléments clés tels que le scoreboard et l'écran du stade, contribuant ainsi à l'expérience immersive et dynamique lors de  l'événements. Chaque animation a été soigneusement conçue pour correspondre au thème de l'événement et captiver l'attention du public tout en fournissant des informations pertinentes de manière claire et attrayante.</p>
+    <p>J'ai conçu une animation en noir et blanc qui incarne la simplicité et la modernité de mon identité. À travers des motifs épurées et un contraste saisissant,  l'animation capture l'essence même de mon identité. Chaque mouvement, chaque forme, chaque ombre raconte une histoire de manière concise et captivante, invitant les spectateurs à observer l'animation</p>
   </div>
 
   <div class="lg:my-40 mx-28 xl:mx-20 z-20">
