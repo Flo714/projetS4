@@ -89,7 +89,7 @@
 
     <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
     <div class="z-20">
-      <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
+      <p class="my-4">J'ai conçu un système de design pour l'identité visuelle de l'Université de Franche-Comté, en créant des éléments visuels tels que des logos et des palettes de couleurs, et en les documentant dans un guide de style. Ce système assure une cohérence visuelle sur tous les supports de communication et a été mis en œuvre avec succès après une formation du personnel.</p>
     </div>
     <div class="my-10 z-20">
       <img src="/public/images/evolution.png" class="w-[80%] mx-auto xl:mx-auto" alt="Image de présentation du design systeme">
