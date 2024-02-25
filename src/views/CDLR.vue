@@ -72,8 +72,8 @@
     <img class="w-80 top-0 right-0 absolute z-10 " src="/public/images/Ellipse.png" alt="">
   </div>
   <img class="fixed flex items-center justify-center opacity-20 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
-  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation d'un Mini-Film drone</h1>
-  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px] ml-6">J'ai récemment entrepris un projet captivant : la réalisation d'un Mini-Film à partir de vidéos prises avec un drone. Ce périple a été à la fois passionnant et stimulant. Chaque vol du drone a offert une perspective unique, capturant des paysages à couper le souffle et des moments éphémères avec une clarté saisissante. Parcourant des lieux pittoresques et explorant des angles inédits, j'ai créé un montage visuel qui raconte une histoire immersive. Le processus de création m'a permis de fusionner ma passion pour la vidéographie avec l'exploration aérienne, donnant vie à un Mini-Film qui incarne l'émerveillement et l'aventure.</p>
+  <h1 class="font-bold text-lg mt-10 mb-5 lg:text-2xl">Réalisation de support de communication pour le festival "Chalon dans la rue"</h1>
+  <p class="opacity-80 text-sm lg:text-base lg:mr-[400px] ml-6">Pendant mon stage à Chalon dans la Rue en 2023, j'ai créé des affiches et des flyers pour promouvoir le festival. Ces supports ont été essentiels pour capturer l'énergie du festival et diffuser des informations claires sur les événements. Cette expérience m'a permis de développer mes compétences en design graphique tout en contribuant à la vitalité culturelle de Chalon dans la Rue.</p>
 
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 lg:ml-20 ">
