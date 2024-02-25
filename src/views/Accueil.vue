@@ -104,7 +104,7 @@
             </div>
           </div>
         </RouterLink>
-        <RouterLink class="card" to="/Charte_graphique_UFC">
+        <RouterLink class="card" to="/Identité_graphique_UFC">
               <img class="" src="/public/images/Charte_UFC.png" alt="Image de présentation de la charte graphique de l'université de Franche Comté">
               <div class="info">
                 <h3 class="text-xl font-bold">Identité visuelle UFC</h3>
