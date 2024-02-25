@@ -78,8 +78,8 @@
 
   <div class="md:flex md:justify-center md:items-center md:gap-20 xl:gap-56 lg:ml-20 ">
     <div class="my-10 z-20">
-      <img src="/public/images/Drone_img.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
-      <p class="text-center my-4 italic">Mini-Film drone</p>
+      <img src="/public/images/Affiche_v2.jpg" class="w-[70%] mx-auto xl:mx-auto" alt="Image de l'affiche de Végétale Vallée">
+      <p class="text-center my-4 italic">Affiche</p>
     </div>
 
     <div class="z-20">
