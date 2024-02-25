@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import AccueilView from '../views/Accueil.vue'
 import Logo_Florentin_Demortiere from '../views/Logo_Florentin_Demortiere.vue'
-import Charte_graphique_UFC from '../views/Charte_graphique_UFC.vue'
+import Charte_graphique_UFC from '../views/Identité_graphique_UFC.vue'
 import MeetMyGrill from '../views/MeetMyGrill.vue'
 import drone_video from '../views/drone_video.vue'
 import Schoolastique from '../views/Schoolastique.vue'
