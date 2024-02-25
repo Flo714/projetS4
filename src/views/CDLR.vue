@@ -100,13 +100,13 @@
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 ">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md"  src="/public/images/Flyer_recto_fleur.jpg" alt="Image d'un flyer">
+        <img class="max-w-[200px]  lg:max-w-md"  src="/public/images/Flyer_recto_fleur.jpg" alt="Image d'un flyer">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md" src="/public/images/vegetoradicaux.jpg" alt="Image d'un flyer">
+        <img class="max-w-[200px] lg:max-w-md" src="/public/images/vegetoradicaux.jpg" alt="Image d'un flyer">
       </div>
        <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md" src="/public/images/vegetosceptique.jpg" alt="Image d'un flyer">
+        <img class="max-w-[200px] lg:max-w-md" src="/public/images/vegetosceptique.jpg" alt="Image d'un flyer">
       </div>
     </div>
   </div>
