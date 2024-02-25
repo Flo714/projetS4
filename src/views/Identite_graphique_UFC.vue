@@ -93,7 +93,7 @@
     </div>
     <div class="my-10 z-20">
       <img src="/public/images/evolution.png" class="w-[80%] mx-auto xl:mx-auto" alt="Image de présentation du design systeme">
-       <div class="flex justify-end my-4 mr-10 xl:mr-36 font-bold xl:justify-end xl:my-4">
+      <div class="flex justify-end my-4 mr-10 xl:mr-12 font-bold xl:justify-end xl:my-4">
         <a class="hover_1 text-sm lg:text-lg italic" href="https://zeroheight.com/2fee06df4/p/74b99f-il-etait-une-fois">Voir Plus</a>
       </div>
     </div>
