@@ -89,21 +89,24 @@
   </div>
 <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
     <div class="z-20">
-      <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
+      <p class="my-4">En tant qu'infographiste lors de mon stage à Chalon dans la Rue en 2023, j'ai eu l'opportunité de concevoir plusieurs affiches, flyers et autres supports de communication. Mon rôle consistait à donner vie visuellement aux concepts et aux idées afin de promouvoir efficacement les événements du festival. À travers ces différents supports, j'ai cherché à captiver l'attention du public et à transmettre l'essence dynamique et créative de Chalon dans la Rue. Ma contribution en tant qu'infographiste a été essentielle pour véhiculer avec succès l'esprit et l'énergie du festival à travers divers médias visuels.</p>
     </div>
     <div class="my-10 z-20">
-        <img src="/public/images/Drone_img.png" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
-      <p class="text-center mb-4 lg:-mt-12 italic">DJI Mini 3 Pro</p>
+        <img src="/public/images/Flyer_recto_graph.jpg" class="w-[70%] mx-auto xl:mx-auto" alt="Image de présentation du drone DJI mini 3 Pro">
+      <p class="text-center mb-4 lg:-mt-12 italic">Flyer pour un évenement</p>
     </div>
   </div>
   <div class="lg:my-40 mx-16 ">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 ">
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px]  lg:max-w-md"  src="/public/images/Img_drone1.png" alt="Image de la video 1">
+        <img class="max-w-[250px]  lg:max-w-md"  src="/public/images/Flyer_recto_fleur.jpg" alt="Image d'un flyer">
       </div>
       <div class="lg:mx-10 z-20">
-        <img class="max-w-[250px] lg:max-w-md" src="/public/images/Img_drone2.png" alt="Image de la video 2">
+        <img class="max-w-[250px] lg:max-w-md" src="/public/images/vegetoradicaux.jpg" alt="Image d'un flyer">
+      </div>
+       <div class="lg:mx-10 z-20">
+        <img class="max-w-[250px] lg:max-w-md" src="/public/images/vegetosceptique.jpg" alt="Image d'un flyer">
       </div>
     </div>
   </div>
