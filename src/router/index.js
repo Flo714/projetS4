@@ -16,7 +16,7 @@ const router = createRouter({
   routes: [
     { path: '/', name: 'AccueilView', component: AccueilView },
     { path: '/Logo_Florentin_Demortiere', name: 'Logo_Florentin_Demortiere', component: Logo_Florentin_Demortiere },
-    { path: '/Charte_graphique_UFC', name: 'Charte_graphique_UFC', component: Charte_graphique_UFC },
+    { path: '/Identité_graphique_UFC', name: 'Charte_graphique_UFC', component: Charte_graphique_UFC },
     { path: '/MeetMyGrill', name: 'MeetMyGrill', component: MeetMyGrill },
     { path: '/drone_video', name: 'drone_video', component: drone_video },
     { path: '/Schoolastique', name: 'Schoolastique', component: Schoolastique },
