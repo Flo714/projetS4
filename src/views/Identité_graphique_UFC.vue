@@ -73,9 +73,9 @@
     </div>
     <img class="fixed flex items-center justify-center opacity-10 ml-16 mt-20 xl:-mt-10 xl:ml-[350px] xl:w-[50%] w-[60%] z-10 sm:ml-28 md:ml-36 lg:ml-48" src="/public/images/Logo_portefolio.png" alt="Logo">
 
-  <h1 class="font-bold text-lg xl:text-2xl mt-10 mb-5">Réalisation de la charte graphique de l'université de Franche-Comté (projet éducatif)</h1>
+  <h1 class="font-bold text-lg xl:text-2xl mt-10 mb-5">Réalisation de l'identité graphique de l'université de Franche-Comté (projet éducatif)</h1>
 
-  <p class="opacity-80 text-sm lg:mr-[400px] ml-6">Ce projet fictif vise à créer la charte graphique de l'université de Franche-Comté. L'objectif est de concevoir un ensemble de directives visuelles claires et attrayantes qui reflètent l'identité et les valeurs de cette institution d'enseignement supérieur renommée. À travers ce processus, je cherche à unifier et à renforcer son image de marque tout en offrant une expérience visuelle cohérente à ses étudiants, son personnel et ses partenaires</p>
+  <p class="opacity-80 text-sm lg:mr-[400px] ml-6">Ce projet fictif vise à créer l'identité graphique de l'université de Franche-Comté. L'objectif est de concevoir un ensemble de directives visuelles claires et attrayantes qui reflètent l'identité et les valeurs de cette institution d'enseignement supérieur renommée. À travers ce processus, je cherche à unifier et à renforcer son image de marque tout en offrant une expérience visuelle cohérente à ses étudiants, son personnel et ses partenaires</p>
 
   <div class="my-10 xl:my-20 xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
     <div class="z-20">
