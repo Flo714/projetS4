@@ -91,9 +91,9 @@
     <div class="z-20">
       <p class="my-4">En tant qu'infographiste lors de mon stage à Chalon dans la Rue en 2023, j'ai eu l'opportunité de concevoir plusieurs affiches, flyers et autres supports de communication. Mon rôle consistait à donner vie visuellement aux concepts et aux idées afin de promouvoir efficacement les événements du festival. À travers ces différents supports, j'ai cherché à captiver l'attention du public et à transmettre l'essence dynamique et créative de Chalon dans la Rue. Ma contribution en tant qu'infographiste a été essentielle pour véhiculer avec succès l'esprit et l'énergie du festival à travers divers médias visuels.</p>
     </div>
-    <div class="my-10 z-20">
+    <div class="my-10 z-20 mr-20">
         <img src="/public/images/Flyer_recto_graph.jpg" class="w-[100%] mx-auto xl:mx-auto" alt="Image de présentation d'un flyer">
-      <p class="text-center mb-4 lg:-mt-12 italic">Flyer pour un évenement</p>
+      <p class="text-center mb-4 italic">Flyer pour un évenement</p>
     </div>
   </div>
   <div class="lg:my-40 mx-16 ">
