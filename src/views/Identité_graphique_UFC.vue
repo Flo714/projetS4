@@ -87,6 +87,24 @@
       <p class="md:mx-10 xl:mr-40">Pour créer la charte graphique de l'université de Franche-Comté avec InDesign, j'ai débuté par une recherche approfondie sur son identité et ses valeurs. Ensuite, j'ai élaboré une palette de couleurs et sélectionné des typographies adaptées. J'ai créé des motifs et des illustrations uniques, puis conçu des modèles de documents flexibles. Enfin, j'ai documenté l'ensemble des directives dans un guide de style détaillé pour assurer la cohérence visuelle.</p>
   </div>
 
+    <div class="md:flex md:justify-center md:items-center md:gap-20 lg:ml-20 ">
+    <div class="z-20">
+      <p class="my-4">Toutes les images ont été capturées avec le drone DJI Mini 3 Pro, un équipement de qualité qui m'a permis d'obtenir des prises de vue remarquables pour mon mini-film en campagne. Grâce à ses fonctionnalités avancées et sa portabilité, j'ai pu réaliser des séquences aériennes captivantes tout en conservant une grande facilité d'utilisation sur le terrain.</p>
+    </div>
+    <div class="my-10 z-20">
+      <img src="/public/images/Maillot_trans.png" class="w-[80%] mx-auto xl:mx-auto" alt="Image de présentation du maillot">
+      <p class="text-center mb-4 lg:-mt-20 italic">Maillot</p>
+    </div>
+  </div>
+            
+  <div class="xl:grid xl:grid-cols-2 xl:items-center xl:justify-center z-20">
+    <div class="my-10 z-20">
+        <video controls src="/public/images/Scoreboard.mp4" class="w-[80%]">La vidéo arrive, merci de patienté !</video>
+        <p class="text-center mb-4 italic mr-20">Scoreboard</p>
+    </div>
+    <p>J'ai créé plusieurs animations pour des éléments clés tels que le scoreboard et l'écran du stade, contribuant ainsi à l'expérience immersive et dynamique lors de  l'événements. Chaque animation a été soigneusement conçue pour correspondre au thème de l'événement et captiver l'attention du public tout en fournissant des informations pertinentes de manière claire et attrayante.</p>
+  </div>
+
   <div class="lg:my-40 mx-28 xl:mx-20 z-20">
     <h2 class="font-bold text-lg lg:text-4xl mt-10 mb-20 mx-10 ">Galerie Photo</h2>
     <div class="grid grid-flow-row-dense grid-cols-[repeat(auto-fit,minmax(280px,1fr))] justify-items-center items-center gap-10 lg:gap-36 xl:gap-64 ">
